@@ -1,0 +1,3794 @@
+plot,genus,species,common name,count
+p00-1,Acer,pensylvanicum,"Maple, striped",28
+p00-1,Acer,rubrum,"Maple, red",8
+p00-1,Acer,saccharum,"Maple, sugar",12
+p00-1,Amelanchier,canadensis,Shadbush,17
+p00-1,Betula,alleghaniensis,"Birch, yellow",7
+p00-1,Betula,papyrifera,"Birch, paper",5
+p00-1,Fagus,grandifolia,"Beech, American",142
+p00-1,Ostrya,virginiana,Hophornbeam,7
+p00-1,Prunus,serotina,"Cherry, black",11
+p00-1,Quercus,rubra,"Oak, red",6
+p00-2,Acer,pensylvanicum,"Maple, striped",43
+p00-2,Acer,rubrum,"Maple, red",2
+p00-2,Acer,saccharum,"Maple, sugar",14
+p00-2,Fagus,grandifolia,"Beech, American",290
+p00-2,Ostrya,virginiana,Hophornbeam,20
+p00-2,Prunus,serotina,"Cherry, black",2
+p00-2,Quercus,rubra,"Oak, red",8
+p0000,Acer,rubrum,"Maple, red",13
+p0000,Acer,saccharum,"Maple, sugar",4
+p0000,Amelanchier,canadensis,Shadbush,24
+p0000,Betula,alleghaniensis,"Birch, yellow",4
+p0000,Fagus,grandifolia,"Beech, American",535
+p0000,Hamamelis,virginiana,Witch-hazel,15
+p0000,Quercus,rubra,"Oak, red",7
+p0001,Acer,pensylvanicum,"Maple, striped",11
+p0001,Acer,rubrum,"Maple, red",20
+p0001,Acer,spicatum,"Maple, mountain",3
+p0001,Amelanchier,canadensis,Shadbush,24
+p0001,Betula,alleghaniensis,"Birch, yellow",9
+p0001,Betula,lenta,"Birch, black",25
+p0001,Betula,papyrifera,"Birch, paper",3
+p0001,Fagus,grandifolia,"Beech, American",322
+p0001,Hamamelis,virginiana,Witch-hazel,53
+p0001,Ostrya,virginiana,Hophornbeam,10
+p0001,Quercus,rubra,"Oak, red",15
+p0001,Rhododendron,prinophyllum,"Azalea, early",1
+p0001,Sorbus,americana,"Ash, American mountain",1
+p0001,Tilia,americana,"Basswood, American",4
+p0002,Acer,pensylvanicum,"Maple, striped",1
+p0002,Acer,rubrum,"Maple, red",12
+p0002,Betula,lenta,"Birch, black",8
+p0002,Betula,papyrifera,"Birch, paper",2
+p0002,Fagus,grandifolia,"Beech, American",232
+p0002,Quercus,rubra,"Oak, red",7
+p0002,Quercus,velutina,"Oak, black",8
+p0003,Acer,pensylvanicum,"Maple, striped",41
+p0003,Acer,rubrum,"Maple, red",4
+p0003,Acer,saccharum,"Maple, sugar",1
+p0003,Amelanchier,canadensis,Shadbush,1
+p0003,Betula,lenta,"Birch, black",7
+p0003,Betula,papyrifera,"Birch, paper",2
+p0003,Fagus,grandifolia,"Beech, American",191
+p0003,Hamamelis,virginiana,Witch-hazel,2
+p0003,Ostrya,virginiana,Hophornbeam,6
+p0003,Quercus,rubra,"Oak, red",1
+p0003,Quercus,velutina,"Oak, black",2
+p0004,Acer,pensylvanicum,"Maple, striped",9
+p0004,Acer,rubrum,"Maple, red",2
+p0004,Acer,saccharum,"Maple, sugar",3
+p0004,Betula,lenta,"Birch, black",2
+p0004,Betula,papyrifera,"Birch, paper",2
+p0004,Fagus,grandifolia,"Beech, American",204
+p0004,Quercus,rubra,"Oak, red",3
+p0005,Acer,pensylvanicum,"Maple, striped",17
+p0005,Acer,rubrum,"Maple, red",5
+p0005,Betula,lenta,"Birch, black",3
+p0005,Betula,papyrifera,"Birch, paper",6
+p0005,Fagus,grandifolia,"Beech, American",274
+p0005,Quercus,rubra,"Oak, red",4
+p0006,Acer,pensylvanicum,"Maple, striped",26
+p0006,Acer,rubrum,"Maple, red",3
+p0006,Acer,saccharum,"Maple, sugar",14
+p0006,Amelanchier,canadensis,Shadbush,1
+p0006,Betula,lenta,"Birch, black",10
+p0006,Betula,papyrifera,"Birch, paper",3
+p0006,Fagus,grandifolia,"Beech, American",126
+p0006,Fraxinus,americana,"Ash, white",2
+p0006,Ostrya,virginiana,Hophornbeam,1
+p0006,Quercus,rubra,"Oak, red",5
+p0007,Acer,pensylvanicum,"Maple, striped",123
+p0007,Acer,rubrum,"Maple, red",6
+p0007,Acer,saccharum,"Maple, sugar",67
+p0007,Amelanchier,canadensis,Shadbush,1
+p0007,Betula,lenta,"Birch, black",2
+p0007,Betula,papyrifera,"Birch, paper",9
+p0007,Fagus,grandifolia,"Beech, American",64
+p0007,Fraxinus,americana,"Ash, white",6
+p0007,Ostrya,virginiana,Hophornbeam,1
+p0007,Quercus,rubra,"Oak, red",3
+p0008,Acer,pensylvanicum,"Maple, striped",79
+p0008,Acer,rubrum,"Maple, red",16
+p0008,Acer,saccharum,"Maple, sugar",34
+p0008,Betula,lenta,"Birch, black",7
+p0008,Fagus,grandifolia,"Beech, American",60
+p0008,Fraxinus,americana,"Ash, white",4
+p0008,Ostrya,virginiana,Hophornbeam,2
+p0008,Quercus,rubra,"Oak, red",6
+p0009,Acer,pensylvanicum,"Maple, striped",52
+p0009,Acer,saccharum,"Maple, sugar",13
+p0009,Acer,spicatum,"Maple, mountain",1
+p0009,Betula,alleghaniensis,"Birch, yellow",3
+p0009,Betula,lenta,"Birch, black",8
+p0009,Betula,papyrifera,"Birch, paper",1
+p0009,Fagus,grandifolia,"Beech, American",161
+p0009,Fraxinus,americana,"Ash, white",1
+p0009,Hamamelis,virginiana,Witch-hazel,7
+p0009,Ostrya,virginiana,Hophornbeam,1
+p0009,Quercus,rubra,"Oak, red",2
+p0009,Tilia,americana,"Basswood, American",1
+p0010,Acer,pensylvanicum,"Maple, striped",25
+p0010,Acer,rubrum,"Maple, red",4
+p0010,Acer,saccharum,"Maple, sugar",2
+p0010,Betula,alleghaniensis,"Birch, yellow",12
+p0010,Betula,lenta,"Birch, black",5
+p0010,Fagus,grandifolia,"Beech, American",134
+p0010,Hamamelis,virginiana,Witch-hazel,13
+p0010,Ostrya,virginiana,Hophornbeam,2
+p0011,Acer,pensylvanicum,"Maple, striped",24
+p0011,Acer,rubrum,"Maple, red",20
+p0011,Acer,saccharum,"Maple, sugar",2
+p0011,Betula,alleghaniensis,"Birch, yellow",7
+p0011,Betula,lenta,"Birch, black",2
+p0011,Betula,papyrifera,"Birch, paper",2
+p0011,Fagus,grandifolia,"Beech, American",125
+p0011,Quercus,rubra,"Oak, red",1
+p0012,Acer,pensylvanicum,"Maple, striped",13
+p0012,Acer,rubrum,"Maple, red",14
+p0012,Acer,saccharum,"Maple, sugar",5
+p0012,Amelanchier,canadensis,Shadbush,6
+p0012,Betula,alleghaniensis,"Birch, yellow",10
+p0012,Betula,lenta,"Birch, black",4
+p0012,Betula,papyrifera,"Birch, paper",2
+p0012,Castanea,dentata,American chestnut,2
+p0012,Fagus,grandifolia,"Beech, American",65
+p0012,Ostrya,virginiana,Hophornbeam,2
+p0012,Quercus,rubra,"Oak, red",1
+p0013,Acer,pensylvanicum,"Maple, striped",3
+p0013,Acer,rubrum,"Maple, red",22
+p0013,Betula,alleghaniensis,"Birch, yellow",4
+p0013,Betula,lenta,"Birch, black",18
+p0013,Betula,papyrifera,"Birch, paper",15
+p0013,Fagus,grandifolia,"Beech, American",195
+p0013,Pinus,strobus,"Pine, white",1
+p0013,Quercus,rubra,"Oak, red",1
+p0014,Acer,pensylvanicum,"Maple, striped",41
+p0014,Acer,rubrum,"Maple, red",17
+p0014,Acer,saccharum,"Maple, sugar",6
+p0014,Amelanchier,canadensis,Shadbush,1
+p0014,Betula,alleghaniensis,"Birch, yellow",5
+p0014,Betula,lenta,"Birch, black",12
+p0014,Betula,papyrifera,"Birch, paper",3
+p0014,Fagus,grandifolia,"Beech, American",94
+p0014,Hamamelis,virginiana,Witch-hazel,25
+p0014,Ostrya,virginiana,Hophornbeam,1
+p0014,Quercus,rubra,"Oak, red",1
+p0015,Acer,pensylvanicum,"Maple, striped",2
+p0015,Acer,rubrum,"Maple, red",19
+p0015,Acer,saccharum,"Maple, sugar",35
+p0015,Amelanchier,canadensis,Shadbush,2
+p0015,Betula,alleghaniensis,"Birch, yellow",5
+p0015,Betula,lenta,"Birch, black",4
+p0015,Betula,papyrifera,"Birch, paper",3
+p0015,Castanea,dentata,American chestnut,1
+p0015,Fagus,grandifolia,"Beech, American",66
+p0015,Fraxinus,americana,"Ash, white",8
+p0015,Ostrya,virginiana,Hophornbeam,13
+p0016,Acer,pensylvanicum,"Maple, striped",45
+p0016,Acer,rubrum,"Maple, red",36
+p0016,Acer,saccharum,"Maple, sugar",30
+p0016,Amelanchier,canadensis,Shadbush,1
+p0016,Betula,alleghaniensis,"Birch, yellow",2
+p0016,Betula,lenta,"Birch, black",1
+p0016,Betula,papyrifera,"Birch, paper",3
+p0016,Fagus,grandifolia,"Beech, American",48
+p0016,Fraxinus,americana,"Ash, white",9
+p0016,Ostrya,virginiana,Hophornbeam,1
+p01-1,Acer,pensylvanicum,"Maple, striped",26
+p01-1,Acer,saccharum,"Maple, sugar",23
+p01-1,Betula,alleghaniensis,"Birch, yellow",3
+p01-1,Betula,papyrifera,"Birch, paper",1
+p01-1,Fagus,grandifolia,"Beech, American",216
+p01-2,Acer,pensylvanicum,"Maple, striped",33
+p01-2,Acer,rubrum,"Maple, red",6
+p01-2,Acer,saccharum,"Maple, sugar",6
+p01-2,Fagus,grandifolia,"Beech, American",395
+p01-2,Hamamelis,virginiana,Witch-hazel,4
+p01-2,Quercus,rubra,"Oak, red",2
+p0100,Acer,pensylvanicum,"Maple, striped",115
+p0100,Acer,saccharum,"Maple, sugar",6
+p0100,Betula,alleghaniensis,"Birch, yellow",1
+p0100,Fagus,grandifolia,"Beech, American",306
+p0101,Acer,pensylvanicum,"Maple, striped",34
+p0101,Acer,saccharum,"Maple, sugar",18
+p0101,Fagus,grandifolia,"Beech, American",83
+p0102,Acer,pensylvanicum,"Maple, striped",24
+p0102,Acer,rubrum,"Maple, red",3
+p0102,Acer,saccharum,"Maple, sugar",1
+p0102,Betula,alleghaniensis,"Birch, yellow",3
+p0102,Betula,lenta,"Birch, black",13
+p0102,Fagus,grandifolia,"Beech, American",271
+p0102,Quercus,rubra,"Oak, red",1
+p0103,Acer,pensylvanicum,"Maple, striped",28
+p0103,Acer,saccharum,"Maple, sugar",21
+p0103,Betula,alleghaniensis,"Birch, yellow",1
+p0103,Betula,lenta,"Birch, black",38
+p0103,Fagus,grandifolia,"Beech, American",58
+p0103,Ostrya,virginiana,Hophornbeam,21
+p0103,Quercus,rubra,"Oak, red",2
+p0104,Acer,pensylvanicum,"Maple, striped",37
+p0104,Acer,rubrum,"Maple, red",2
+p0104,Acer,saccharum,"Maple, sugar",14
+p0104,Betula,alleghaniensis,"Birch, yellow",5
+p0104,Betula,lenta,"Birch, black",3
+p0104,Fagus,grandifolia,"Beech, American",29
+p0104,Ostrya,virginiana,Hophornbeam,2
+p0104,Quercus,rubra,"Oak, red",1
+p0105,Acer,pensylvanicum,"Maple, striped",52
+p0105,Acer,rubrum,"Maple, red",2
+p0105,Acer,saccharum,"Maple, sugar",25
+p0105,Betula,alleghaniensis,"Birch, yellow",4
+p0105,Betula,lenta,"Birch, black",4
+p0105,Betula,papyrifera,"Birch, paper",1
+p0105,Fagus,grandifolia,"Beech, American",15
+p0105,Fraxinus,americana,"Ash, white",5
+p0105,Ostrya,virginiana,Hophornbeam,8
+p0106,Acer,pensylvanicum,"Maple, striped",8
+p0106,Acer,rubrum,"Maple, red",12
+p0106,Acer,saccharum,"Maple, sugar",10
+p0106,Betula,alleghaniensis,"Birch, yellow",4
+p0106,Betula,lenta,"Birch, black",2
+p0106,Betula,papyrifera,"Birch, paper",8
+p0106,Fagus,grandifolia,"Beech, American",130
+p0107,Acer,pensylvanicum,"Maple, striped",10
+p0107,Acer,rubrum,"Maple, red",13
+p0107,Acer,saccharum,"Maple, sugar",2
+p0107,Amelanchier,canadensis,Shadbush,3
+p0107,Betula,alleghaniensis,"Birch, yellow",1
+p0107,Betula,lenta,"Birch, black",3
+p0107,Betula,papyrifera,"Birch, paper",4
+p0107,Fagus,grandifolia,"Beech, American",91
+p0107,Quercus,rubra,"Oak, red",4
+p0108,Acer,pensylvanicum,"Maple, striped",18
+p0108,Acer,rubrum,"Maple, red",1
+p0108,Acer,saccharum,"Maple, sugar",1
+p0108,Betula,alleghaniensis,"Birch, yellow",1
+p0108,Betula,lenta,"Birch, black",1
+p0108,Fagus,grandifolia,"Beech, American",185
+p0108,Fraxinus,americana,"Ash, white",1
+p0109,Acer,rubrum,"Maple, red",9
+p0109,Betula,alleghaniensis,"Birch, yellow",3
+p0109,Betula,lenta,"Birch, black",7
+p0109,Betula,papyrifera,"Birch, paper",4
+p0109,Fagus,grandifolia,"Beech, American",164
+p0109,Quercus,rubra,"Oak, red",11
+p0110,Acer,pensylvanicum,"Maple, striped",62
+p0110,Acer,rubrum,"Maple, red",27
+p0110,Acer,saccharum,"Maple, sugar",3
+p0110,Betula,alleghaniensis,"Birch, yellow",7
+p0110,Betula,lenta,"Birch, black",5
+p0110,Betula,papyrifera,"Birch, paper",4
+p0110,Fagus,grandifolia,"Beech, American",50
+p0111,Acer,pensylvanicum,"Maple, striped",8
+p0111,Acer,rubrum,"Maple, red",15
+p0111,Acer,saccharum,"Maple, sugar",10
+p0111,Betula,alleghaniensis,"Birch, yellow",13
+p0111,Fagus,grandifolia,"Beech, American",25
+p0111,Fraxinus,americana,"Ash, white",3
+p0111,Ostrya,virginiana,Hophornbeam,10
+p0111,Quercus,rubra,"Oak, red",1
+p0111,Tsuga,canadensis,"Hemlock, eastern",1
+p0112,Acer,pensylvanicum,"Maple, striped",26
+p0112,Acer,rubrum,"Maple, red",11
+p0112,Acer,saccharum,"Maple, sugar",27
+p0112,Amelanchier,canadensis,Shadbush,3
+p0112,Betula,lenta,"Birch, black",3
+p0112,Fagus,grandifolia,"Beech, American",56
+p0112,Ostrya,virginiana,Hophornbeam,1
+p0112,Quercus,rubra,"Oak, red",6
+p0113,Acer,pensylvanicum,"Maple, striped",34
+p0113,Acer,rubrum,"Maple, red",8
+p0113,Acer,saccharum,"Maple, sugar",26
+p0113,Betula,alleghaniensis,"Birch, yellow",3
+p0113,Betula,lenta,"Birch, black",4
+p0113,Fagus,grandifolia,"Beech, American",3
+p0113,Fraxinus,americana,"Ash, white",2
+p0113,Hamamelis,virginiana,Witch-hazel,32
+p0113,Ostrya,virginiana,Hophornbeam,1
+p0113,Quercus,rubra,"Oak, red",7
+p0114,Acer,pensylvanicum,"Maple, striped",8
+p0114,Acer,rubrum,"Maple, red",12
+p0114,Acer,saccharum,"Maple, sugar",10
+p0114,Amelanchier,canadensis,Shadbush,9
+p0114,Betula,alleghaniensis,"Birch, yellow",23
+p0114,Betula,lenta,"Birch, black",2
+p0114,Fagus,grandifolia,"Beech, American",16
+p0114,Hamamelis,virginiana,Witch-hazel,154
+p0114,Ostrya,virginiana,Hophornbeam,1
+p0115,Acer,pensylvanicum,"Maple, striped",97
+p0115,Acer,rubrum,"Maple, red",25
+p0115,Acer,saccharum,"Maple, sugar",18
+p0115,Betula,alleghaniensis,"Birch, yellow",1
+p0115,Betula,lenta,"Birch, black",10
+p0115,Betula,papyrifera,"Birch, paper",12
+p0115,Fagus,grandifolia,"Beech, American",51
+p0115,Fraxinus,americana,"Ash, white",1
+p0116,Acer,pensylvanicum,"Maple, striped",31
+p0116,Acer,rubrum,"Maple, red",10
+p0116,Acer,saccharum,"Maple, sugar",15
+p0116,Amelanchier,canadensis,Shadbush,1
+p0116,Betula,lenta,"Birch, black",9
+p0116,Fagus,grandifolia,"Beech, American",9
+p0116,Fraxinus,americana,"Ash, white",4
+p0116,Ostrya,virginiana,Hophornbeam,9
+p02-1,Acer,pensylvanicum,"Maple, striped",12
+p02-1,Acer,rubrum,"Maple, red",30
+p02-1,Acer,saccharum,"Maple, sugar",7
+p02-1,Amelanchier,canadensis,Shadbush,39
+p02-1,Betula,alleghaniensis,"Birch, yellow",7
+p02-1,Betula,papyrifera,"Birch, paper",20
+p02-1,Fagus,grandifolia,"Beech, American",189
+p02-1,Picea,rubens,"Spruce, red",2
+p02-1,Prunus,serotina,"Cherry, black",19
+p02-1,Quercus,rubra,"Oak, red",1
+p0200,Acer,pensylvanicum,"Maple, striped",33
+p0200,Acer,saccharum,"Maple, sugar",15
+p0200,Betula,alleghaniensis,"Birch, yellow",12
+p0200,Fagus,grandifolia,"Beech, American",134
+p0201,Acer,pensylvanicum,"Maple, striped",44
+p0201,Acer,rubrum,"Maple, red",5
+p0201,Betula,alleghaniensis,"Birch, yellow",13
+p0201,Betula,papyrifera,"Birch, paper",1
+p0201,Fagus,grandifolia,"Beech, American",335
+p0201,Quercus,rubra,"Oak, red",3
+p0202,Acer,pensylvanicum,"Maple, striped",100
+p0202,Acer,rubrum,"Maple, red",2
+p0202,Acer,saccharum,"Maple, sugar",2
+p0202,Betula,alleghaniensis,"Birch, yellow",3
+p0202,Betula,lenta,"Birch, black",1
+p0202,Fagus,grandifolia,"Beech, American",125
+p0203,Acer,pensylvanicum,"Maple, striped",22
+p0203,Acer,saccharum,"Maple, sugar",35
+p0203,Betula,alleghaniensis,"Birch, yellow",1
+p0203,Fagus,grandifolia,"Beech, American",56
+p0203,Fraxinus,americana,"Ash, white",1
+p0203,Ostrya,virginiana,Hophornbeam,2
+p0203,Quercus,rubra,"Oak, red",1
+p0204,Acer,pensylvanicum,"Maple, striped",14
+p0204,Acer,saccharum,"Maple, sugar",19
+p0204,Betula,lenta,"Birch, black",2
+p0204,Fagus,grandifolia,"Beech, American",173
+p0204,Ostrya,virginiana,Hophornbeam,2
+p0204,Quercus,rubra,"Oak, red",1
+p0205,Acer,pensylvanicum,"Maple, striped",21
+p0205,Acer,saccharum,"Maple, sugar",27
+p0205,Betula,lenta,"Birch, black",7
+p0205,Betula,papyrifera,"Birch, paper",1
+p0205,Fagus,grandifolia,"Beech, American",4
+p0205,Ostrya,virginiana,Hophornbeam,19
+p0206,Acer,pensylvanicum,"Maple, striped",80
+p0206,Acer,saccharum,"Maple, sugar",12
+p0206,Betula,alleghaniensis,"Birch, yellow",3
+p0206,Betula,lenta,"Birch, black",1
+p0206,Fagus,grandifolia,"Beech, American",6
+p0206,Fraxinus,americana,"Ash, white",1
+p0207,Acer,pensylvanicum,"Maple, striped",9
+p0207,Acer,rubrum,"Maple, red",4
+p0207,Acer,saccharum,"Maple, sugar",3
+p0207,Amelanchier,canadensis,Shadbush,2
+p0207,Betula,lenta,"Birch, black",4
+p0207,Fagus,grandifolia,"Beech, American",122
+p0207,Quercus,rubra,"Oak, red",4
+p0207,Tsuga,canadensis,"Hemlock, eastern",1
+p0208,Acer,pensylvanicum,"Maple, striped",8
+p0208,Acer,rubrum,"Maple, red",5
+p0208,Acer,saccharum,"Maple, sugar",1
+p0208,Betula,alleghaniensis,"Birch, yellow",5
+p0208,Betula,lenta,"Birch, black",11
+p0208,Fagus,grandifolia,"Beech, American",161
+p0208,Quercus,rubra,"Oak, red",5
+p0209,Acer,pensylvanicum,"Maple, striped",41
+p0209,Acer,rubrum,"Maple, red",2
+p0209,Acer,saccharum,"Maple, sugar",9
+p0209,Betula,lenta,"Birch, black",2
+p0209,Fagus,grandifolia,"Beech, American",55
+p0209,Quercus,rubra,"Oak, red",9
+p0210,Acer,pensylvanicum,"Maple, striped",29
+p0210,Acer,saccharum,"Maple, sugar",4
+p0210,Betula,lenta,"Birch, black",6
+p0210,Betula,papyrifera,"Birch, paper",2
+p0210,Fagus,grandifolia,"Beech, American",116
+p0210,Fraxinus,americana,"Ash, white",1
+p0210,Quercus,rubra,"Oak, red",1
+p0211,Acer,pensylvanicum,"Maple, striped",15
+p0211,Acer,rubrum,"Maple, red",4
+p0211,Acer,saccharum,"Maple, sugar",10
+p0211,Betula,alleghaniensis,"Birch, yellow",2
+p0211,Betula,lenta,"Birch, black",1
+p0211,Betula,papyrifera,"Birch, paper",2
+p0211,Fagus,grandifolia,"Beech, American",84
+p0211,Quercus,rubra,"Oak, red",3
+p0212,Acer,pensylvanicum,"Maple, striped",20
+p0212,Acer,rubrum,"Maple, red",4
+p0212,Acer,saccharum,"Maple, sugar",11
+p0212,Betula,alleghaniensis,"Birch, yellow",3
+p0212,Betula,lenta,"Birch, black",4
+p0212,Betula,papyrifera,"Birch, paper",3
+p0212,Fagus,grandifolia,"Beech, American",109
+p0212,Fraxinus,americana,"Ash, white",2
+p0212,Ostrya,virginiana,Hophornbeam,1
+p0212,Quercus,rubra,"Oak, red",1
+p0213,Acer,pensylvanicum,"Maple, striped",1
+p0213,Acer,rubrum,"Maple, red",10
+p0213,Betula,alleghaniensis,"Birch, yellow",6
+p0213,Betula,lenta,"Birch, black",4
+p0213,Betula,papyrifera,"Birch, paper",1
+p0213,Fagus,grandifolia,"Beech, American",110
+p0213,Ostrya,virginiana,Hophornbeam,1
+p0214,Acer,pensylvanicum,"Maple, striped",56
+p0214,Acer,rubrum,"Maple, red",14
+p0214,Acer,saccharum,"Maple, sugar",8
+p0214,Betula,alleghaniensis,"Birch, yellow",1
+p0214,Betula,lenta,"Birch, black",28
+p0214,Betula,papyrifera,"Birch, paper",4
+p0214,Fagus,grandifolia,"Beech, American",19
+p0214,Ostrya,virginiana,Hophornbeam,7
+p0215,Acer,pensylvanicum,"Maple, striped",4
+p0215,Acer,rubrum,"Maple, red",17
+p0215,Acer,saccharum,"Maple, sugar",28
+p0215,Betula,lenta,"Birch, black",5
+p0215,Fagus,grandifolia,"Beech, American",6
+p0215,Fraxinus,americana,"Ash, white",15
+p0215,Ostrya,virginiana,Hophornbeam,9
+p0215,Populus,tremuloides,"Aspen, quaking",12
+p0216,Acer,pensylvanicum,"Maple, striped",102
+p0216,Acer,rubrum,"Maple, red",26
+p0216,Acer,saccharum,"Maple, sugar",9
+p0216,Betula,lenta,"Birch, black",27
+p0216,Betula,papyrifera,"Birch, paper",11
+p0216,Fagus,grandifolia,"Beech, American",8
+p0216,Ostrya,virginiana,Hophornbeam,6
+p0216,Prunus,serotina,"Cherry, black",1
+p0216,Quercus,rubra,"Oak, red",1
+p03-1,Acer,pensylvanicum,"Maple, striped",6
+p03-1,Acer,rubrum,"Maple, red",5
+p03-1,Acer,saccharum,"Maple, sugar",32
+p03-1,Amelanchier,canadensis,Shadbush,3
+p03-1,Betula,lenta,"Birch, black",18
+p03-1,Betula,papyrifera,"Birch, paper",1
+p03-1,Fagus,grandifolia,"Beech, American",22
+p03-1,Ostrya,virginiana,Hophornbeam,8
+p03-1,Prunus,serotina,"Cherry, black",52
+p03-1,Quercus,rubra,"Oak, red",4
+p0300,Acer,pensylvanicum,"Maple, striped",20
+p0300,Acer,rubrum,"Maple, red",2
+p0300,Acer,saccharum,"Maple, sugar",63
+p0300,Betula,alleghaniensis,"Birch, yellow",13
+p0300,Betula,lenta,"Birch, black",1
+p0300,Betula,papyrifera,"Birch, paper",9
+p0300,Fagus,grandifolia,"Beech, American",43
+p0300,Ostrya,virginiana,Hophornbeam,1
+p0300,Prunus,serotina,"Cherry, black",7
+p0300,Quercus,rubra,"Oak, red",4
+p0301,Acer,pensylvanicum,"Maple, striped",38
+p0301,Acer,saccharum,"Maple, sugar",22
+p0301,Betula,alleghaniensis,"Birch, yellow",3
+p0301,Betula,papyrifera,"Birch, paper",1
+p0301,Fagus,grandifolia,"Beech, American",339
+p0301,Prunus,serotina,"Cherry, black",1
+p0302,Acer,pensylvanicum,"Maple, striped",47
+p0302,Acer,saccharum,"Maple, sugar",3
+p0302,Fagus,grandifolia,"Beech, American",171
+p0303,Acer,pensylvanicum,"Maple, striped",20
+p0303,Acer,saccharum,"Maple, sugar",15
+p0303,Betula,alleghaniensis,"Birch, yellow",1
+p0303,Fagus,grandifolia,"Beech, American",63
+p0304,Acer,pensylvanicum,"Maple, striped",48
+p0304,Acer,saccharum,"Maple, sugar",12
+p0304,Betula,alleghaniensis,"Birch, yellow",6
+p0304,Betula,lenta,"Birch, black",1
+p0304,Fagus,grandifolia,"Beech, American",109
+p0304,Fraxinus,americana,"Ash, white",3
+p0304,Ostrya,virginiana,Hophornbeam,1
+p0305,Acer,pensylvanicum,"Maple, striped",9
+p0305,Acer,saccharum,"Maple, sugar",18
+p0305,Betula,alleghaniensis,"Birch, yellow",3
+p0305,Fagus,grandifolia,"Beech, American",24
+p0305,Fraxinus,americana,"Ash, white",1
+p0305,Ostrya,virginiana,Hophornbeam,1
+p0305,Tilia,americana,"Basswood, American",3
+p0306,Acer,pensylvanicum,"Maple, striped",31
+p0306,Acer,rubrum,"Maple, red",9
+p0306,Betula,alleghaniensis,"Birch, yellow",2
+p0306,Betula,lenta,"Birch, black",4
+p0306,Fagus,grandifolia,"Beech, American",213
+p0307,Acer,pensylvanicum,"Maple, striped",12
+p0307,Acer,rubrum,"Maple, red",17
+p0307,Amelanchier,canadensis,Shadbush,10
+p0307,Betula,alleghaniensis,"Birch, yellow",1
+p0307,Fagus,grandifolia,"Beech, American",197
+p0307,Quercus,rubra,"Oak, red",7
+p0307,Tsuga,canadensis,"Hemlock, eastern",8
+p0308,Acer,pensylvanicum,"Maple, striped",98
+p0308,Acer,saccharum,"Maple, sugar",23
+p0308,Betula,papyrifera,"Birch, paper",1
+p0308,Fagus,grandifolia,"Beech, American",91
+p0308,Ostrya,virginiana,Hophornbeam,1
+p0309,Acer,pensylvanicum,"Maple, striped",40
+p0309,Acer,rubrum,"Maple, red",4
+p0309,Betula,lenta,"Birch, black",2
+p0309,Fagus,grandifolia,"Beech, American",314
+p0309,Quercus,rubra,"Oak, red",8
+p0310,Acer,pensylvanicum,"Maple, striped",26
+p0310,Acer,rubrum,"Maple, red",2
+p0310,Acer,saccharum,"Maple, sugar",14
+p0310,Betula,alleghaniensis,"Birch, yellow",5
+p0310,Betula,lenta,"Birch, black",2
+p0310,Fagus,grandifolia,"Beech, American",105
+p0310,Fraxinus,americana,"Ash, white",1
+p0310,Ostrya,virginiana,Hophornbeam,22
+p0310,Quercus,rubra,"Oak, red",2
+p0311,Acer,pensylvanicum,"Maple, striped",55
+p0311,Acer,saccharum,"Maple, sugar",7
+p0311,Betula,lenta,"Birch, black",2
+p0311,Fagus,grandifolia,"Beech, American",95
+p0311,Fraxinus,americana,"Ash, white",5
+p0311,Ostrya,virginiana,Hophornbeam,5
+p0312,Acer,pensylvanicum,"Maple, striped",79
+p0312,Acer,saccharum,"Maple, sugar",6
+p0312,Betula,alleghaniensis,"Birch, yellow",1
+p0312,Betula,lenta,"Birch, black",4
+p0312,Fagus,grandifolia,"Beech, American",130
+p0312,Fraxinus,americana,"Ash, white",2
+p0312,Quercus,rubra,"Oak, red",5
+p0313,Acer,pensylvanicum,"Maple, striped",55
+p0313,Acer,saccharum,"Maple, sugar",10
+p0313,Fagus,grandifolia,"Beech, American",77
+p0313,Fraxinus,americana,"Ash, white",6
+p0313,Ostrya,virginiana,Hophornbeam,1
+p0313,Quercus,rubra,"Oak, red",5
+p0314,Acer,pensylvanicum,"Maple, striped",6
+p0314,Acer,saccharum,"Maple, sugar",19
+p0314,Betula,alleghaniensis,"Birch, yellow",3
+p0314,Betula,lenta,"Birch, black",2
+p0314,Fagus,grandifolia,"Beech, American",45
+p0314,Fraxinus,americana,"Ash, white",6
+p0314,Ostrya,virginiana,Hophornbeam,8
+p0314,Quercus,rubra,"Oak, red",3
+p0315,Acer,pensylvanicum,"Maple, striped",18
+p0315,Acer,rubrum,"Maple, red",15
+p0315,Acer,saccharum,"Maple, sugar",2
+p0315,Betula,alleghaniensis,"Birch, yellow",1
+p0315,Betula,lenta,"Birch, black",10
+p0315,Fagus,grandifolia,"Beech, American",105
+p0315,Ostrya,virginiana,Hophornbeam,3
+p0315,Quercus,rubra,"Oak, red",6
+p0316,Acer,pensylvanicum,"Maple, striped",40
+p0316,Acer,rubrum,"Maple, red",1
+p0316,Acer,saccharum,"Maple, sugar",14
+p0316,Betula,lenta,"Birch, black",3
+p0316,Fagus,grandifolia,"Beech, American",6
+p0316,Fraxinus,americana,"Ash, white",1
+p0316,Ostrya,virginiana,Hophornbeam,6
+p0316,Quercus,rubra,"Oak, red",6
+p0401,Acer,pensylvanicum,"Maple, striped",36
+p0401,Acer,rubrum,"Maple, red",3
+p0401,Acer,saccharum,"Maple, sugar",5
+p0401,Amelanchier,canadensis,Shadbush,7
+p0401,Betula,lenta,"Birch, black",5
+p0401,Fagus,grandifolia,"Beech, American",364
+p0401,Prunus,serotina,"Cherry, black",6
+p0401,Quercus,rubra,"Oak, red",12
+p0402,Acer,pensylvanicum,"Maple, striped",9
+p0402,Acer,rubrum,"Maple, red",12
+p0402,Acer,saccharum,"Maple, sugar",5
+p0402,Amelanchier,canadensis,Shadbush,3
+p0402,Betula,alleghaniensis,"Birch, yellow",12
+p0402,Betula,papyrifera,"Birch, paper",1
+p0402,Fagus,grandifolia,"Beech, American",85
+p0402,Prunus,serotina,"Cherry, black",16
+p0402,Quercus,rubra,"Oak, red",1
+p0403,Acer,pensylvanicum,"Maple, striped",39
+p0403,Acer,saccharum,"Maple, sugar",5
+p0403,Betula,alleghaniensis,"Birch, yellow",2
+p0403,Fagus,grandifolia,"Beech, American",113
+p0403,Fraxinus,americana,"Ash, white",1
+p0403,Ostrya,virginiana,Hophornbeam,1
+p0403,Quercus,rubra,"Oak, red",2
+p0404,Acer,pensylvanicum,"Maple, striped",72
+p0404,Acer,rubrum,"Maple, red",12
+p0404,Acer,saccharum,"Maple, sugar",19
+p0404,Betula,alleghaniensis,"Birch, yellow",7
+p0404,Betula,papyrifera,"Birch, paper",1
+p0404,Fagus,grandifolia,"Beech, American",20
+p0404,Fraxinus,americana,"Ash, white",2
+p0404,Ostrya,virginiana,Hophornbeam,4
+p0404,Quercus,rubra,"Oak, red",2
+p0405,Acer,pensylvanicum,"Maple, striped",112
+p0405,Acer,saccharum,"Maple, sugar",4
+p0405,Betula,alleghaniensis,"Birch, yellow",7
+p0405,Fagus,grandifolia,"Beech, American",132
+p0405,Fraxinus,americana,"Ash, white",7
+p0405,Ostrya,virginiana,Hophornbeam,3
+p0406,Acer,pensylvanicum,"Maple, striped",66
+p0406,Acer,rubrum,"Maple, red",3
+p0406,Acer,saccharum,"Maple, sugar",16
+p0406,Fagus,grandifolia,"Beech, American",68
+p0406,Ostrya,virginiana,Hophornbeam,6
+p0407,Acer,pensylvanicum,"Maple, striped",15
+p0407,Acer,rubrum,"Maple, red",5
+p0407,Acer,saccharum,"Maple, sugar",1
+p0407,Betula,alleghaniensis,"Birch, yellow",4
+p0407,Fagus,grandifolia,"Beech, American",123
+p0407,Quercus,rubra,"Oak, red",7
+p0408,Acer,pensylvanicum,"Maple, striped",22
+p0408,Acer,rubrum,"Maple, red",3
+p0408,Acer,saccharum,"Maple, sugar",8
+p0408,Betula,alleghaniensis,"Birch, yellow",3
+p0408,Betula,papyrifera,"Birch, paper",1
+p0408,Fagus,grandifolia,"Beech, American",62
+p0408,Ostrya,virginiana,Hophornbeam,6
+p0408,Quercus,rubra,"Oak, red",3
+p0409,Acer,pensylvanicum,"Maple, striped",19
+p0409,Acer,rubrum,"Maple, red",12
+p0409,Acer,saccharum,"Maple, sugar",10
+p0409,Betula,papyrifera,"Birch, paper",1
+p0409,Fagus,grandifolia,"Beech, American",114
+p0409,Ostrya,virginiana,Hophornbeam,22
+p0409,Quercus,rubra,"Oak, red",5
+p0410,Acer,pensylvanicum,"Maple, striped",55
+p0410,Acer,rubrum,"Maple, red",8
+p0410,Acer,saccharum,"Maple, sugar",2
+p0410,Amelanchier,canadensis,Shadbush,1
+p0410,Betula,lenta,"Birch, black",4
+p0410,Fagus,grandifolia,"Beech, American",121
+p0410,Ostrya,virginiana,Hophornbeam,4
+p0410,Quercus,rubra,"Oak, red",16
+p0411,Acer,pensylvanicum,"Maple, striped",66
+p0411,Acer,rubrum,"Maple, red",2
+p0411,Acer,saccharum,"Maple, sugar",5
+p0411,Betula,alleghaniensis,"Birch, yellow",2
+p0411,Betula,lenta,"Birch, black",2
+p0411,Betula,papyrifera,"Birch, paper",1
+p0411,Fagus,grandifolia,"Beech, American",45
+p0411,Ostrya,virginiana,Hophornbeam,9
+p0411,Quercus,rubra,"Oak, red",9
+p0412,Acer,pensylvanicum,"Maple, striped",2
+p0412,Acer,rubrum,"Maple, red",6
+p0412,Betula,alleghaniensis,"Birch, yellow",1
+p0412,Betula,lenta,"Birch, black",5
+p0412,Fagus,grandifolia,"Beech, American",162
+p0412,Quercus,rubra,"Oak, red",14
+p0413,Acer,rubrum,"Maple, red",6
+p0413,Betula,lenta,"Birch, black",10
+p0413,Fagus,grandifolia,"Beech, American",172
+p0413,Quercus,rubra,"Oak, red",10
+p0414,Acer,pensylvanicum,"Maple, striped",59
+p0414,Acer,rubrum,"Maple, red",1
+p0414,Acer,saccharum,"Maple, sugar",26
+p0414,Betula,lenta,"Birch, black",9
+p0414,Betula,papyrifera,"Birch, paper",1
+p0414,Fagus,grandifolia,"Beech, American",3
+p0414,Ostrya,virginiana,Hophornbeam,14
+p0415,Acer,pensylvanicum,"Maple, striped",73
+p0415,Acer,rubrum,"Maple, red",2
+p0415,Acer,saccharum,"Maple, sugar",19
+p0415,Betula,lenta,"Birch, black",4
+p0415,Fagus,grandifolia,"Beech, American",34
+p0415,Ostrya,virginiana,Hophornbeam,2
+p0415,Prunus,serotina,"Cherry, black",1
+p0415,Quercus,rubra,"Oak, red",5
+p0416,Acer,pensylvanicum,"Maple, striped",72
+p0416,Acer,rubrum,"Maple, red",25
+p0416,Acer,saccharum,"Maple, sugar",12
+p0416,Betula,alleghaniensis,"Birch, yellow",1
+p0416,Betula,lenta,"Birch, black",22
+p0416,Betula,papyrifera,"Birch, paper",3
+p0416,Fagus,grandifolia,"Beech, American",12
+p0416,Fraxinus,americana,"Ash, white",1
+p0416,Ostrya,virginiana,Hophornbeam,11
+p0416,Quercus,rubra,"Oak, red",2
+p0427,Acer,pensylvanicum,"Maple, striped",1
+p0427,Acer,rubrum,"Maple, red",28
+p0427,Acer,saccharum,"Maple, sugar",2
+p0427,Betula,lenta,"Birch, black",3
+p0427,Betula,papyrifera,"Birch, paper",1
+p0427,Betula,populifolia,"Birch, gray",7
+p0427,Fagus,grandifolia,"Beech, American",4
+p0427,Fraxinus,americana,"Ash, white",38
+p0427,Lonicera,species,Honeysuckle,55
+p0427,Lonicera,xylosteum,"Honeysuckle, European fly",21
+p0427,Populus,tremuloides,"Aspen, quaking",2
+p0427,Prunus,serotina,"Cherry, black",9
+p0427,Quercus,rubra,"Oak, red",1
+p0427,Rhamnus,cathartica,"Buckthorn, common",45
+p0427,Rosa,multiflora,"Rose, multiflora",15
+p0428,Acer,rubrum,"Maple, red",6
+p0428,Crataegus,species,Hawthorn,3
+p0428,Fraxinus,americana,"Ash, white",32
+p0428,Lonicera,species,Honeysuckle,139
+p0428,Parthenocissus,quinquefolia,Virginia creeper,1
+p0428,Prunus,virginiana,"Cherry, choke",1
+p0428,Rhamnus,cathartica,"Buckthorn, common",124
+p0428,Rosa,multiflora,"Rose, multiflora",104
+p0428,Vitis,species,Grape,1
+p0429,Acer,rubrum,"Maple, red",11
+p0429,Acer,saccharum,"Maple, sugar",13
+p0429,Amelanchier,canadensis,Shadbush,2
+p0429,Fraxinus,americana,"Ash, white",25
+p0429,Lonicera,species,Honeysuckle,66
+p0429,Lonicera,xylosteum,"Honeysuckle, European fly",12
+p0429,Ostrya,virginiana,Hophornbeam,8
+p0429,Quercus,rubra,"Oak, red",4
+p0429,Rhamnus,cathartica,"Buckthorn, common",65
+p0429,Rosa,multiflora,"Rose, multiflora",73
+p0429,Tilia,americana,"Basswood, American",1
+p0429,Ulmus,americana,"Elm, American",8
+p0429,Vitis,species,Grape,1
+p0430,Acer,rubrum,"Maple, red",6
+p0430,Acer,saccharum,"Maple, sugar",9
+p0430,Amelanchier,canadensis,Shadbush,3
+p0430,Betula,lenta,"Birch, black",6
+p0430,Carpinus,caroliniana,Musclewood,4
+p0430,Carya,cordiformis,Bitternut hickory,1
+p0430,Crataegus,species,Hawthorn,1
+p0430,Elaeagnus,species,"Olive, Russian",5
+p0430,Fagus,grandifolia,"Beech, American",3
+p0430,Fraxinus,americana,"Ash, white",27
+p0430,Ligustrum,vulgare,Privet,1
+p0430,Lonicera,species,Honeysuckle,113
+p0430,Ostrya,virginiana,Hophornbeam,3
+p0430,Pinus,strobus,"Pine, white",6
+p0430,Populus,tremuloides,"Aspen, quaking",2
+p0430,Prunus,serotina,"Cherry, black",3
+p0430,Quercus,rubra,"Oak, red",13
+p0430,Rhamnus,cathartica,"Buckthorn, common",36
+p0430,Rosa,multiflora,"Rose, multiflora",12
+p0430,Ulmus,americana,"Elm, American",6
+p0430,Vitis,species,Grape,1
+p0431,Acer,rubrum,"Maple, red",3
+p0431,Alnus,incana,"Alder, speckled",187
+p0431,Amelanchier,canadensis,Shadbush,1
+p0431,Betula,alleghaniensis,"Birch, yellow",1
+p0431,Betula,papyrifera,"Birch, paper",2
+p0431,Cornus,racemosa,"Dogwood, gray",10
+p0431,Elaeagnus,species,"Olive, Russian",5
+p0431,Fraxinus,americana,"Ash, white",51
+p0431,Lonicera,species,Honeysuckle,55
+p0431,Ostrya,virginiana,Hophornbeam,11
+p0431,Pinus,strobus,"Pine, white",10
+p0431,Populus,tremuloides,"Aspen, quaking",5
+p0431,Quercus,rubra,"Oak, red",1
+p0431,Rhamnus,cathartica,"Buckthorn, common",115
+p0431,Rosa,multiflora,"Rose, multiflora",51
+p0431,Ulmus,species,Elm,35
+p0440,Acer,rubrum,"Maple, red",1
+p0440,Acer,saccharum,"Maple, sugar",37
+p0440,Fraxinus,americana,"Ash, white",2
+p0440,Hamamelis,virginiana,Witch-hazel,2
+p0441,Acer,rubrum,"Maple, red",1
+p0441,Acer,saccharum,"Maple, sugar",40
+p0441,Amelanchier,canadensis,Shadbush,1
+p0441,Fagus,grandifolia,"Beech, American",5
+p0441,Quercus,rubra,"Oak, red",1
+p0442,Acer,rubrum,"Maple, red",8
+p0442,Acer,saccharum,"Maple, sugar",46
+p0442,Betula,lenta,"Birch, black",3
+p0442,Carpinus,caroliniana,Musclewood,3
+p0442,Carya,ovata,"Hickory, shagbark",1
+p0442,Fagus,grandifolia,"Beech, American",2
+p0442,Fraxinus,americana,"Ash, white",2
+p0442,Hamamelis,virginiana,Witch-hazel,21
+p0442,Ostrya,virginiana,Hophornbeam,47
+p0442,Quercus,alba,"Oak, white",2
+p0442,Quercus,rubra,"Oak, red",4
+p0442,Vitis,species,Grape,7
+p0443,Acer,pensylvanicum,"Maple, striped",1
+p0443,Acer,rubrum,"Maple, red",58
+p0443,Acer,saccharum,"Maple, sugar",4
+p0443,Amelanchier,canadensis,Shadbush,8
+p0443,Betula,lenta,"Birch, black",15
+p0443,Betula,papyrifera,"Birch, paper",4
+p0443,Carya,cordiformis,Bitternut hickory,1
+p0443,Fagus,grandifolia,"Beech, American",13
+p0443,Fraxinus,americana,"Ash, white",2
+p0443,Hamamelis,virginiana,Witch-hazel,64
+p0443,Ostrya,virginiana,Hophornbeam,27
+p0443,Prunus,serotina,"Cherry, black",1
+p0443,Quercus,alba,"Oak, white",3
+p0443,Quercus,rubra,"Oak, red",15
+p0443,Quercus,velutina,"Oak, black",1
+p0443,Vitis,species,Grape,2
+p0444,Acer,rubrum,"Maple, red",4
+p0444,Acer,saccharum,"Maple, sugar",78
+p0444,Amelanchier,canadensis,Shadbush,1
+p0444,Betula,lenta,"Birch, black",10
+p0444,Fraxinus,americana,"Ash, white",7
+p0444,Hamamelis,virginiana,Witch-hazel,39
+p0444,Ostrya,virginiana,Hophornbeam,20
+p0444,Prunus,serotina,"Cherry, black",1
+p0444,Quercus,alba,"Oak, white",2
+p0444,Rhamnus,cathartica,"Buckthorn, common",1
+p0444,Tilia,americana,"Basswood, American",2
+p0444,Vitis,species,Grape,83
+p0445,Acer,pensylvanicum,"Maple, striped",2
+p0445,Acer,rubrum,"Maple, red",6
+p0445,Acer,saccharum,"Maple, sugar",40
+p0445,Amelanchier,canadensis,Shadbush,1
+p0445,Betula,lenta,"Birch, black",11
+p0445,Carpinus,caroliniana,Musclewood,2
+p0445,Carya,cordiformis,Bitternut hickory,1
+p0445,Fagus,grandifolia,"Beech, American",5
+p0445,Fraxinus,americana,"Ash, white",1
+p0445,Ostrya,virginiana,Hophornbeam,23
+p0445,Prunus,serotina,"Cherry, black",1
+p0445,Quercus,rubra,"Oak, red",1
+p0445,Vitis,species,Grape,47
+p0501,Acer,rubrum,"Maple, red",13
+p0501,Amelanchier,canadensis,Shadbush,1
+p0501,Betula,papyrifera,"Birch, paper",16
+p0501,Fagus,grandifolia,"Beech, American",615
+p0501,Quercus,rubra,"Oak, red",1
+p0502,Acer,rubrum,"Maple, red",1
+p0502,Acer,saccharum,"Maple, sugar",5
+p0502,Amelanchier,canadensis,Shadbush,13
+p0502,Betula,alleghaniensis,"Birch, yellow",27
+p0502,Crataegus,species,Hawthorn,1
+p0502,Fagus,grandifolia,"Beech, American",90
+p0502,Ostrya,virginiana,Hophornbeam,2
+p0502,Pinus,strobus,"Pine, white",1
+p0502,Prunus,serotina,"Cherry, black",20
+p0502,Quercus,rubra,"Oak, red",1
+p0502,Rhododendron,prinophyllum,"Azalea, early",7
+p0503,Acer,pensylvanicum,"Maple, striped",3
+p0503,Acer,rubrum,"Maple, red",1
+p0503,Acer,saccharum,"Maple, sugar",7
+p0503,Betula,alleghaniensis,"Birch, yellow",50
+p0503,Betula,lenta,"Birch, black",1
+p0503,Fagus,grandifolia,"Beech, American",166
+p0503,Fraxinus,americana,"Ash, white",4
+p0503,Prunus,serotina,"Cherry, black",1
+p0504,Acer,pensylvanicum,"Maple, striped",25
+p0504,Acer,rubrum,"Maple, red",1
+p0504,Acer,saccharum,"Maple, sugar",9
+p0504,Betula,alleghaniensis,"Birch, yellow",46
+p0504,Betula,papyrifera,"Birch, paper",6
+p0504,Fagus,grandifolia,"Beech, American",92
+p0504,Ostrya,virginiana,Hophornbeam,2
+p0504,Prunus,virginiana,"Cherry, choke",1
+p0505,Acer,pensylvanicum,"Maple, striped",89
+p0505,Acer,rubrum,"Maple, red",1
+p0505,Acer,saccharum,"Maple, sugar",12
+p0505,Betula,alleghaniensis,"Birch, yellow",14
+p0505,Fagus,grandifolia,"Beech, American",9
+p0506,Acer,pensylvanicum,"Maple, striped",80
+p0506,Acer,saccharum,"Maple, sugar",32
+p0506,Fagus,grandifolia,"Beech, American",5
+p0506,Picea,rubens,"Spruce, red",2
+p0507,Acer,pensylvanicum,"Maple, striped",132
+p0507,Acer,saccharum,"Maple, sugar",23
+p0507,Fagus,grandifolia,"Beech, American",2
+p0508,Acer,pensylvanicum,"Maple, striped",96
+p0508,Acer,rubrum,"Maple, red",5
+p0508,Acer,saccharum,"Maple, sugar",25
+p0508,Amelanchier,canadensis,Shadbush,1
+p0508,Betula,papyrifera,"Birch, paper",2
+p0508,Fagus,grandifolia,"Beech, American",9
+p0508,Fraxinus,americana,"Ash, white",1
+p0509,Acer,pensylvanicum,"Maple, striped",44
+p0509,Acer,rubrum,"Maple, red",17
+p0509,Acer,saccharum,"Maple, sugar",8
+p0509,Amelanchier,canadensis,Shadbush,1
+p0509,Betula,alleghaniensis,"Birch, yellow",2
+p0509,Betula,lenta,"Birch, black",1
+p0509,Betula,papyrifera,"Birch, paper",3
+p0509,Fagus,grandifolia,"Beech, American",79
+p0509,Ostrya,virginiana,Hophornbeam,2
+p0510,Acer,pensylvanicum,"Maple, striped",32
+p0510,Acer,rubrum,"Maple, red",9
+p0510,Acer,saccharum,"Maple, sugar",20
+p0510,Betula,lenta,"Birch, black",1
+p0510,Betula,papyrifera,"Birch, paper",1
+p0510,Fagus,grandifolia,"Beech, American",56
+p0510,Quercus,rubra,"Oak, red",4
+p0511,Acer,pensylvanicum,"Maple, striped",37
+p0511,Acer,rubrum,"Maple, red",4
+p0511,Acer,saccharum,"Maple, sugar",5
+p0511,Betula,alleghaniensis,"Birch, yellow",1
+p0511,Betula,lenta,"Birch, black",4
+p0511,Betula,papyrifera,"Birch, paper",2
+p0511,Fagus,grandifolia,"Beech, American",100
+p0511,Ostrya,virginiana,Hophornbeam,1
+p0511,Quercus,rubra,"Oak, red",1
+p0512,Acer,pensylvanicum,"Maple, striped",6
+p0512,Acer,rubrum,"Maple, red",7
+p0512,Acer,saccharum,"Maple, sugar",2
+p0512,Betula,alleghaniensis,"Birch, yellow",4
+p0512,Betula,lenta,"Birch, black",2
+p0512,Betula,papyrifera,"Birch, paper",1
+p0512,Fagus,grandifolia,"Beech, American",218
+p0512,Ostrya,virginiana,Hophornbeam,2
+p0512,Prunus,serotina,"Cherry, black",1
+p0512,Quercus,rubra,"Oak, red",5
+p0513,Acer,pensylvanicum,"Maple, striped",20
+p0513,Acer,rubrum,"Maple, red",7
+p0513,Acer,saccharum,"Maple, sugar",1
+p0513,Betula,alleghaniensis,"Birch, yellow",3
+p0513,Betula,lenta,"Birch, black",1
+p0513,Fagus,grandifolia,"Beech, American",167
+p0513,Quercus,rubra,"Oak, red",3
+p0514,Acer,pensylvanicum,"Maple, striped",16
+p0514,Acer,rubrum,"Maple, red",3
+p0514,Betula,alleghaniensis,"Birch, yellow",1
+p0514,Betula,lenta,"Birch, black",18
+p0514,Betula,papyrifera,"Birch, paper",2
+p0514,Fagus,grandifolia,"Beech, American",230
+p0514,Quercus,rubra,"Oak, red",9
+p0515,Acer,pensylvanicum,"Maple, striped",2
+p0515,Acer,rubrum,"Maple, red",26
+p0515,Amelanchier,canadensis,Shadbush,10
+p0515,Betula,lenta,"Birch, black",4
+p0515,Castanea,dentata,American chestnut,1
+p0515,Fagus,grandifolia,"Beech, American",164
+p0515,Quercus,rubra,"Oak, red",17
+p0516,Acer,rubrum,"Maple, red",30
+p0516,Amelanchier,canadensis,Shadbush,5
+p0516,Fagus,grandifolia,"Beech, American",181
+p0516,Pinus,strobus,"Pine, white",14
+p0516,Quercus,rubra,"Oak, red",38
+p0527,Acer,rubrum,"Maple, red",48
+p0527,Acer,saccharum,"Maple, sugar",4
+p0527,Amelanchier,canadensis,Shadbush,4
+p0527,Betula,lenta,"Birch, black",7
+p0527,Betula,papyrifera,"Birch, paper",2
+p0527,Fagus,grandifolia,"Beech, American",25
+p0527,Fraxinus,americana,"Ash, white",13
+p0527,Lonicera,species,Honeysuckle,39
+p0527,Ostrya,virginiana,Hophornbeam,3
+p0527,Populus,tremuloides,"Aspen, quaking",3
+p0527,Prunus,serotina,"Cherry, black",10
+p0527,Quercus,rubra,"Oak, red",1
+p0527,Rhamnus,cathartica,"Buckthorn, common",25
+p0527,Rosa,multiflora,"Rose, multiflora",21
+p0527,Ulmus,americana,"Elm, American",1
+p0527,Vitis,species,Grape,18
+p0528,Acer,rubrum,"Maple, red",13
+p0528,Betula,papyrifera,"Birch, paper",3
+p0528,Carpinus,caroliniana,Musclewood,1
+p0528,Cornus,racemosa,"Dogwood, gray",3
+p0528,Crataegus,species,Hawthorn,1
+p0528,Fagus,grandifolia,"Beech, American",1
+p0528,Fraxinus,americana,"Ash, white",90
+p0528,Lonicera,species,Honeysuckle,76
+p0528,Populus,tremuloides,"Aspen, quaking",8
+p0528,Rhamnus,cathartica,"Buckthorn, common",71
+p0528,Rosa,multiflora,"Rose, multiflora",147
+p0528,Vitis,species,Grape,3
+p0529,Acer,rubrum,"Maple, red",6
+p0529,Alnus,incana,"Alder, speckled",21
+p0529,Cornus,racemosa,"Dogwood, gray",4
+p0529,Crataegus,species,Hawthorn,1
+p0529,Fraxinus,americana,"Ash, white",37
+p0529,Lonicera,species,Honeysuckle,107
+p0529,Lonicera,xylosteum,"Honeysuckle, European fly",39
+p0529,Malus,domestica,Apple,1
+p0529,Prunus,serotina,"Cherry, black",1
+p0529,Rhamnus,cathartica,"Buckthorn, common",77
+p0529,Rosa,multiflora,"Rose, multiflora",256
+p0529,Viburnum,lentago,Nannyberry,15
+p0529,Vitis,species,Grape,2
+p0530,Acer,rubrum,"Maple, red",1
+p0530,Alnus,incana,"Alder, speckled",38
+p0530,Crataegus,species,Hawthorn,3
+p0530,Fraxinus,americana,"Ash, white",37
+p0530,Lonicera,morrowii,"Honeysuckle, Morrow's",150
+p0530,Lonicera,xylosteum,"Honeysuckle, European fly",8
+p0530,Pinus,strobus,"Pine, white",1
+p0530,Populus,tremuloides,"Aspen, quaking",2
+p0530,Prunus,serotina,"Cherry, black",1
+p0530,Rhamnus,cathartica,"Buckthorn, common",153
+p0530,Rosa,multiflora,"Rose, multiflora",213
+p0530,Ulmus,americana,"Elm, American",5
+p0530,Vitis,species,Grape,5
+p0531,Acer,rubrum,"Maple, red",1
+p0531,Acer,saccharum,"Maple, sugar",1
+p0531,Alnus,incana,"Alder, speckled",365
+p0531,Amelanchier,canadensis,Shadbush,4
+p0531,Betula,papyrifera,"Birch, paper",7
+p0531,Betula,populifolia,"Birch, gray",4
+p0531,Elaeagnus,species,"Olive, Russian",6
+p0531,Frangula,alnus,"Buckthorn, glossy",9
+p0531,Fraxinus,americana,"Ash, white",46
+p0531,Ligustrum,vulgare,Privet,2
+p0531,Lonicera,morrowii,"Honeysuckle, Morrow's",250
+p0531,Lonicera,xylosteum,"Honeysuckle, European fly",82
+p0531,Pinus,strobus,"Pine, white",1
+p0531,Populus,tremuloides,"Aspen, quaking",8
+p0531,Prunus,serotina,"Cherry, black",3
+p0531,Rhamnus,cathartica,"Buckthorn, common",103
+p0531,Rosa,multiflora,"Rose, multiflora",7
+p0531,Ulmus,americana,"Elm, American",16
+p0531,Viburnum,nudum Var. cassinoides,Withe-rod,17
+p0531,Vitis,species,Grape,10
+p0532,Alnus,incana,"Alder, speckled",11
+p0532,Amelanchier,canadensis,Shadbush,2
+p0532,Betula,papyrifera,"Birch, paper",3
+p0532,Fraxinus,americana,"Ash, white",40
+p0532,Lonicera,morrowii,"Honeysuckle, Morrow's",185
+p0532,Lonicera,xylosteum,"Honeysuckle, European fly",134
+p0532,Populus,tremuloides,"Aspen, quaking",2
+p0532,Prunus,serotina,"Cherry, black",17
+p0532,Rhamnus,cathartica,"Buckthorn, common",35
+p0532,Rosa,multiflora,"Rose, multiflora",4
+p0532,Ulmus,americana,"Elm, American",16
+p0532,Vitis,species,Grape,8
+p0540,Acer,pensylvanicum,"Maple, striped",24
+p0540,Acer,rubrum,"Maple, red",8
+p0540,Acer,saccharum,"Maple, sugar",24
+p0540,Amelanchier,canadensis,Shadbush,1
+p0540,Fagus,grandifolia,"Beech, American",21
+p0540,Fraxinus,americana,"Ash, white",1
+p0540,Ostrya,virginiana,Hophornbeam,14
+p0540,Quercus,rubra,"Oak, red",3
+p0541,Acer,saccharum,"Maple, sugar",32
+p0541,Carya,cordiformis,Bitternut hickory,1
+p0541,Fagus,grandifolia,"Beech, American",6
+p0541,Fraxinus,americana,"Ash, white",8
+p0541,Ostrya,virginiana,Hophornbeam,4
+p0541,Quercus,rubra,"Oak, red",1
+p0541,Tilia,americana,"Basswood, American",1
+p0541,Vitis,species,Grape,2
+p0542,Acer,rubrum,"Maple, red",7
+p0542,Acer,saccharum,"Maple, sugar",32
+p0542,Betula,alleghaniensis,"Birch, yellow",4
+p0542,Betula,lenta,"Birch, black",14
+p0542,Betula,papyrifera,"Birch, paper",2
+p0542,Carpinus,caroliniana,Musclewood,8
+p0542,Fagus,grandifolia,"Beech, American",61
+p0542,Fraxinus,americana,"Ash, white",2
+p0542,Hamamelis,virginiana,Witch-hazel,11
+p0542,Ostrya,virginiana,Hophornbeam,1
+p0542,Quercus,rubra,"Oak, red",1
+p0542,Vitis,species,Grape,75
+p0543,Acer,rubrum,"Maple, red",7
+p0543,Acer,saccharum,"Maple, sugar",10
+p0543,Betula,lenta,"Birch, black",13
+p0543,Carpinus,caroliniana,Musclewood,8
+p0543,Fagus,grandifolia,"Beech, American",26
+p0543,Hamamelis,virginiana,Witch-hazel,11
+p0543,Ostrya,virginiana,Hophornbeam,15
+p0543,Vitis,species,Grape,21
+p0544,Acer,rubrum,"Maple, red",7
+p0544,Acer,saccharum,"Maple, sugar",5
+p0544,Betula,alleghaniensis,"Birch, yellow",3
+p0544,Betula,lenta,"Birch, black",60
+p0544,Betula,papyrifera,"Birch, paper",3
+p0544,Carpinus,caroliniana,Musclewood,32
+p0544,Carya,cordiformis,Bitternut hickory,1
+p0544,Fagus,grandifolia,"Beech, American",18
+p0544,Hamamelis,virginiana,Witch-hazel,15
+p0544,Ostrya,virginiana,Hophornbeam,53
+p0544,Vitis,species,Grape,19
+p0545,Acer,negundo,Box-elder,2
+p0545,Acer,rubrum,"Maple, red",2
+p0545,Acer,saccharum,"Maple, sugar",7
+p0545,Betula,lenta,"Birch, black",13
+p0545,Carpinus,caroliniana,Musclewood,14
+p0545,Carya,cordiformis,Bitternut hickory,1
+p0545,Fagus,grandifolia,"Beech, American",1
+p0545,Fraxinus,americana,"Ash, white",6
+p0545,Lonicera,morrowii,"Honeysuckle, Morrow's",56
+p0545,Malus,domestica,Apple,1
+p0545,Ostrya,virginiana,Hophornbeam,1
+p0545,Prunus,serotina,"Cherry, black",1
+p0545,Rhamnus,cathartica,"Buckthorn, common",18
+p0545,Tsuga,canadensis,"Hemlock, eastern",4
+p0545,Ulmus,americana,"Elm, American",22
+p0545,Vitis,species,Grape,29
+p0601,Acer,pensylvanicum,"Maple, striped",173
+p0601,Acer,rubrum,"Maple, red",17
+p0601,Acer,saccharum,"Maple, sugar",9
+p0601,Amelanchier,canadensis,Shadbush,26
+p0601,Betula,alleghaniensis,"Birch, yellow",1
+p0601,Betula,papyrifera,"Birch, paper",6
+p0601,Crataegus,species,Hawthorn,8
+p0601,Fagus,grandifolia,"Beech, American",7
+p0601,Fraxinus,americana,"Ash, white",2
+p0601,Ostrya,virginiana,Hophornbeam,6
+p0601,Populus,tremuloides,"Aspen, quaking",1
+p0601,Prunus,serotina,"Cherry, black",11
+p0601,Quercus,rubra,"Oak, red",17
+p0602,Acer,pensylvanicum,"Maple, striped",4
+p0602,Acer,rubrum,"Maple, red",13
+p0602,Acer,saccharum,"Maple, sugar",50
+p0602,Amelanchier,canadensis,Shadbush,22
+p0602,Fagus,grandifolia,"Beech, American",1
+p0602,Fraxinus,americana,"Ash, white",1
+p0602,Prunus,serotina,"Cherry, black",8
+p0603,Acer,pensylvanicum,"Maple, striped",7
+p0603,Acer,rubrum,"Maple, red",12
+p0603,Acer,saccharum,"Maple, sugar",12
+p0603,Amelanchier,canadensis,Shadbush,84
+p0603,Crataegus,species,Hawthorn,4
+p0603,Fagus,grandifolia,"Beech, American",11
+p0603,Fraxinus,americana,"Ash, white",2
+p0603,Pinus,strobus,"Pine, white",4
+p0603,Prunus,serotina,"Cherry, black",110
+p0603,Rhododendron,prinophyllum,"Azalea, early",5
+p0604,Acer,rubrum,"Maple, red",7
+p0604,Acer,saccharum,"Maple, sugar",8
+p0604,Amelanchier,canadensis,Shadbush,2
+p0604,Betula,papyrifera,"Birch, paper",1
+p0604,Fagus,grandifolia,"Beech, American",284
+p0604,Ostrya,virginiana,Hophornbeam,2
+p0604,Prunus,serotina,"Cherry, black",6
+p0604,Quercus,rubra,"Oak, red",4
+p0605,Acer,pensylvanicum,"Maple, striped",1
+p0605,Acer,rubrum,"Maple, red",5
+p0605,Acer,saccharum,"Maple, sugar",2
+p0605,Fagus,grandifolia,"Beech, American",340
+p0605,Quercus,rubra,"Oak, red",9
+p0606,Acer,pensylvanicum,"Maple, striped",2
+p0606,Acer,rubrum,"Maple, red",27
+p0606,Acer,saccharum,"Maple, sugar",3
+p0606,Amelanchier,canadensis,Shadbush,23
+p0606,Fagus,grandifolia,"Beech, American",212
+p0606,Picea,rubens,"Spruce, red",112
+p0606,Quercus,rubra,"Oak, red",20
+p0607,Acer,rubrum,"Maple, red",4
+p0607,Betula,papyrifera,"Birch, paper",2
+p0607,Fagus,grandifolia,"Beech, American",6
+p0607,Quercus,rubra,"Oak, red",22
+p0608,Acer,pensylvanicum,"Maple, striped",49
+p0608,Acer,rubrum,"Maple, red",2
+p0608,Acer,saccharum,"Maple, sugar",5
+p0608,Betula,papyrifera,"Birch, paper",2
+p0608,Fagus,grandifolia,"Beech, American",142
+p0608,Quercus,rubra,"Oak, red",8
+p0609,Acer,pensylvanicum,"Maple, striped",2
+p0609,Acer,rubrum,"Maple, red",6
+p0609,Amelanchier,canadensis,Shadbush,1
+p0609,Betula,lenta,"Birch, black",3
+p0609,Fagus,grandifolia,"Beech, American",209
+p0609,Quercus,rubra,"Oak, red",8
+p0610,Acer,pensylvanicum,"Maple, striped",32
+p0610,Acer,rubrum,"Maple, red",3
+p0610,Acer,saccharum,"Maple, sugar",2
+p0610,Betula,lenta,"Birch, black",2
+p0610,Fagus,grandifolia,"Beech, American",186
+p0610,Quercus,rubra,"Oak, red",14
+p0611,Acer,pensylvanicum,"Maple, striped",6
+p0611,Acer,rubrum,"Maple, red",7
+p0611,Acer,saccharum,"Maple, sugar",2
+p0611,Betula,lenta,"Birch, black",3
+p0611,Betula,papyrifera,"Birch, paper",1
+p0611,Fagus,grandifolia,"Beech, American",179
+p0611,Quercus,rubra,"Oak, red",7
+p0612,Acer,pensylvanicum,"Maple, striped",68
+p0612,Acer,rubrum,"Maple, red",1
+p0612,Acer,saccharum,"Maple, sugar",1
+p0612,Betula,alleghaniensis,"Birch, yellow",7
+p0612,Betula,lenta,"Birch, black",8
+p0612,Betula,papyrifera,"Birch, paper",2
+p0612,Fagus,grandifolia,"Beech, American",136
+p0612,Ostrya,virginiana,Hophornbeam,1
+p0612,Quercus,rubra,"Oak, red",13
+p0613,Acer,pensylvanicum,"Maple, striped",32
+p0613,Acer,rubrum,"Maple, red",4
+p0613,Acer,saccharum,"Maple, sugar",1
+p0613,Betula,lenta,"Birch, black",6
+p0613,Fagus,grandifolia,"Beech, American",190
+p0613,Quercus,rubra,"Oak, red",7
+p0614,Acer,pensylvanicum,"Maple, striped",15
+p0614,Acer,rubrum,"Maple, red",2
+p0614,Acer,saccharum,"Maple, sugar",7
+p0614,Fagus,grandifolia,"Beech, American",112
+p0614,Ostrya,virginiana,Hophornbeam,5
+p0614,Quercus,rubra,"Oak, red",12
+p0615,Acer,pensylvanicum,"Maple, striped",23
+p0615,Acer,saccharum,"Maple, sugar",9
+p0615,Betula,papyrifera,"Birch, paper",1
+p0615,Fagus,grandifolia,"Beech, American",151
+p0615,Ostrya,virginiana,Hophornbeam,4
+p0615,Quercus,rubra,"Oak, red",2
+p0616,Acer,pensylvanicum,"Maple, striped",22
+p0616,Acer,rubrum,"Maple, red",5
+p0616,Acer,saccharum,"Maple, sugar",1
+p0616,Betula,alleghaniensis,"Birch, yellow",1
+p0616,Betula,lenta,"Birch, black",1
+p0616,Betula,papyrifera,"Birch, paper",3
+p0616,Fagus,grandifolia,"Beech, American",116
+p0616,Hamamelis,virginiana,Witch-hazel,1
+p0616,Ostrya,virginiana,Hophornbeam,2
+p0616,Quercus,rubra,"Oak, red",7
+p0617,Acer,pensylvanicum,"Maple, striped",10
+p0617,Acer,rubrum,"Maple, red",10
+p0617,Acer,saccharum,"Maple, sugar",2
+p0617,Amelanchier,canadensis,Shadbush,5
+p0617,Betula,alleghaniensis,"Birch, yellow",1
+p0617,Betula,lenta,"Birch, black",19
+p0617,Betula,papyrifera,"Birch, paper",1
+p0617,Castanea,dentata,American chestnut,1
+p0617,Fagus,grandifolia,"Beech, American",52
+p0617,Hamamelis,virginiana,Witch-hazel,17
+p0617,Ostrya,virginiana,Hophornbeam,13
+p0617,Quercus,rubra,"Oak, red",1
+p0618,Acer,pensylvanicum,"Maple, striped",42
+p0618,Acer,rubrum,"Maple, red",28
+p0618,Amelanchier,canadensis,Shadbush,1
+p0618,Betula,lenta,"Birch, black",12
+p0618,Betula,papyrifera,"Birch, paper",9
+p0618,Castanea,dentata,American chestnut,1
+p0618,Fagus,grandifolia,"Beech, American",125
+p0618,Fraxinus,americana,"Ash, white",3
+p0618,Ostrya,virginiana,Hophornbeam,10
+p0618,Pinus,strobus,"Pine, white",23
+p0618,Quercus,rubra,"Oak, red",7
+p0619,Acer,rubrum,"Maple, red",23
+p0619,Amelanchier,canadensis,Shadbush,150
+p0619,Betula,lenta,"Birch, black",3
+p0619,Fagus,grandifolia,"Beech, American",12
+p0619,Ostrya,virginiana,Hophornbeam,2
+p0619,Pinus,strobus,"Pine, white",28
+p0619,Quercus,rubra,"Oak, red",49
+p0620,Acer,pensylvanicum,"Maple, striped",52
+p0620,Acer,rubrum,"Maple, red",36
+p0620,Amelanchier,canadensis,Shadbush,3
+p0620,Betula,alleghaniensis,"Birch, yellow",1
+p0620,Betula,lenta,"Birch, black",15
+p0620,Betula,papyrifera,"Birch, paper",4
+p0620,Fagus,grandifolia,"Beech, American",86
+p0620,Fraxinus,americana,"Ash, white",11
+p0620,Ostrya,virginiana,Hophornbeam,35
+p0620,Quercus,rubra,"Oak, red",9
+p0621,Acer,pensylvanicum,"Maple, striped",7
+p0621,Acer,rubrum,"Maple, red",106
+p0621,Betula,lenta,"Birch, black",1
+p0621,Fagus,grandifolia,"Beech, American",214
+p0621,Picea,rubens,"Spruce, red",1
+p0621,Pinus,strobus,"Pine, white",7
+p0621,Prunus,serotina,"Cherry, black",2
+p0621,Quercus,rubra,"Oak, red",9
+p0622,Acer,pensylvanicum,"Maple, striped",8
+p0622,Acer,rubrum,"Maple, red",62
+p0622,Betula,alleghaniensis,"Birch, yellow",5
+p0622,Betula,lenta,"Birch, black",14
+p0622,Betula,papyrifera,"Birch, paper",12
+p0622,Fagus,grandifolia,"Beech, American",70
+p0622,Frangula,alnus,"Buckthorn, glossy",1
+p0622,Ostrya,virginiana,Hophornbeam,1
+p0622,Pinus,strobus,"Pine, white",1
+p0622,Prunus,serotina,"Cherry, black",4
+p0622,Quercus,rubra,"Oak, red",7
+p0622,Vitis,species,Grape,1
+p0623,Acer,pensylvanicum,"Maple, striped",38
+p0623,Acer,rubrum,"Maple, red",23
+p0623,Acer,saccharum,"Maple, sugar",10
+p0623,Amelanchier,canadensis,Shadbush,10
+p0623,Betula,lenta,"Birch, black",8
+p0623,Fagus,grandifolia,"Beech, American",13
+p0623,Fraxinus,americana,"Ash, white",2
+p0623,Lyonia,ligustrina,Maleberry,2
+p0623,Prunus,serotina,"Cherry, black",50
+p0623,Quercus,rubra,"Oak, red",1
+p0624,Acer,pensylvanicum,"Maple, striped",18
+p0624,Acer,rubrum,"Maple, red",60
+p0624,Acer,saccharum,"Maple, sugar",5
+p0624,Amelanchier,canadensis,Shadbush,33
+p0624,Betula,lenta,"Birch, black",24
+p0624,Fagus,grandifolia,"Beech, American",73
+p0624,Fraxinus,americana,"Ash, white",1
+p0624,Ostrya,virginiana,Hophornbeam,2
+p0624,Pinus,strobus,"Pine, white",1
+p0624,Prunus,serotina,"Cherry, black",1
+p0624,Quercus,rubra,"Oak, red",17
+p0625,Acer,pensylvanicum,"Maple, striped",125
+p0625,Acer,rubrum,"Maple, red",48
+p0625,Acer,saccharum,"Maple, sugar",23
+p0625,Amelanchier,canadensis,Shadbush,2
+p0625,Betula,papyrifera,"Birch, paper",14
+p0625,Fagus,grandifolia,"Beech, American",21
+p0625,Fraxinus,americana,"Ash, white",11
+p0625,Ostrya,virginiana,Hophornbeam,5
+p0625,Quercus,rubra,"Oak, red",12
+p0625,Rhamnus,cathartica,"Buckthorn, common",1
+p0626,Acer,pensylvanicum,"Maple, striped",44
+p0626,Acer,rubrum,"Maple, red",53
+p0626,Acer,saccharum,"Maple, sugar",7
+p0626,Amelanchier,canadensis,Shadbush,2
+p0626,Betula,lenta,"Birch, black",18
+p0626,Fagus,grandifolia,"Beech, American",63
+p0626,Fraxinus,americana,"Ash, white",4
+p0626,Ostrya,virginiana,Hophornbeam,3
+p0626,Quercus,rubra,"Oak, red",5
+p0627,Acer,pensylvanicum,"Maple, striped",12
+p0627,Acer,rubrum,"Maple, red",23
+p0627,Alnus,incana,"Alder, speckled",72
+p0627,Amelanchier,canadensis,Shadbush,4
+p0627,Betula,lenta,"Birch, black",10
+p0627,Betula,papyrifera,"Birch, paper",4
+p0627,Crataegus,species,Hawthorn,11
+p0627,Fagus,grandifolia,"Beech, American",11
+p0627,Fraxinus,americana,"Ash, white",31
+p0627,Lonicera,species,Honeysuckle,21
+p0627,Lyonia,ligustrina,Maleberry,4
+p0627,Populus,tremuloides,"Aspen, quaking",3
+p0627,Prunus,serotina,"Cherry, black",4
+p0627,Quercus,rubra,"Oak, red",2
+p0627,Rhamnus,cathartica,"Buckthorn, common",13
+p0627,Tilia,americana,"Basswood, American",3
+p0627,Tsuga,canadensis,"Hemlock, eastern",1
+p0627,Ulmus,species,Elm,4
+p0627,Vitis,species,Grape,2
+p0628,Acer,pensylvanicum,"Maple, striped",13
+p0628,Acer,rubrum,"Maple, red",29
+p0628,Acer,saccharum,"Maple, sugar",3
+p0628,Alnus,incana,"Alder, speckled",18
+p0628,Amelanchier,canadensis,Shadbush,5
+p0628,Betula,lenta,"Birch, black",7
+p0628,Carya,cordiformis,Bitternut hickory,2
+p0628,Fagus,grandifolia,"Beech, American",14
+p0628,Frangula,alnus,"Buckthorn, glossy",6
+p0628,Fraxinus,americana,"Ash, white",70
+p0628,Lonicera,tatarica,"Honeysuckle, Tartarian",46
+p0628,Lyonia,ligustrina,Maleberry,3
+p0628,Malus,domestica,Apple,2
+p0628,Populus,tremuloides,"Aspen, quaking",3
+p0628,Prunus,serotina,"Cherry, black",4
+p0628,Quercus,rubra,"Oak, red",3
+p0628,Rhamnus,cathartica,"Buckthorn, common",4
+p0629,Acer,pensylvanicum,"Maple, striped",6
+p0629,Acer,rubrum,"Maple, red",65
+p0629,Carpinus,caroliniana,Musclewood,2
+p0629,Crataegus,species,Hawthorn,1
+p0629,Fagus,grandifolia,"Beech, American",13
+p0629,Fraxinus,americana,"Ash, white",12
+p0629,Lonicera,species,Honeysuckle,1
+p0629,Lonicera,xylosteum,"Honeysuckle, European fly",3
+p0629,Ostrya,virginiana,Hophornbeam,2
+p0629,Populus,tremuloides,"Aspen, quaking",1
+p0629,Prunus,serotina,"Cherry, black",13
+p0629,Quercus,rubra,"Oak, red",2
+p0629,Vitis,species,Grape,1
+p0630,Acer,pensylvanicum,"Maple, striped",3
+p0630,Acer,rubrum,"Maple, red",63
+p0630,Betula,papyrifera,"Birch, paper",1
+p0630,Betula,populifolia,"Birch, gray",1
+p0630,Fagus,grandifolia,"Beech, American",2
+p0630,Fraxinus,americana,"Ash, white",6
+p0630,Larix,laricina,Larch,2
+p0630,Picea,rubens,"Spruce, red",5
+p0630,Pinus,resinosa,"Pine, red",3
+p0630,Populus,tremuloides,"Aspen, quaking",1
+p0630,Prunus,serotina,"Cherry, black",33
+p0630,Quercus,rubra,"Oak, red",6
+p0631,Acer,rubrum,"Maple, red",3
+p0631,Amelanchier,canadensis,Shadbush,5
+p0631,Cornus,racemosa,"Dogwood, gray",1
+p0631,Crataegus,species,Hawthorn,14
+p0631,Fraxinus,americana,"Ash, white",16
+p0631,Lonicera,species,Honeysuckle,200
+p0631,Malus,domestica,Apple,2
+p0631,Prunus,serotina,"Cherry, black",22
+p0631,Rhamnus,cathartica,"Buckthorn, common",67
+p0631,Rosa,multiflora,"Rose, multiflora",10
+p0631,Vitis,species,Grape,38
+p0632,Acer,rubrum,"Maple, red",1
+p0632,Alnus,incana,"Alder, speckled",386
+p0632,Betula,populifolia,"Birch, gray",4
+p0632,Crataegus,species,Hawthorn,16
+p0632,Frangula,alnus,"Buckthorn, glossy",3
+p0632,Fraxinus,americana,"Ash, white",24
+p0632,Lonicera,species,Honeysuckle,71
+p0632,Lonicera,xylosteum,"Honeysuckle, European fly",5
+p0632,Malus,domestica,Apple,9
+p0632,Prunus,serotina,"Cherry, black",4
+p0632,Rhamnus,cathartica,"Buckthorn, common",75
+p0632,Rosa,species,Rose,20
+p0632,Salix,nigra,"Willow, black",43
+p0632,Viburnum,lentago,Nannyberry,3
+p0632,Vitis,species,Grape,3
+p0641,Acer,pensylvanicum,"Maple, striped",9
+p0641,Acer,saccharum,"Maple, sugar",33
+p0641,Betula,alleghaniensis,"Birch, yellow",1
+p0641,Betula,lenta,"Birch, black",1
+p0641,Fagus,grandifolia,"Beech, American",45
+p0641,Fraxinus,americana,"Ash, white",1
+p0641,Quercus,rubra,"Oak, red",1
+p0642,Acer,saccharum,"Maple, sugar",50
+p0642,Acer,spicatum,"Maple, mountain",2
+p0642,Carya,cordiformis,Bitternut hickory,1
+p0642,Fraxinus,americana,"Ash, white",1
+p0642,Quercus,rubra,"Oak, red",1
+p0642,Vitis,species,Grape,6
+p0643,Acer,pensylvanicum,"Maple, striped",2
+p0643,Acer,rubrum,"Maple, red",10
+p0643,Acer,saccharum,"Maple, sugar",47
+p0643,Carpinus,caroliniana,Musclewood,1
+p0643,Carya,cordiformis,Bitternut hickory,2
+p0643,Fagus,grandifolia,"Beech, American",1
+p0643,Fraxinus,americana,"Ash, white",3
+p0643,Ostrya,virginiana,Hophornbeam,9
+p0643,Vitis,species,Grape,18
+p0644,Acer,rubrum,"Maple, red",4
+p0644,Acer,saccharum,"Maple, sugar",10
+p0644,Amelanchier,canadensis,Shadbush,1
+p0644,Betula,lenta,"Birch, black",3
+p0644,Carpinus,caroliniana,Musclewood,12
+p0644,Carya,cordiformis,Bitternut hickory,9
+p0644,Fagus,grandifolia,"Beech, American",2
+p0644,Fraxinus,americana,"Ash, white",30
+p0644,Hamamelis,virginiana,Witch-hazel,4
+p0644,Lonicera,morrowii,"Honeysuckle, Morrow's",25
+p0644,Lonicera,species,Honeysuckle,1
+p0644,Ostrya,virginiana,Hophornbeam,1
+p0644,Prunus,serotina,"Cherry, black",1
+p0644,Rhamnus,cathartica,"Buckthorn, common",3
+p0644,Tsuga,canadensis,"Hemlock, eastern",2
+p0644,Ulmus,americana,"Elm, American",4
+p0701,Acer,pensylvanicum,"Maple, striped",6
+p0701,Acer,rubrum,"Maple, red",46
+p0701,Acer,saccharum,"Maple, sugar",1
+p0701,Amelanchier,canadensis,Shadbush,33
+p0701,Betula,alleghaniensis,"Birch, yellow",6
+p0701,Fagus,grandifolia,"Beech, American",69
+p0701,Ostrya,virginiana,Hophornbeam,1
+p0701,Prunus,serotina,"Cherry, black",12
+p0701,Quercus,rubra,"Oak, red",8
+p0702,Acer,pensylvanicum,"Maple, striped",55
+p0702,Acer,rubrum,"Maple, red",19
+p0702,Acer,saccharum,"Maple, sugar",21
+p0702,Amelanchier,canadensis,Shadbush,22
+p0702,Betula,alleghaniensis,"Birch, yellow",4
+p0702,Betula,papyrifera,"Birch, paper",17
+p0702,Fagus,grandifolia,"Beech, American",26
+p0702,Fraxinus,americana,"Ash, white",1
+p0702,Ostrya,virginiana,Hophornbeam,10
+p0702,Prunus,serotina,"Cherry, black",21
+p0702,Quercus,rubra,"Oak, red",6
+p0703,Acer,pensylvanicum,"Maple, striped",38
+p0703,Acer,rubrum,"Maple, red",17
+p0703,Acer,saccharum,"Maple, sugar",33
+p0703,Amelanchier,canadensis,Shadbush,10
+p0703,Betula,alleghaniensis,"Birch, yellow",23
+p0703,Betula,papyrifera,"Birch, paper",18
+p0703,Fagus,grandifolia,"Beech, American",20
+p0703,Ostrya,virginiana,Hophornbeam,3
+p0703,Populus,tremuloides,"Aspen, quaking",1
+p0703,Prunus,serotina,"Cherry, black",20
+p0703,Prunus,virginiana,"Cherry, choke",1
+p0703,Quercus,rubra,"Oak, red",2
+p0704,Acer,pensylvanicum,"Maple, striped",4
+p0704,Acer,saccharum,"Maple, sugar",7
+p0704,Betula,alleghaniensis,"Birch, yellow",1
+p0704,Fagus,grandifolia,"Beech, American",219
+p0704,Fraxinus,americana,"Ash, white",2
+p0704,Ostrya,virginiana,Hophornbeam,1
+p0705,Acer,pensylvanicum,"Maple, striped",28
+p0705,Acer,saccharum,"Maple, sugar",19
+p0705,Betula,alleghaniensis,"Birch, yellow",2
+p0705,Fagus,grandifolia,"Beech, American",21
+p0705,Fraxinus,americana,"Ash, white",2
+p0705,Quercus,rubra,"Oak, red",1
+p0706,Acer,pensylvanicum,"Maple, striped",12
+p0706,Acer,saccharum,"Maple, sugar",5
+p0706,Betula,alleghaniensis,"Birch, yellow",1
+p0706,Betula,papyrifera,"Birch, paper",1
+p0706,Fagus,grandifolia,"Beech, American",159
+p0706,Quercus,rubra,"Oak, red",1
+p0706,Tilia,americana,"Basswood, American",1
+p0707,Acer,pensylvanicum,"Maple, striped",29
+p0707,Acer,saccharum,"Maple, sugar",12
+p0707,Betula,alleghaniensis,"Birch, yellow",15
+p0707,Betula,lenta,"Birch, black",1
+p0707,Fagus,grandifolia,"Beech, American",63
+p0707,Fraxinus,americana,"Ash, white",2
+p0707,Hamamelis,virginiana,Witch-hazel,30
+p0707,Ostrya,virginiana,Hophornbeam,3
+p0707,Quercus,rubra,"Oak, red",9
+p0708,Acer,pensylvanicum,"Maple, striped",3
+p0708,Acer,rubrum,"Maple, red",4
+p0708,Betula,alleghaniensis,"Birch, yellow",2
+p0708,Betula,lenta,"Birch, black",9
+p0708,Fagus,grandifolia,"Beech, American",263
+p0708,Quercus,rubra,"Oak, red",9
+p0709,Acer,pensylvanicum,"Maple, striped",19
+p0709,Acer,rubrum,"Maple, red",15
+p0709,Acer,saccharum,"Maple, sugar",5
+p0709,Betula,alleghaniensis,"Birch, yellow",6
+p0709,Betula,lenta,"Birch, black",5
+p0709,Fagus,grandifolia,"Beech, American",54
+p0709,Quercus,rubra,"Oak, red",6
+p0710,Acer,pensylvanicum,"Maple, striped",26
+p0710,Acer,rubrum,"Maple, red",17
+p0710,Acer,saccharum,"Maple, sugar",18
+p0710,Betula,alleghaniensis,"Birch, yellow",1
+p0710,Betula,lenta,"Birch, black",3
+p0710,Betula,papyrifera,"Birch, paper",1
+p0710,Fagus,grandifolia,"Beech, American",53
+p0710,Hamamelis,virginiana,Witch-hazel,39
+p0710,Ostrya,virginiana,Hophornbeam,1
+p0710,Quercus,rubra,"Oak, red",8
+p0711,Acer,pensylvanicum,"Maple, striped",3
+p0711,Acer,rubrum,"Maple, red",3
+p0711,Acer,saccharum,"Maple, sugar",1
+p0711,Amelanchier,canadensis,Shadbush,1
+p0711,Betula,alleghaniensis,"Birch, yellow",3
+p0711,Betula,lenta,"Birch, black",3
+p0711,Betula,papyrifera,"Birch, paper",1
+p0711,Fagus,grandifolia,"Beech, American",175
+p0711,Populus,grandidentata,"Aspen, big-toothed",3
+p0711,Quercus,rubra,"Oak, red",10
+p0712,Acer,pensylvanicum,"Maple, striped",5
+p0712,Acer,rubrum,"Maple, red",12
+p0712,Amelanchier,canadensis,Shadbush,5
+p0712,Betula,papyrifera,"Birch, paper",2
+p0712,Castanea,dentata,American chestnut,2
+p0712,Fagus,grandifolia,"Beech, American",214
+p0712,Quercus,rubra,"Oak, red",12
+p0713,Acer,rubrum,"Maple, red",26
+p0713,Amelanchier,canadensis,Shadbush,29
+p0713,Betula,lenta,"Birch, black",3
+p0713,Betula,papyrifera,"Birch, paper",1
+p0713,Castanea,dentata,American chestnut,4
+p0713,Fagus,grandifolia,"Beech, American",188
+p0713,Picea,rubens,"Spruce, red",1
+p0713,Quercus,rubra,"Oak, red",16
+p0714,Acer,rubrum,"Maple, red",24
+p0714,Amelanchier,canadensis,Shadbush,17
+p0714,Betula,lenta,"Birch, black",5
+p0714,Fagus,grandifolia,"Beech, American",196
+p0714,Hamamelis,virginiana,Witch-hazel,3
+p0714,Pinus,strobus,"Pine, white",1
+p0714,Quercus,rubra,"Oak, red",16
+p0715,Acer,pensylvanicum,"Maple, striped",13
+p0715,Acer,rubrum,"Maple, red",2
+p0715,Amelanchier,canadensis,Shadbush,1
+p0715,Fagus,grandifolia,"Beech, American",302
+p0715,Quercus,rubra,"Oak, red",5
+p0716,Acer,pensylvanicum,"Maple, striped",35
+p0716,Acer,rubrum,"Maple, red",4
+p0716,Acer,saccharum,"Maple, sugar",4
+p0716,Betula,lenta,"Birch, black",1
+p0716,Betula,papyrifera,"Birch, paper",2
+p0716,Fagus,grandifolia,"Beech, American",69
+p0716,Ostrya,virginiana,Hophornbeam,5
+p0716,Quercus,rubra,"Oak, red",7
+p0717,Acer,pensylvanicum,"Maple, striped",36
+p0717,Acer,rubrum,"Maple, red",10
+p0717,Acer,saccharum,"Maple, sugar",3
+p0717,Betula,alleghaniensis,"Birch, yellow",2
+p0717,Betula,lenta,"Birch, black",7
+p0717,Betula,papyrifera,"Birch, paper",1
+p0717,Fagus,grandifolia,"Beech, American",46
+p0717,Fraxinus,americana,"Ash, white",3
+p0717,Ostrya,virginiana,Hophornbeam,4
+p0717,Quercus,rubra,"Oak, red",4
+p0718,Acer,pensylvanicum,"Maple, striped",41
+p0718,Acer,rubrum,"Maple, red",20
+p0718,Betula,lenta,"Birch, black",11
+p0718,Betula,papyrifera,"Birch, paper",1
+p0718,Fagus,grandifolia,"Beech, American",54
+p0718,Ostrya,virginiana,Hophornbeam,1
+p0718,Prunus,serotina,"Cherry, black",1
+p0718,Quercus,rubra,"Oak, red",14
+p0719,Acer,pensylvanicum,"Maple, striped",41
+p0719,Acer,rubrum,"Maple, red",18
+p0719,Amelanchier,canadensis,Shadbush,1
+p0719,Betula,alleghaniensis,"Birch, yellow",10
+p0719,Betula,lenta,"Birch, black",11
+p0719,Betula,papyrifera,"Birch, paper",10
+p0719,Castanea,dentata,American chestnut,1
+p0719,Fagus,grandifolia,"Beech, American",102
+p0719,Quercus,rubra,"Oak, red",2
+p0720,Acer,pensylvanicum,"Maple, striped",51
+p0720,Acer,rubrum,"Maple, red",34
+p0720,Acer,saccharum,"Maple, sugar",2
+p0720,Betula,alleghaniensis,"Birch, yellow",4
+p0720,Betula,lenta,"Birch, black",2
+p0720,Betula,papyrifera,"Birch, paper",2
+p0720,Carpinus,caroliniana,Musclewood,2
+p0720,Castanea,dentata,American chestnut,1
+p0720,Fagus,grandifolia,"Beech, American",24
+p0720,Fraxinus,americana,"Ash, white",1
+p0720,Ostrya,virginiana,Hophornbeam,3
+p0720,Prunus,serotina,"Cherry, black",3
+p0720,Quercus,rubra,"Oak, red",1
+p0721,Acer,pensylvanicum,"Maple, striped",46
+p0721,Acer,rubrum,"Maple, red",35
+p0721,Acer,saccharum,"Maple, sugar",4
+p0721,Amelanchier,canadensis,Shadbush,16
+p0721,Betula,lenta,"Birch, black",13
+p0721,Betula,papyrifera,"Birch, paper",11
+p0721,Castanea,dentata,American chestnut,5
+p0721,Fagus,grandifolia,"Beech, American",119
+p0721,Quercus,rubra,"Oak, red",16
+p0721,Tsuga,canadensis,"Hemlock, eastern",3
+p0722,Acer,rubrum,"Maple, red",39
+p0722,Acer,saccharum,"Maple, sugar",6
+p0722,Amelanchier,canadensis,Shadbush,17
+p0722,Betula,lenta,"Birch, black",37
+p0722,Betula,papyrifera,"Birch, paper",1
+p0722,Castanea,dentata,American chestnut,1
+p0722,Fagus,grandifolia,"Beech, American",120
+p0722,Ostrya,virginiana,Hophornbeam,1
+p0722,Pinus,strobus,"Pine, white",1
+p0722,Quercus,rubra,"Oak, red",31
+p0723,Acer,pensylvanicum,"Maple, striped",18
+p0723,Acer,rubrum,"Maple, red",35
+p0723,Acer,saccharum,"Maple, sugar",6
+p0723,Amelanchier,canadensis,Shadbush,2
+p0723,Betula,lenta,"Birch, black",40
+p0723,Betula,papyrifera,"Birch, paper",1
+p0723,Carpinus,caroliniana,Musclewood,2
+p0723,Fagus,grandifolia,"Beech, American",32
+p0723,Fraxinus,americana,"Ash, white",9
+p0723,Ostrya,virginiana,Hophornbeam,10
+p0723,Populus,tremuloides,"Aspen, quaking",2
+p0723,Quercus,rubra,"Oak, red",31
+p0723,Tilia,americana,"Basswood, American",6
+p0724,Acer,rubrum,"Maple, red",39
+p0724,Acer,saccharum,"Maple, sugar",6
+p0724,Amelanchier,canadensis,Shadbush,17
+p0724,Betula,alleghaniensis,"Birch, yellow",41
+p0724,Betula,lenta,"Birch, black",6
+p0724,Betula,papyrifera,"Birch, paper",1
+p0724,Castanea,dentata,American chestnut,3
+p0724,Fagus,grandifolia,"Beech, American",43
+p0724,Ostrya,virginiana,Hophornbeam,1
+p0724,Pinus,strobus,"Pine, white",1
+p0724,Prunus,serotina,"Cherry, black",2
+p0724,Quercus,rubra,"Oak, red",46
+p0725,Acer,pensylvanicum,"Maple, striped",26
+p0725,Acer,rubrum,"Maple, red",38
+p0725,Betula,lenta,"Birch, black",14
+p0725,Betula,papyrifera,"Birch, paper",5
+p0725,Fagus,grandifolia,"Beech, American",130
+p0725,Picea,rubens,"Spruce, red",1
+p0725,Quercus,rubra,"Oak, red",12
+p0726,Acer,pensylvanicum,"Maple, striped",167
+p0726,Acer,saccharum,"Maple, sugar",6
+p0726,Amelanchier,canadensis,Shadbush,8
+p0726,Fagus,grandifolia,"Beech, American",57
+p0726,Fraxinus,americana,"Ash, white",2
+p0726,Ostrya,virginiana,Hophornbeam,2
+p0726,Quercus,rubra,"Oak, red",3
+p0727,Acer,pensylvanicum,"Maple, striped",84
+p0727,Acer,rubrum,"Maple, red",33
+p0727,Acer,saccharum,"Maple, sugar",8
+p0727,Amelanchier,canadensis,Shadbush,3
+p0727,Betula,alleghaniensis,"Birch, yellow",1
+p0727,Betula,lenta,"Birch, black",26
+p0727,Betula,papyrifera,"Birch, paper",2
+p0727,Carpinus,caroliniana,Musclewood,5
+p0727,Fagus,grandifolia,"Beech, American",30
+p0727,Fraxinus,americana,"Ash, white",5
+p0727,Ostrya,virginiana,Hophornbeam,1
+p0727,Populus,tremuloides,"Aspen, quaking",2
+p0727,Prunus,serotina,"Cherry, black",2
+p0727,Quercus,rubra,"Oak, red",2
+p0728,Acer,pensylvanicum,"Maple, striped",1
+p0728,Acer,rubrum,"Maple, red",26
+p0728,Acer,saccharum,"Maple, sugar",1
+p0728,Alnus,incana,"Alder, speckled",4
+p0728,Amelanchier,canadensis,Shadbush,2
+p0728,Betula,lenta,"Birch, black",3
+p0728,Fagus,grandifolia,"Beech, American",2
+p0728,Fraxinus,americana,"Ash, white",70
+p0728,Lonicera,species,Honeysuckle,163
+p0728,Malus,domestica,Apple,3
+p0728,Ostrya,virginiana,Hophornbeam,1
+p0728,Prunus,serotina,"Cherry, black",14
+p0728,Quercus,rubra,"Oak, red",1
+p0728,Rhamnus,cathartica,"Buckthorn, common",8
+p0728,Vitis,species,Grape,2
+p0729,Acer,pensylvanicum,"Maple, striped",1
+p0729,Acer,rubrum,"Maple, red",5
+p0729,Alnus,incana,"Alder, speckled",53
+p0729,Betula,populifolia,"Birch, gray",6
+p0729,Crataegus,species,Hawthorn,4
+p0729,Frangula,alnus,"Buckthorn, glossy",5
+p0729,Fraxinus,americana,"Ash, white",108
+p0729,Lonicera,morrowii,"Honeysuckle, Morrow's",134
+p0729,Lonicera,xylosteum,"Honeysuckle, European fly",45
+p0729,Lyonia,ligustrina,Maleberry,3
+p0729,Populus,tremuloides,"Aspen, quaking",4
+p0729,Prunus,serotina,"Cherry, black",4
+p0729,Quercus,rubra,"Oak, red",3
+p0729,Rhamnus,cathartica,"Buckthorn, common",23
+p0729,Rosa,multiflora,"Rose, multiflora",18
+p0729,Vitis,species,Grape,1
+p0730,Acer,rubrum,"Maple, red",9
+p0730,Alnus,incana,"Alder, speckled",86
+p0730,Betula,populifolia,"Birch, gray",2
+p0730,Carya,cordiformis,Bitternut hickory,4
+p0730,Frangula,alnus,"Buckthorn, glossy",3
+p0730,Fraxinus,americana,"Ash, white",69
+p0730,Lonicera,morrowii,"Honeysuckle, Morrow's",215
+p0730,Lonicera,tatarica,"Honeysuckle, Tartarian",13
+p0730,Lonicera,xylosteum,"Honeysuckle, European fly",113
+p0730,Populus,tremuloides,"Aspen, quaking",2
+p0730,Prunus,serotina,"Cherry, black",7
+p0730,Rhamnus,cathartica,"Buckthorn, common",24
+p0730,Viburnum,lentago,Nannyberry,2
+p0731,Acer,pensylvanicum,"Maple, striped",7
+p0731,Acer,rubrum,"Maple, red",20
+p0731,Alnus,incana,"Alder, speckled",68
+p0731,Amelanchier,canadensis,Shadbush,11
+p0731,Betula,alleghaniensis,"Birch, yellow",1
+p0731,Betula,lenta,"Birch, black",1
+p0731,Betula,populifolia,"Birch, gray",41
+p0731,Carya,cordiformis,Bitternut hickory,5
+p0731,Corylus,americana,"Hazelnut, American",9
+p0731,Crataegus,species,Hawthorn,1
+p0731,Fagus,grandifolia,"Beech, American",10
+p0731,Frangula,alnus,"Buckthorn, glossy",119
+p0731,Fraxinus,americana,"Ash, white",22
+p0731,Lonicera,morrowii,"Honeysuckle, Morrow's",33
+p0731,Lyonia,ligustrina,Maleberry,18
+p0731,Pinus,strobus,"Pine, white",7
+p0731,Populus,tremuloides,"Aspen, quaking",17
+p0731,Prunus,serotina,"Cherry, black",11
+p0731,Rhamnus,cathartica,"Buckthorn, common",3
+p0731,Rosa,multiflora,"Rose, multiflora",1
+p0731,Ulmus,americana,"Elm, American",2
+p0731,Viburnum,dentatum,Arrow-wood,10
+p0738,Acer,rubrum,"Maple, red",45
+p0738,Acer,saccharum,"Maple, sugar",7
+p0738,Betula,lenta,"Birch, black",1
+p0738,Carya,cordiformis,Bitternut hickory,5
+p0738,Frangula,alnus,"Buckthorn, glossy",3
+p0738,Fraxinus,americana,"Ash, white",28
+p0738,Lonicera,morrowii,"Honeysuckle, Morrow's",12
+p0738,Lonicera,xylosteum,"Honeysuckle, European fly",15
+p0738,Prunus,serotina,"Cherry, black",7
+p0738,Quercus,rubra,"Oak, red",1
+p0738,Rhamnus,cathartica,"Buckthorn, common",26
+p0739,Acer,rubrum,"Maple, red",59
+p0739,Acer,saccharum,"Maple, sugar",14
+p0739,Fraxinus,americana,"Ash, white",1
+p0739,Prunus,serotina,"Cherry, black",7
+p0739,Quercus,rubra,"Oak, red",1
+p0739,Vitis,species,Grape,1
+p0740,Acer,pensylvanicum,"Maple, striped",4
+p0740,Acer,rubrum,"Maple, red",43
+p0740,Acer,saccharum,"Maple, sugar",4
+p0740,Betula,lenta,"Birch, black",1
+p0740,Carya,cordiformis,Bitternut hickory,1
+p0740,Fagus,grandifolia,"Beech, American",8
+p0740,Fraxinus,americana,"Ash, white",1
+p0740,Ostrya,virginiana,Hophornbeam,5
+p0740,Pinus,strobus,"Pine, white",1
+p0740,Quercus,rubra,"Oak, red",7
+p0741,Acer,pensylvanicum,"Maple, striped",15
+p0741,Acer,rubrum,"Maple, red",43
+p0741,Acer,saccharum,"Maple, sugar",18
+p0741,Amelanchier,canadensis,Shadbush,1
+p0741,Betula,lenta,"Birch, black",12
+p0741,Fagus,grandifolia,"Beech, American",11
+p0741,Fraxinus,americana,"Ash, white",25
+p0741,Ostrya,virginiana,Hophornbeam,6
+p0741,Quercus,rubra,"Oak, red",2
+p0741,Vitis,species,Grape,4
+p0742,Acer,pensylvanicum,"Maple, striped",5
+p0742,Acer,rubrum,"Maple, red",1
+p0742,Acer,saccharum,"Maple, sugar",50
+p0742,Acer,spicatum,"Maple, mountain",6
+p0742,Betula,alleghaniensis,"Birch, yellow",39
+p0742,Fraxinus,americana,"Ash, white",4
+p0742,Hamamelis,virginiana,Witch-hazel,31
+p0742,Ostrya,virginiana,Hophornbeam,6
+p0742,Quercus,rubra,"Oak, red",5
+p0742,Rhamnus,cathartica,"Buckthorn, common",1
+p0742,Vitis,species,Grape,1
+p0743,Acer,negundo,Box-elder,2
+p0743,Acer,pensylvanicum,"Maple, striped",5
+p0743,Acer,saccharum,"Maple, sugar",24
+p0743,Acer,spicatum,"Maple, mountain",37
+p0743,Carpinus,caroliniana,Musclewood,58
+p0743,Carya,cordiformis,Bitternut hickory,4
+p0743,Fraxinus,americana,"Ash, white",3
+p0743,Ostrya,virginiana,Hophornbeam,6
+p0743,Sambucus,racemosa,"Elderberry, red",26
+p0743,Tilia,americana,"Basswood, American",3
+p0743,Tsuga,canadensis,"Hemlock, eastern",1
+p0743,Vitis,species,Grape,124
+p0744,Acer,rubrum,"Maple, red",3
+p0744,Acer,saccharum,"Maple, sugar",10
+p0744,Carpinus,caroliniana,Musclewood,5
+p0744,Carya,cordiformis,Bitternut hickory,2
+p0744,Fraxinus,americana,"Ash, white",21
+p0744,Lonicera,morrowii,"Honeysuckle, Morrow's",16
+p0744,Ostrya,virginiana,Hophornbeam,1
+p0744,Prunus,serotina,"Cherry, black",1
+p0744,Quercus,rubra,"Oak, red",1
+p0744,Rhamnus,cathartica,"Buckthorn, common",11
+p0744,Ulmus,species,Elm,3
+p0801,Acer,pensylvanicum,"Maple, striped",109
+p0801,Acer,rubrum,"Maple, red",3
+p0801,Acer,saccharum,"Maple, sugar",12
+p0801,Betula,alleghaniensis,"Birch, yellow",1
+p0801,Betula,papyrifera,"Birch, paper",4
+p0801,Fagus,grandifolia,"Beech, American",215
+p0801,Quercus,rubra,"Oak, red",10
+p0802,Acer,pensylvanicum,"Maple, striped",9
+p0802,Acer,rubrum,"Maple, red",35
+p0802,Acer,saccharum,"Maple, sugar",15
+p0802,Amelanchier,canadensis,Shadbush,1
+p0802,Betula,alleghaniensis,"Birch, yellow",2
+p0802,Betula,papyrifera,"Birch, paper",14
+p0802,Fagus,grandifolia,"Beech, American",17
+p0802,Fraxinus,americana,"Ash, white",2
+p0802,Ostrya,virginiana,Hophornbeam,4
+p0802,Prunus,serotina,"Cherry, black",15
+p0803,Acer,pensylvanicum,"Maple, striped",44
+p0803,Acer,rubrum,"Maple, red",1
+p0803,Acer,saccharum,"Maple, sugar",5
+p0803,Amelanchier,canadensis,Shadbush,1
+p0803,Betula,alleghaniensis,"Birch, yellow",11
+p0803,Fagus,grandifolia,"Beech, American",263
+p0803,Prunus,serotina,"Cherry, black",1
+p0803,Quercus,rubra,"Oak, red",1
+p0804,Acer,pensylvanicum,"Maple, striped",12
+p0804,Acer,rubrum,"Maple, red",12
+p0804,Acer,saccharum,"Maple, sugar",1
+p0804,Betula,alleghaniensis,"Birch, yellow",2
+p0804,Fagus,grandifolia,"Beech, American",439
+p0804,Quercus,rubra,"Oak, red",1
+p0805,Acer,pensylvanicum,"Maple, striped",5
+p0805,Acer,rubrum,"Maple, red",7
+p0805,Betula,papyrifera,"Birch, paper",3
+p0805,Fagus,grandifolia,"Beech, American",567
+p0805,Quercus,rubra,"Oak, red",1
+p0806,Acer,pensylvanicum,"Maple, striped",19
+p0806,Acer,rubrum,"Maple, red",3
+p0806,Betula,papyrifera,"Birch, paper",3
+p0806,Fagus,grandifolia,"Beech, American",207
+p0806,Quercus,rubra,"Oak, red",6
+p0807,Acer,pensylvanicum,"Maple, striped",32
+p0807,Acer,rubrum,"Maple, red",1
+p0807,Acer,saccharum,"Maple, sugar",12
+p0807,Betula,alleghaniensis,"Birch, yellow",1
+p0807,Fagus,grandifolia,"Beech, American",68
+p0807,Quercus,rubra,"Oak, red",4
+p0808,Acer,pensylvanicum,"Maple, striped",24
+p0808,Acer,rubrum,"Maple, red",1
+p0808,Acer,saccharum,"Maple, sugar",4
+p0808,Fagus,grandifolia,"Beech, American",128
+p0808,Quercus,rubra,"Oak, red",4
+p0809,Acer,pensylvanicum,"Maple, striped",30
+p0809,Acer,saccharum,"Maple, sugar",2
+p0809,Betula,alleghaniensis,"Birch, yellow",5
+p0809,Betula,lenta,"Birch, black",1
+p0809,Fagus,grandifolia,"Beech, American",176
+p0809,Quercus,rubra,"Oak, red",2
+p0810,Acer,pensylvanicum,"Maple, striped",45
+p0810,Acer,rubrum,"Maple, red",5
+p0810,Betula,alleghaniensis,"Birch, yellow",4
+p0810,Betula,lenta,"Birch, black",15
+p0810,Betula,papyrifera,"Birch, paper",1
+p0810,Fagus,grandifolia,"Beech, American",277
+p0810,Quercus,rubra,"Oak, red",1
+p0811,Acer,pensylvanicum,"Maple, striped",55
+p0811,Acer,rubrum,"Maple, red",4
+p0811,Acer,saccharum,"Maple, sugar",3
+p0811,Betula,alleghaniensis,"Birch, yellow",1
+p0811,Fagus,grandifolia,"Beech, American",172
+p0811,Fraxinus,americana,"Ash, white",1
+p0811,Quercus,rubra,"Oak, red",3
+p0812,Acer,pensylvanicum,"Maple, striped",22
+p0812,Acer,rubrum,"Maple, red",4
+p0812,Acer,saccharum,"Maple, sugar",2
+p0812,Betula,alleghaniensis,"Birch, yellow",3
+p0812,Betula,papyrifera,"Birch, paper",1
+p0812,Fagus,grandifolia,"Beech, American",160
+p0812,Fraxinus,americana,"Ash, white",1
+p0813,Acer,pensylvanicum,"Maple, striped",43
+p0813,Acer,rubrum,"Maple, red",3
+p0813,Acer,saccharum,"Maple, sugar",10
+p0813,Betula,alleghaniensis,"Birch, yellow",3
+p0813,Betula,lenta,"Birch, black",2
+p0813,Fraxinus,americana,"Ash, white",3
+p0813,Ostrya,virginiana,Hophornbeam,2
+p0813,Quercus,rubra,"Oak, red",2
+p0814,Acer,pensylvanicum,"Maple, striped",11
+p0814,Acer,rubrum,"Maple, red",9
+p0814,Acer,saccharum,"Maple, sugar",13
+p0814,Betula,alleghaniensis,"Birch, yellow",5
+p0814,Betula,lenta,"Birch, black",2
+p0814,Betula,papyrifera,"Birch, paper",1
+p0814,Fagus,grandifolia,"Beech, American",102
+p0814,Fraxinus,americana,"Ash, white",2
+p0814,Hamamelis,virginiana,Witch-hazel,4
+p0814,Ostrya,virginiana,Hophornbeam,8
+p0814,Quercus,rubra,"Oak, red",6
+p0815,Acer,pensylvanicum,"Maple, striped",6
+p0815,Acer,rubrum,"Maple, red",5
+p0815,Amelanchier,canadensis,Shadbush,1
+p0815,Betula,lenta,"Birch, black",5
+p0815,Betula,papyrifera,"Birch, paper",2
+p0815,Castanea,dentata,American chestnut,2
+p0815,Fagus,grandifolia,"Beech, American",250
+p0815,Picea,rubens,"Spruce, red",1
+p0815,Quercus,rubra,"Oak, red",7
+p0816,Acer,rubrum,"Maple, red",4
+p0816,Betula,lenta,"Birch, black",5
+p0816,Betula,papyrifera,"Birch, paper",2
+p0816,Castanea,dentata,American chestnut,2
+p0816,Fagus,grandifolia,"Beech, American",303
+p0816,Quercus,rubra,"Oak, red",7
+p0817,Acer,pensylvanicum,"Maple, striped",3
+p0817,Acer,rubrum,"Maple, red",27
+p0817,Amelanchier,canadensis,Shadbush,8
+p0817,Betula,lenta,"Birch, black",4
+p0817,Betula,papyrifera,"Birch, paper",2
+p0817,Fagus,grandifolia,"Beech, American",195
+p0817,Picea,rubens,"Spruce, red",1
+p0817,Quercus,rubra,"Oak, red",24
+p0818,Acer,rubrum,"Maple, red",28
+p0818,Amelanchier,canadensis,Shadbush,7
+p0818,Betula,lenta,"Birch, black",19
+p0818,Betula,papyrifera,"Birch, paper",1
+p0818,Castanea,dentata,American chestnut,1
+p0818,Fagus,grandifolia,"Beech, American",105
+p0818,Quercus,rubra,"Oak, red",21
+p0818,Tsuga,canadensis,"Hemlock, eastern",1
+p0819,Acer,pensylvanicum,"Maple, striped",41
+p0819,Acer,rubrum,"Maple, red",29
+p0819,Acer,saccharum,"Maple, sugar",2
+p0819,Amelanchier,canadensis,Shadbush,5
+p0819,Betula,lenta,"Birch, black",2
+p0819,Betula,papyrifera,"Birch, paper",11
+p0819,Fagus,grandifolia,"Beech, American",61
+p0819,Fraxinus,americana,"Ash, white",2
+p0819,Ostrya,virginiana,Hophornbeam,9
+p0819,Quercus,rubra,"Oak, red",5
+p0820,Acer,pensylvanicum,"Maple, striped",75
+p0820,Acer,rubrum,"Maple, red",19
+p0820,Acer,saccharum,"Maple, sugar",5
+p0820,Betula,lenta,"Birch, black",13
+p0820,Betula,papyrifera,"Birch, paper",4
+p0820,Fagus,grandifolia,"Beech, American",29
+p0820,Fraxinus,americana,"Ash, white",3
+p0820,Ostrya,virginiana,Hophornbeam,8
+p0820,Pinus,strobus,"Pine, white",1
+p0820,Quercus,rubra,"Oak, red",5
+p0821,Acer,pensylvanicum,"Maple, striped",17
+p0821,Acer,rubrum,"Maple, red",76
+p0821,Amelanchier,canadensis,Shadbush,1
+p0821,Betula,lenta,"Birch, black",21
+p0821,Betula,papyrifera,"Birch, paper",3
+p0821,Betula,populifolia,"Birch, gray",1
+p0821,Fagus,grandifolia,"Beech, American",32
+p0821,Pinus,strobus,"Pine, white",2
+p0821,Populus,tremuloides,"Aspen, quaking",11
+p0821,Prunus,serotina,"Cherry, black",1
+p0822,Acer,pensylvanicum,"Maple, striped",21
+p0822,Acer,rubrum,"Maple, red",45
+p0822,Acer,saccharum,"Maple, sugar",1
+p0822,Amelanchier,canadensis,Shadbush,2
+p0822,Betula,alleghaniensis,"Birch, yellow",2
+p0822,Betula,lenta,"Birch, black",26
+p0822,Betula,papyrifera,"Birch, paper",17
+p0822,Castanea,dentata,American chestnut,1
+p0822,Fagus,grandifolia,"Beech, American",26
+p0822,Fraxinus,americana,"Ash, white",14
+p0822,Ostrya,virginiana,Hophornbeam,21
+p0822,Pinus,strobus,"Pine, white",6
+p0822,Populus,grandidentata,"Aspen, big-toothed",1
+p0822,Populus,tremuloides,"Aspen, quaking",1
+p0822,Prunus,serotina,"Cherry, black",3
+p0822,Quercus,rubra,"Oak, red",3
+p0823,Acer,pensylvanicum,"Maple, striped",40
+p0823,Acer,rubrum,"Maple, red",12
+p0823,Acer,saccharum,"Maple, sugar",32
+p0823,Betula,lenta,"Birch, black",6
+p0823,Betula,papyrifera,"Birch, paper",4
+p0823,Fagus,grandifolia,"Beech, American",14
+p0823,Fraxinus,americana,"Ash, white",27
+p0823,Ostrya,virginiana,Hophornbeam,1
+p0823,Picea,rubens,"Spruce, red",1
+p0823,Populus,grandidentata,"Aspen, big-toothed",2
+p0823,Populus,tremuloides,"Aspen, quaking",1
+p0823,Prunus,serotina,"Cherry, black",1
+p0824,Acer,pensylvanicum,"Maple, striped",6
+p0824,Acer,rubrum,"Maple, red",23
+p0824,Acer,saccharum,"Maple, sugar",23
+p0824,Amelanchier,canadensis,Shadbush,3
+p0824,Betula,lenta,"Birch, black",1
+p0824,Betula,papyrifera,"Birch, paper",1
+p0824,Crataegus,species,Hawthorn,5
+p0824,Fraxinus,americana,"Ash, white",33
+p0824,Lonicera,species,Honeysuckle,37
+p0824,Malus,domestica,Apple,9
+p0824,Ostrya,virginiana,Hophornbeam,1
+p0824,Populus,grandidentata,"Aspen, big-toothed",1
+p0824,Populus,tremuloides,"Aspen, quaking",4
+p0824,Prunus,serotina,"Cherry, black",5
+p0824,Quercus,rubra,"Oak, red",5
+p0825,Acer,pensylvanicum,"Maple, striped",20
+p0825,Acer,rubrum,"Maple, red",35
+p0825,Acer,saccharum,"Maple, sugar",8
+p0825,Amelanchier,canadensis,Shadbush,6
+p0825,Betula,lenta,"Birch, black",9
+p0825,Betula,papyrifera,"Birch, paper",6
+p0825,Betula,populifolia,"Birch, gray",2
+p0825,Carpinus,caroliniana,Musclewood,2
+p0825,Fagus,grandifolia,"Beech, American",38
+p0825,Fraxinus,americana,"Ash, white",8
+p0825,Lonicera,species,Honeysuckle,9
+p0825,Ostrya,virginiana,Hophornbeam,4
+p0825,Pinus,strobus,"Pine, white",1
+p0825,Populus,grandidentata,"Aspen, big-toothed",4
+p0825,Populus,tremuloides,"Aspen, quaking",1
+p0825,Prunus,serotina,"Cherry, black",10
+p0825,Quercus,rubra,"Oak, red",3
+p0825,Rhamnus,cathartica,"Buckthorn, common",4
+p0826,Acer,pensylvanicum,"Maple, striped",2
+p0826,Acer,rubrum,"Maple, red",57
+p0826,Acer,saccharum,"Maple, sugar",5
+p0826,Amelanchier,canadensis,Shadbush,8
+p0826,Betula,lenta,"Birch, black",23
+p0826,Fagus,grandifolia,"Beech, American",100
+p0826,Fraxinus,americana,"Ash, white",6
+p0826,Ostrya,virginiana,Hophornbeam,3
+p0826,Picea,rubens,"Spruce, red",1
+p0826,Prunus,serotina,"Cherry, black",2
+p0826,Quercus,rubra,"Oak, red",9
+p0827,Acer,pensylvanicum,"Maple, striped",80
+p0827,Acer,rubrum,"Maple, red",45
+p0827,Acer,saccharum,"Maple, sugar",15
+p0827,Betula,alleghaniensis,"Birch, yellow",1
+p0827,Betula,lenta,"Birch, black",8
+p0827,Fagus,grandifolia,"Beech, American",38
+p0827,Fraxinus,americana,"Ash, white",4
+p0827,Hamamelis,virginiana,Witch-hazel,3
+p0827,Prunus,serotina,"Cherry, black",2
+p0827,Quercus,rubra,"Oak, red",2
+p0828,Acer,pensylvanicum,"Maple, striped",7
+p0828,Acer,rubrum,"Maple, red",22
+p0828,Acer,saccharum,"Maple, sugar",12
+p0828,Amelanchier,canadensis,Shadbush,5
+p0828,Betula,lenta,"Birch, black",7
+p0828,Carpinus,caroliniana,Musclewood,5
+p0828,Crataegus,species,Hawthorn,4
+p0828,Fagus,grandifolia,"Beech, American",49
+p0828,Fraxinus,americana,"Ash, white",33
+p0828,Lonicera,species,Honeysuckle,28
+p0828,Ostrya,virginiana,Hophornbeam,10
+p0828,Pinus,strobus,"Pine, white",1
+p0828,Populus,grandidentata,"Aspen, big-toothed",1
+p0828,Populus,tremuloides,"Aspen, quaking",1
+p0828,Prunus,serotina,"Cherry, black",2
+p0828,Quercus,rubra,"Oak, red",1
+p0828,Rhamnus,cathartica,"Buckthorn, common",8
+p0828,Tilia,americana,"Basswood, American",6
+p0828,Vitis,species,Grape,3
+p0829,Acer,rubrum,"Maple, red",13
+p0829,Acer,saccharum,"Maple, sugar",8
+p0829,Alnus,incana,"Alder, speckled",7
+p0829,Betula,lenta,"Birch, black",19
+p0829,Betula,papyrifera,"Birch, paper",4
+p0829,Betula,populifolia,"Birch, gray",1
+p0829,Fagus,grandifolia,"Beech, American",12
+p0829,Fraxinus,americana,"Ash, white",74
+p0829,Lonicera,species,Honeysuckle,67
+p0829,Ostrya,virginiana,Hophornbeam,7
+p0829,Populus,tremuloides,"Aspen, quaking",1
+p0829,Prunus,serotina,"Cherry, black",1
+p0829,Prunus,virginiana,"Cherry, choke",1
+p0829,Quercus,rubra,"Oak, red",3
+p0829,Rhamnus,cathartica,"Buckthorn, common",4
+p0829,Tilia,americana,"Basswood, American",7
+p0830,Acer,pensylvanicum,"Maple, striped",1
+p0830,Acer,rubrum,"Maple, red",9
+p0830,Acer,saccharum,"Maple, sugar",2
+p0830,Alnus,incana,"Alder, speckled",13
+p0830,Betula,lenta,"Birch, black",1
+p0830,Betula,papyrifera,"Birch, paper",1
+p0830,Betula,populifolia,"Birch, gray",3
+p0830,Crataegus,species,Hawthorn,2
+p0830,Fagus,grandifolia,"Beech, American",5
+p0830,Fraxinus,americana,"Ash, white",124
+p0830,Lonicera,tatarica,"Honeysuckle, Tartarian",120
+p0830,Malus,domestica,Apple,1
+p0830,Ostrya,virginiana,Hophornbeam,1
+p0830,Populus,tremuloides,"Aspen, quaking",3
+p0830,Prunus,serotina,"Cherry, black",1
+p0830,Rhamnus,cathartica,"Buckthorn, common",24
+p0830,Rosa,multiflora,"Rose, multiflora",34
+p0830,Ulmus,americana,"Elm, American",2
+p0830,Viburnum,lentago,Nannyberry,4
+p0831,Acer,rubrum,"Maple, red",9
+p0831,Alnus,incana,"Alder, speckled",31
+p0831,Betula,populifolia,"Birch, gray",7
+p0831,Crataegus,species,Hawthorn,10
+p0831,Fagus,grandifolia,"Beech, American",1
+p0831,Fraxinus,americana,"Ash, white",46
+p0831,Lonicera,species,Honeysuckle,147
+p0831,Lonicera,xylosteum,"Honeysuckle, European fly",25
+p0831,Malus,domestica,Apple,3
+p0831,Ostrya,virginiana,Hophornbeam,3
+p0831,Populus,tremuloides,"Aspen, quaking",1
+p0831,Prunus,serotina,"Cherry, black",5
+p0831,Rhamnus,cathartica,"Buckthorn, common",120
+p0831,Rosa,multiflora,"Rose, multiflora",12
+p0831,Tilia,americana,"Basswood, American",1
+p0831,Ulmus,americana,"Elm, American",1
+p0831,Viburnum,lentago,Nannyberry,10
+p0831,Vitis,species,Grape,1
+p0841,Acer,rubrum,"Maple, red",23
+p0841,Acer,saccharum,"Maple, sugar",4
+p0841,Betula,lenta,"Birch, black",4
+p0841,Carya,cordiformis,Bitternut hickory,10
+p0841,Fagus,grandifolia,"Beech, American",1
+p0841,Fraxinus,americana,"Ash, white",25
+p0841,Lonicera,morrowii,"Honeysuckle, Morrow's",1
+p0841,Ostrya,virginiana,Hophornbeam,12
+p0841,Prunus,serotina,"Cherry, black",46
+p0841,Quercus,rubra,"Oak, red",3
+p0841,Rhamnus,cathartica,"Buckthorn, common",6
+p0841,Vitis,species,Grape,7
+p0842,Acer,pensylvanicum,"Maple, striped",10
+p0842,Acer,rubrum,"Maple, red",7
+p0842,Acer,saccharum,"Maple, sugar",66
+p0842,Fagus,grandifolia,"Beech, American",21
+p0842,Fraxinus,americana,"Ash, white",2
+p0842,Hamamelis,virginiana,Witch-hazel,2
+p0842,Ostrya,virginiana,Hophornbeam,10
+p0842,Prunus,serotina,"Cherry, black",1
+p0842,Quercus,rubra,"Oak, red",1
+p0842,Vitis,species,Grape,43
+p0843,Acer,pensylvanicum,"Maple, striped",3
+p0843,Acer,saccharum,"Maple, sugar",75
+p0843,Betula,lenta,"Birch, black",5
+p0843,Carya,cordiformis,Bitternut hickory,1
+p0843,Fagus,grandifolia,"Beech, American",4
+p0843,Fraxinus,americana,"Ash, white",1
+p0843,Hamamelis,virginiana,Witch-hazel,19
+p0843,Ostrya,virginiana,Hophornbeam,1
+p0843,Vitis,species,Grape,28
+p0844,Acer,pensylvanicum,"Maple, striped",3
+p0844,Acer,rubrum,"Maple, red",36
+p0844,Acer,saccharum,"Maple, sugar",8
+p0844,Betula,lenta,"Birch, black",6
+p0844,Fagus,grandifolia,"Beech, American",15
+p0844,Hamamelis,virginiana,Witch-hazel,5
+p0844,Ostrya,virginiana,Hophornbeam,7
+p0844,Quercus,rubra,"Oak, red",1
+p0844,Tsuga,canadensis,"Hemlock, eastern",1
+p0845,Acer,rubrum,"Maple, red",8
+p0845,Acer,saccharum,"Maple, sugar",20
+p0845,Amelanchier,canadensis,Shadbush,2
+p0845,Betula,lenta,"Birch, black",6
+p0845,Carya,cordiformis,Bitternut hickory,3
+p0845,Fagus,grandifolia,"Beech, American",5
+p0845,Fraxinus,americana,"Ash, white",8
+p0845,Ulmus,americana,"Elm, American",1
+p0846,Acer,negundo,Box-elder,1
+p0846,Acer,rubrum,"Maple, red",2
+p0846,Berberis,thunbergii,Japanese barberry,5
+p0846,Crataegus,species,Hawthorn,3
+p0846,Fraxinus,americana,"Ash, white",17
+p0846,Lonicera,morrowii,"Honeysuckle, Morrow's",78
+p0846,Lonicera,species,Honeysuckle,7
+p0846,Lonicera,xylosteum,"Honeysuckle, European fly",17
+p0846,Prunus,serotina,"Cherry, black",4
+p0846,Tilia,americana,"Basswood, American",1
+p0846,Ulmus,americana,"Elm, American",12
+p0901,Acer,pensylvanicum,"Maple, striped",51
+p0901,Acer,rubrum,"Maple, red",21
+p0901,Acer,saccharum,"Maple, sugar",1
+p0901,Amelanchier,canadensis,Shadbush,1
+p0901,Betula,alleghaniensis,"Birch, yellow",9
+p0901,Betula,papyrifera,"Birch, paper",12
+p0901,Fagus,grandifolia,"Beech, American",148
+p0901,Pinus,resinosa,"Pine, red",1
+p0901,Quercus,rubra,"Oak, red",21
+p0901,Sorbus,americana,"Ash, American mountain",1
+p0902,Acer,saccharum,"Maple, sugar",6
+p0902,Betula,alleghaniensis,"Birch, yellow",4
+p0902,Fagus,grandifolia,"Beech, American",339
+p0902,Prunus,serotina,"Cherry, black",1
+p0903,Acer,pensylvanicum,"Maple, striped",7
+p0903,Acer,saccharum,"Maple, sugar",19
+p0903,Betula,alleghaniensis,"Birch, yellow",2
+p0903,Fagus,grandifolia,"Beech, American",114
+p0903,Prunus,serotina,"Cherry, black",1
+p0904,Acer,pensylvanicum,"Maple, striped",16
+p0904,Acer,saccharum,"Maple, sugar",7
+p0904,Betula,alleghaniensis,"Birch, yellow",3
+p0904,Betula,papyrifera,"Birch, paper",1
+p0904,Fagus,grandifolia,"Beech, American",207
+p0904,Fraxinus,americana,"Ash, white",2
+p0905,Acer,pensylvanicum,"Maple, striped",26
+p0905,Acer,saccharum,"Maple, sugar",15
+p0905,Fagus,grandifolia,"Beech, American",69
+p0905,Fraxinus,americana,"Ash, white",2
+p0906,Acer,pensylvanicum,"Maple, striped",7
+p0906,Acer,rubrum,"Maple, red",3
+p0906,Acer,saccharum,"Maple, sugar",1
+p0906,Betula,alleghaniensis,"Birch, yellow",2
+p0906,Betula,lenta,"Birch, black",8
+p0906,Fagus,grandifolia,"Beech, American",276
+p0907,Acer,pensylvanicum,"Maple, striped",3
+p0907,Acer,rubrum,"Maple, red",8
+p0907,Betula,alleghaniensis,"Birch, yellow",5
+p0907,Betula,papyrifera,"Birch, paper",3
+p0907,Fagus,grandifolia,"Beech, American",261
+p0907,Quercus,rubra,"Oak, red",12
+p0908,Acer,pensylvanicum,"Maple, striped",8
+p0908,Acer,rubrum,"Maple, red",5
+p0908,Acer,saccharum,"Maple, sugar",5
+p0908,Betula,alleghaniensis,"Birch, yellow",3
+p0908,Fagus,grandifolia,"Beech, American",205
+p0908,Quercus,rubra,"Oak, red",1
+p0909,Acer,pensylvanicum,"Maple, striped",4
+p0909,Acer,rubrum,"Maple, red",3
+p0909,Acer,saccharum,"Maple, sugar",7
+p0909,Betula,alleghaniensis,"Birch, yellow",1
+p0909,Betula,papyrifera,"Birch, paper",1
+p0909,Fagus,grandifolia,"Beech, American",201
+p0909,Fraxinus,americana,"Ash, white",1
+p0909,Ostrya,virginiana,Hophornbeam,1
+p0909,Quercus,rubra,"Oak, red",5
+p0910,Acer,pensylvanicum,"Maple, striped",2
+p0910,Acer,rubrum,"Maple, red",7
+p0910,Betula,lenta,"Birch, black",3
+p0910,Castanea,dentata,American chestnut,2
+p0910,Fagus,grandifolia,"Beech, American",174
+p0910,Quercus,rubra,"Oak, red",15
+p0911,Acer,rubrum,"Maple, red",5
+p0911,Amelanchier,canadensis,Shadbush,2
+p0911,Betula,lenta,"Birch, black",7
+p0911,Betula,papyrifera,"Birch, paper",1
+p0911,Castanea,dentata,American chestnut,2
+p0911,Fagus,grandifolia,"Beech, American",254
+p0911,Picea,rubens,"Spruce, red",1
+p0911,Quercus,rubra,"Oak, red",12
+p0912,Acer,pensylvanicum,"Maple, striped",15
+p0912,Acer,rubrum,"Maple, red",10
+p0912,Betula,lenta,"Birch, black",4
+p0912,Betula,papyrifera,"Birch, paper",1
+p0912,Fagus,grandifolia,"Beech, American",256
+p0912,Quercus,rubra,"Oak, red",2
+p0913,Acer,pensylvanicum,"Maple, striped",7
+p0913,Acer,rubrum,"Maple, red",14
+p0913,Acer,saccharum,"Maple, sugar",2
+p0913,Amelanchier,canadensis,Shadbush,21
+p0913,Betula,lenta,"Birch, black",5
+p0913,Fagus,grandifolia,"Beech, American",143
+p0913,Quercus,rubra,"Oak, red",23
+p0914,Acer,pensylvanicum,"Maple, striped",12
+p0914,Acer,rubrum,"Maple, red",32
+p0914,Amelanchier,canadensis,Shadbush,17
+p0914,Betula,lenta,"Birch, black",28
+p0914,Castanea,dentata,American chestnut,2
+p0914,Fagus,grandifolia,"Beech, American",141
+p0914,Quercus,rubra,"Oak, red",22
+p0915,Acer,pensylvanicum,"Maple, striped",31
+p0915,Acer,rubrum,"Maple, red",4
+p0915,Acer,saccharum,"Maple, sugar",8
+p0915,Betula,lenta,"Birch, black",5
+p0915,Fagus,grandifolia,"Beech, American",92
+p0915,Fraxinus,americana,"Ash, white",19
+p0915,Ostrya,virginiana,Hophornbeam,21
+p0915,Quercus,rubra,"Oak, red",3
+p0916,Acer,pensylvanicum,"Maple, striped",23
+p0916,Acer,rubrum,"Maple, red",16
+p0916,Acer,saccharum,"Maple, sugar",2
+p0916,Amelanchier,canadensis,Shadbush,10
+p0916,Betula,alleghaniensis,"Birch, yellow",4
+p0916,Betula,lenta,"Birch, black",4
+p0916,Betula,papyrifera,"Birch, paper",3
+p0916,Carpinus,caroliniana,Musclewood,1
+p0916,Castanea,dentata,American chestnut,5
+p0916,Fagus,grandifolia,"Beech, American",93
+p0916,Fraxinus,americana,"Ash, white",1
+p0916,Ostrya,virginiana,Hophornbeam,12
+p0916,Quercus,rubra,"Oak, red",7
+p0917,Acer,pensylvanicum,"Maple, striped",34
+p0917,Acer,rubrum,"Maple, red",3
+p0917,Acer,saccharum,"Maple, sugar",5
+p0917,Betula,alleghaniensis,"Birch, yellow",2
+p0917,Betula,papyrifera,"Birch, paper",1
+p0917,Fagus,grandifolia,"Beech, American",185
+p0917,Ostrya,virginiana,Hophornbeam,1
+p0918,Acer,pensylvanicum,"Maple, striped",7
+p0918,Acer,rubrum,"Maple, red",3
+p0918,Betula,lenta,"Birch, black",8
+p0918,Betula,papyrifera,"Birch, paper",1
+p0918,Fagus,grandifolia,"Beech, American",268
+p0918,Quercus,rubra,"Oak, red",1
+p0919,Acer,pensylvanicum,"Maple, striped",1
+p0919,Acer,rubrum,"Maple, red",7
+p0919,Betula,lenta,"Birch, black",2
+p0919,Fagus,grandifolia,"Beech, American",322
+p0919,Hamamelis,virginiana,Witch-hazel,13
+p0919,Quercus,rubra,"Oak, red",20
+p0920,Acer,rubrum,"Maple, red",9
+p0920,Amelanchier,canadensis,Shadbush,1
+p0920,Betula,lenta,"Birch, black",2
+p0920,Fagus,grandifolia,"Beech, American",235
+p0920,Quercus,rubra,"Oak, red",23
+p0921,Acer,pensylvanicum,"Maple, striped",17
+p0921,Acer,rubrum,"Maple, red",45
+p0921,Betula,papyrifera,"Birch, paper",20
+p0921,Fagus,grandifolia,"Beech, American",154
+p0921,Quercus,rubra,"Oak, red",5
+p0922,Acer,pensylvanicum,"Maple, striped",98
+p0922,Acer,rubrum,"Maple, red",46
+p0922,Acer,saccharum,"Maple, sugar",29
+p0922,Amelanchier,canadensis,Shadbush,1
+p0922,Betula,lenta,"Birch, black",3
+p0922,Betula,papyrifera,"Birch, paper",36
+p0922,Fagus,grandifolia,"Beech, American",65
+p0922,Fraxinus,americana,"Ash, white",1
+p0922,Populus,tremuloides,"Aspen, quaking",2
+p0923,Acer,pensylvanicum,"Maple, striped",33
+p0923,Acer,rubrum,"Maple, red",25
+p0923,Acer,saccharum,"Maple, sugar",1
+p0923,Alnus,incana,"Alder, speckled",2
+p0923,Amelanchier,canadensis,Shadbush,8
+p0923,Betula,lenta,"Birch, black",1
+p0923,Betula,papyrifera,"Birch, paper",3
+p0923,Betula,populifolia,"Birch, gray",1
+p0923,Fagus,grandifolia,"Beech, American",39
+p0923,Lonicera,species,Honeysuckle,8
+p0923,Ostrya,virginiana,Hophornbeam,4
+p0923,Pinus,strobus,"Pine, white",1
+p0923,Populus,tremuloides,"Aspen, quaking",4
+p0923,Quercus,rubra,"Oak, red",2
+p0923,Tsuga,canadensis,"Hemlock, eastern",1
+p0923,Vitis,species,Grape,1
+p0924,Acer,rubrum,"Maple, red",22
+p0924,Acer,saccharum,"Maple, sugar",2
+p0924,Amelanchier,canadensis,Shadbush,1
+p0924,Betula,papyrifera,"Birch, paper",8
+p0924,Fagus,grandifolia,"Beech, American",112
+p0924,Pinus,strobus,"Pine, white",48
+p0924,Quercus,rubra,"Oak, red",12
+p0925,Acer,pensylvanicum,"Maple, striped",6
+p0925,Acer,rubrum,"Maple, red",28
+p0925,Acer,saccharum,"Maple, sugar",1
+p0925,Amelanchier,canadensis,Shadbush,4
+p0925,Betula,alleghaniensis,"Birch, yellow",33
+p0925,Betula,lenta,"Birch, black",3
+p0925,Fagus,grandifolia,"Beech, American",90
+p0925,Fraxinus,americana,"Ash, white",1
+p0925,Hamamelis,virginiana,Witch-hazel,48
+p0925,Lindera,benzoin,Spicebush,2
+p0925,Ostrya,virginiana,Hophornbeam,1
+p0925,Picea,rubens,"Spruce, red",1
+p0925,Quercus,rubra,"Oak, red",5
+p0925,Ulmus,americana,"Elm, American",1
+p0926,Acer,rubrum,"Maple, red",34
+p0926,Acer,saccharum,"Maple, sugar",3
+p0926,Amelanchier,canadensis,Shadbush,15
+p0926,Betula,alleghaniensis,"Birch, yellow",3
+p0926,Betula,papyrifera,"Birch, paper",1
+p0926,Carpinus,caroliniana,Musclewood,1
+p0926,Fagus,grandifolia,"Beech, American",228
+p0926,Ostrya,virginiana,Hophornbeam,6
+p0926,Pinus,strobus,"Pine, white",1
+p0926,Quercus,rubra,"Oak, red",13
+p0927,Acer,rubrum,"Maple, red",31
+p0927,Amelanchier,canadensis,Shadbush,8
+p0927,Betula,lenta,"Birch, black",89
+p0927,Fagus,grandifolia,"Beech, American",111
+p0927,Pinus,strobus,"Pine, white",2
+p0927,Quercus,rubra,"Oak, red",23
+p0928,Acer,pensylvanicum,"Maple, striped",1
+p0928,Acer,rubrum,"Maple, red",37
+p0928,Acer,saccharum,"Maple, sugar",1
+p0928,Amelanchier,canadensis,Shadbush,1
+p0928,Betula,alleghaniensis,"Birch, yellow",1
+p0928,Betula,lenta,"Birch, black",48
+p0928,Fagus,grandifolia,"Beech, American",55
+p0928,Hamamelis,virginiana,Witch-hazel,16
+p0928,Ostrya,virginiana,Hophornbeam,4
+p0928,Prunus,serotina,"Cherry, black",3
+p0928,Quercus,rubra,"Oak, red",12
+p0929,Acer,pensylvanicum,"Maple, striped",7
+p0929,Acer,rubrum,"Maple, red",25
+p0929,Acer,saccharum,"Maple, sugar",27
+p0929,Amelanchier,canadensis,Shadbush,3
+p0929,Betula,lenta,"Birch, black",1
+p0929,Carpinus,caroliniana,Musclewood,1
+p0929,Fagus,grandifolia,"Beech, American",59
+p0929,Fraxinus,americana,"Ash, white",21
+p0929,Ostrya,virginiana,Hophornbeam,15
+p0929,Picea,rubens,"Spruce, red",1
+p0929,Populus,tremuloides,"Aspen, quaking",1
+p0929,Prunus,serotina,"Cherry, black",2
+p0929,Quercus,rubra,"Oak, red",7
+p0930,Acer,pensylvanicum,"Maple, striped",1
+p0930,Acer,rubrum,"Maple, red",8
+p0930,Acer,saccharum,"Maple, sugar",1
+p0930,Alnus,incana,"Alder, speckled",200
+p0930,Amelanchier,canadensis,Shadbush,3
+p0930,Betula,lenta,"Birch, black",1
+p0930,Betula,populifolia,"Birch, gray",9
+p0930,Carya,cordiformis,Bitternut hickory,1
+p0930,Crataegus,species,Hawthorn,1
+p0930,Fagus,grandifolia,"Beech, American",11
+p0930,Frangula,alnus,"Buckthorn, glossy",19
+p0930,Fraxinus,americana,"Ash, white",92
+p0930,Lonicera,species,Honeysuckle,36
+p0930,Lonicera,xylosteum,"Honeysuckle, European fly",1
+p0930,Lyonia,ligustrina,Maleberry,4
+p0930,Malus,domestica,Apple,1
+p0930,Populus,tremuloides,"Aspen, quaking",1
+p0930,Prunus,serotina,"Cherry, black",4
+p0930,Quercus,rubra,"Oak, red",1
+p0930,Rhamnus,alnifolia,"Buckthorn, alder-leaved",51
+p0930,Rosa,multiflora,"Rose, multiflora",4
+p0930,Vitis,species,Grape,1
+p0931,Acer,pensylvanicum,"Maple, striped",2
+p0931,Acer,rubrum,"Maple, red",27
+p0931,Acer,saccharum,"Maple, sugar",8
+p0931,Fagus,grandifolia,"Beech, American",14
+p0931,Fraxinus,americana,"Ash, white",23
+p0931,Lonicera,species,Honeysuckle,1
+p0931,Ostrya,virginiana,Hophornbeam,2
+p0931,Populus,tremuloides,"Aspen, quaking",4
+p0931,Prunus,serotina,"Cherry, black",9
+p0931,Quercus,rubra,"Oak, red",1
+p0932,Acer,platanoides,"Maple, Norway",2
+p0932,Acer,rubrum,"Maple, red",9
+p0932,Acer,saccharum,"Maple, sugar",12
+p0932,Betula,lenta,"Birch, black",3
+p0932,Betula,papyrifera,"Birch, paper",4
+p0932,Cornus,alternifolia,"Dogwood, alternate-leaved",1
+p0932,Fagus,grandifolia,"Beech, American",2
+p0932,Fraxinus,americana,"Ash, white",22
+p0932,Lonicera,xylosteum,"Honeysuckle, European fly",13
+p0932,Prunus,serotina,"Cherry, black",2
+p0932,Quercus,rubra,"Oak, red",1
+p0932,Rhamnus,cathartica,"Buckthorn, common",3
+p0933,Acer,platanoides,"Maple, Norway",2
+p0933,Acer,rubrum,"Maple, red",13
+p0933,Acer,saccharum,"Maple, sugar",1
+p0933,Alnus,incana,"Alder, speckled",2
+p0933,Betula,lenta,"Birch, black",2
+p0933,Betula,papyrifera,"Birch, paper",1
+p0933,Carpinus,caroliniana,Musclewood,27
+p0933,Carya,cordiformis,Bitternut hickory,3
+p0933,Crataegus,species,Hawthorn,10
+p0933,Eurybia,divaricata,"Aster, white wood",1
+p0933,Fraxinus,americana,"Ash, white",24
+p0933,Hamamelis,virginiana,Witch-hazel,6
+p0933,Lonicera,tatarica,"Honeysuckle, Tartarian",16
+p0933,Lonicera,xylosteum,"Honeysuckle, European fly",7
+p0933,Malus,domestica,Apple,6
+p0933,Ostrya,virginiana,Hophornbeam,7
+p0933,Populus,tremuloides,"Aspen, quaking",2
+p0933,Prunus,serotina,"Cherry, black",3
+p0933,Quercus,rubra,"Oak, red",3
+p0933,Rhamnus,cathartica,"Buckthorn, common",43
+p0933,Ulmus,americana,"Elm, American",2
+p0933,Vitis,species,Grape,1
+p0934,Acer,pensylvanicum,"Maple, striped",4
+p0934,Acer,rubrum,"Maple, red",1
+p0934,Acer,saccharum,"Maple, sugar",19
+p0934,Betula,alleghaniensis,"Birch, yellow",11
+p0934,Betula,lenta,"Birch, black",7
+p0934,Carpinus,caroliniana,Musclewood,1
+p0934,Carya,cordiformis,Bitternut hickory,1
+p0934,Fraxinus,americana,"Ash, white",3
+p0934,Hamamelis,virginiana,Witch-hazel,4
+p0934,Lonicera,tatarica,"Honeysuckle, Tartarian",64
+p0934,Ostrya,virginiana,Hophornbeam,36
+p0934,Quercus,rubra,"Oak, red",4
+p0935,Acer,pensylvanicum,"Maple, striped",4
+p0935,Acer,rubrum,"Maple, red",11
+p0935,Acer,saccharum,"Maple, sugar",2
+p0935,Amelanchier,canadensis,Shadbush,1
+p0935,Betula,alleghaniensis,"Birch, yellow",14
+p0935,Betula,lenta,"Birch, black",30
+p0935,Carpinus,caroliniana,Musclewood,5
+p0935,Fagus,grandifolia,"Beech, American",71
+p0935,Ostrya,virginiana,Hophornbeam,6
+p0935,Quercus,rubra,"Oak, red",13
+p0935,Ulmus,americana,"Elm, American",2
+p0938,Acer,rubrum,"Maple, red",5
+p0938,Acer,saccharum,"Maple, sugar",113
+p0938,Fraxinus,americana,"Ash, white",9
+p0938,Prunus,serotina,"Cherry, black",7
+p0938,Ulmus,americana,"Elm, American",2
+p0939,Acer,negundo,Box-elder,1
+p0939,Acer,rubrum,"Maple, red",5
+p0939,Acer,saccharum,"Maple, sugar",8
+p0939,Betula,papyrifera,"Birch, paper",1
+p0939,Carya,cordiformis,Bitternut hickory,1
+p0939,Fraxinus,americana,"Ash, white",8
+p0939,Juglans,cinerea,Butternut,1
+p0939,Lonicera,morrowii,"Honeysuckle, Morrow's",80
+p0939,Lonicera,xylosteum,"Honeysuckle, European fly",1
+p0939,Prunus,serotina,"Cherry, black",5
+p0939,Quercus,rubra,"Oak, red",1
+p0939,Rhamnus,cathartica,"Buckthorn, common",55
+p0939,Tilia,americana,"Basswood, American",1
+p0939,Ulmus,americana,"Elm, American",4
+p0939,Vitis,species,Grape,32
+p0940,Acer,rubrum,"Maple, red",61
+p0940,Acer,saccharum,"Maple, sugar",17
+p0940,Fraxinus,americana,"Ash, white",8
+p0940,Ostrya,virginiana,Hophornbeam,1
+p0940,Prunus,serotina,"Cherry, black",8
+p0940,Ulmus,americana,"Elm, American",6
+p0941,Acer,rubrum,"Maple, red",32
+p0941,Acer,saccharum,"Maple, sugar",25
+p0941,Betula,lenta,"Birch, black",1
+p0941,Fagus,grandifolia,"Beech, American",1
+p0941,Fraxinus,americana,"Ash, white",2
+p0941,Ostrya,virginiana,Hophornbeam,2
+p0941,Prunus,serotina,"Cherry, black",1
+p0941,Quercus,rubra,"Oak, red",1
+p0941,Ulmus,americana,"Elm, American",1
+p0942,Acer,saccharum,"Maple, sugar",138
+p0942,Betula,lenta,"Birch, black",2
+p0942,Fagus,grandifolia,"Beech, American",54
+p0942,Ostrya,virginiana,Hophornbeam,1
+p0942,Quercus,rubra,"Oak, red",3
+p0943,Acer,rubrum,"Maple, red",4
+p0943,Acer,saccharum,"Maple, sugar",43
+p0943,Carya,cordiformis,Bitternut hickory,6
+p0943,Fagus,grandifolia,"Beech, American",1
+p0943,Fraxinus,americana,"Ash, white",17
+p0943,Ostrya,virginiana,Hophornbeam,2
+p0943,Vitis,species,Grape,13
+p0944,Acer,pensylvanicum,"Maple, striped",1
+p0944,Acer,rubrum,"Maple, red",31
+p0944,Acer,saccharum,"Maple, sugar",5
+p0944,Carpinus,caroliniana,Musclewood,5
+p0944,Carya,cordiformis,Bitternut hickory,6
+p0944,Fagus,grandifolia,"Beech, American",1
+p0944,Fraxinus,americana,"Ash, white",2
+p0944,Ostrya,virginiana,Hophornbeam,16
+p0944,Prunus,serotina,"Cherry, black",1
+p0944,Quercus,rubra,"Oak, red",4
+p0944,Ulmus,americana,"Elm, American",1
+p0944,Vitis,species,Grape,13
+p0945,Acer,rubrum,"Maple, red",9
+p0945,Acer,saccharum,"Maple, sugar",15
+p0945,Carya,cordiformis,Bitternut hickory,1
+p0945,Fagus,grandifolia,"Beech, American",9
+p0945,Ostrya,virginiana,Hophornbeam,14
+p0945,Quercus,rubra,"Oak, red",5
+p0945,Vitis,species,Grape,3
+p0946,Acer,pensylvanicum,"Maple, striped",2
+p0946,Acer,rubrum,"Maple, red",6
+p0946,Acer,saccharum,"Maple, sugar",8
+p0946,Betula,alleghaniensis,"Birch, yellow",1
+p0946,Betula,lenta,"Birch, black",8
+p0946,Carpinus,caroliniana,Musclewood,10
+p0946,Carya,cordiformis,Bitternut hickory,5
+p0946,Fagus,grandifolia,"Beech, American",5
+p0946,Fraxinus,americana,"Ash, white",3
+p0946,Hamamelis,virginiana,Witch-hazel,11
+p0946,Ostrya,virginiana,Hophornbeam,5
+p0946,Populus,grandidentata,"Aspen, big-toothed",1
+p0946,Tsuga,canadensis,"Hemlock, eastern",2
+p0946,Vitis,species,Grape,4
+p0947,Acer,pensylvanicum,"Maple, striped",1
+p0947,Acer,rubrum,"Maple, red",3
+p0947,Acer,saccharum,"Maple, sugar",10
+p0947,Carpinus,caroliniana,Musclewood,4
+p0947,Crataegus,species,Hawthorn,1
+p0947,Fraxinus,americana,"Ash, white",13
+p0947,Lonicera,morrowii,"Honeysuckle, Morrow's",55
+p0947,Lonicera,xylosteum,"Honeysuckle, European fly",12
+p0947,Prunus,serotina,"Cherry, black",2
+p0947,Tilia,americana,"Basswood, American",5
+p0947,Ulmus,americana,"Elm, American",5
+p1000,Acer,pensylvanicum,"Maple, striped",1
+p1000,Acer,saccharum,"Maple, sugar",16
+p1000,Acer,spicatum,"Maple, mountain",76
+p1000,Betula,alleghaniensis,"Birch, yellow",47
+p1000,Cornus,alternifolia,"Dogwood, alternate-leaved",1
+p1000,Fagus,grandifolia,"Beech, American",24
+p1000,Fraxinus,americana,"Ash, white",3
+p1001,Acer,pensylvanicum,"Maple, striped",66
+p1001,Acer,saccharum,"Maple, sugar",25
+p1001,Betula,alleghaniensis,"Birch, yellow",8
+p1001,Fagus,grandifolia,"Beech, American",251
+p1001,Fraxinus,americana,"Ash, white",2
+p1001,Hamamelis,virginiana,Witch-hazel,6
+p1001,Ostrya,virginiana,Hophornbeam,1
+p1001,Prunus,serotina,"Cherry, black",1
+p1001,Quercus,rubra,"Oak, red",1
+p1002,Acer,saccharum,"Maple, sugar",2
+p1002,Fagus,grandifolia,"Beech, American",180
+p1002,Ostrya,virginiana,Hophornbeam,1
+p1002,Prunus,serotina,"Cherry, black",1
+p1002,Quercus,rubra,"Oak, red",18
+p1003,Acer,pensylvanicum,"Maple, striped",34
+p1003,Acer,saccharum,"Maple, sugar",28
+p1003,Betula,alleghaniensis,"Birch, yellow",2
+p1003,Fagus,grandifolia,"Beech, American",231
+p1003,Prunus,serotina,"Cherry, black",1
+p1004,Acer,pensylvanicum,"Maple, striped",32
+p1004,Acer,saccharum,"Maple, sugar",16
+p1004,Betula,alleghaniensis,"Birch, yellow",2
+p1004,Fagus,grandifolia,"Beech, American",220
+p1005,Acer,pensylvanicum,"Maple, striped",37
+p1005,Acer,saccharum,"Maple, sugar",14
+p1005,Betula,alleghaniensis,"Birch, yellow",4
+p1005,Fagus,grandifolia,"Beech, American",272
+p1006,Acer,pensylvanicum,"Maple, striped",26
+p1006,Acer,saccharum,"Maple, sugar",12
+p1006,Betula,alleghaniensis,"Birch, yellow",6
+p1006,Fagus,grandifolia,"Beech, American",105
+p1006,Fraxinus,americana,"Ash, white",1
+p1007,Acer,pensylvanicum,"Maple, striped",22
+p1007,Acer,rubrum,"Maple, red",1
+p1007,Acer,saccharum,"Maple, sugar",7
+p1007,Betula,alleghaniensis,"Birch, yellow",5
+p1007,Fagus,grandifolia,"Beech, American",83
+p1007,Quercus,rubra,"Oak, red",2
+p1008,Acer,pensylvanicum,"Maple, striped",25
+p1008,Acer,rubrum,"Maple, red",1
+p1008,Acer,saccharum,"Maple, sugar",12
+p1008,Betula,alleghaniensis,"Birch, yellow",1
+p1008,Fagus,grandifolia,"Beech, American",111
+p1008,Fraxinus,americana,"Ash, white",2
+p1009,Acer,pensylvanicum,"Maple, striped",28
+p1009,Acer,rubrum,"Maple, red",1
+p1009,Acer,saccharum,"Maple, sugar",12
+p1009,Betula,lenta,"Birch, black",1
+p1009,Fagus,grandifolia,"Beech, American",144
+p1009,Quercus,rubra,"Oak, red",1
+p1010,Acer,pensylvanicum,"Maple, striped",15
+p1010,Acer,saccharum,"Maple, sugar",4
+p1010,Betula,alleghaniensis,"Birch, yellow",3
+p1010,Betula,lenta,"Birch, black",2
+p1010,Betula,papyrifera,"Birch, paper",1
+p1010,Fagus,grandifolia,"Beech, American",209
+p1010,Quercus,rubra,"Oak, red",1
+p1011,Acer,pensylvanicum,"Maple, striped",46
+p1011,Acer,rubrum,"Maple, red",3
+p1011,Acer,saccharum,"Maple, sugar",14
+p1011,Betula,alleghaniensis,"Birch, yellow",4
+p1011,Betula,papyrifera,"Birch, paper",1
+p1011,Fagus,grandifolia,"Beech, American",70
+p1011,Ostrya,virginiana,Hophornbeam,2
+p1011,Quercus,rubra,"Oak, red",5
+p1011,Tilia,americana,"Basswood, American",1
+p1012,Acer,pensylvanicum,"Maple, striped",7
+p1012,Acer,rubrum,"Maple, red",10
+p1012,Acer,saccharum,"Maple, sugar",2
+p1012,Betula,alleghaniensis,"Birch, yellow",9
+p1012,Betula,lenta,"Birch, black",4
+p1012,Betula,papyrifera,"Birch, paper",1
+p1012,Fagus,grandifolia,"Beech, American",143
+p1012,Quercus,rubra,"Oak, red",7
+p1013,Acer,pensylvanicum,"Maple, striped",3
+p1013,Acer,rubrum,"Maple, red",15
+p1013,Betula,alleghaniensis,"Birch, yellow",3
+p1013,Betula,lenta,"Birch, black",1
+p1013,Betula,papyrifera,"Birch, paper",4
+p1013,Castanea,dentata,American chestnut,1
+p1013,Fagus,grandifolia,"Beech, American",179
+p1013,Quercus,rubra,"Oak, red",6
+p1014,Acer,pensylvanicum,"Maple, striped",29
+p1014,Acer,rubrum,"Maple, red",9
+p1014,Amelanchier,canadensis,Shadbush,1
+p1014,Betula,alleghaniensis,"Birch, yellow",6
+p1014,Betula,lenta,"Birch, black",7
+p1014,Betula,papyrifera,"Birch, paper",1
+p1014,Fagus,grandifolia,"Beech, American",178
+p1014,Quercus,rubra,"Oak, red",19
+p1015,Acer,pensylvanicum,"Maple, striped",18
+p1015,Acer,rubrum,"Maple, red",12
+p1015,Amelanchier,canadensis,Shadbush,5
+p1015,Betula,alleghaniensis,"Birch, yellow",2
+p1015,Betula,lenta,"Birch, black",7
+p1015,Betula,papyrifera,"Birch, paper",5
+p1015,Castanea,dentata,American chestnut,1
+p1015,Fagus,grandifolia,"Beech, American",135
+p1015,Quercus,rubra,"Oak, red",2
+p1016,Acer,pensylvanicum,"Maple, striped",29
+p1016,Acer,rubrum,"Maple, red",18
+p1016,Amelanchier,canadensis,Shadbush,14
+p1016,Betula,alleghaniensis,"Birch, yellow",5
+p1016,Betula,lenta,"Birch, black",8
+p1016,Betula,papyrifera,"Birch, paper",11
+p1016,Fagus,grandifolia,"Beech, American",73
+p1016,Quercus,rubra,"Oak, red",6
+p1017,Acer,pensylvanicum,"Maple, striped",71
+p1017,Acer,rubrum,"Maple, red",9
+p1017,Betula,lenta,"Birch, black",7
+p1017,Castanea,dentata,American chestnut,1
+p1017,Fagus,grandifolia,"Beech, American",155
+p1017,Quercus,rubra,"Oak, red",9
+p1018,Acer,pensylvanicum,"Maple, striped",35
+p1018,Acer,rubrum,"Maple, red",2
+p1018,Betula,alleghaniensis,"Birch, yellow",2
+p1018,Betula,lenta,"Birch, black",10
+p1018,Betula,papyrifera,"Birch, paper",1
+p1018,Fagus,grandifolia,"Beech, American",186
+p1018,Ostrya,virginiana,Hophornbeam,1
+p1018,Quercus,rubra,"Oak, red",6
+p1019,Acer,pensylvanicum,"Maple, striped",61
+p1019,Acer,rubrum,"Maple, red",2
+p1019,Acer,saccharum,"Maple, sugar",2
+p1019,Betula,alleghaniensis,"Birch, yellow",14
+p1019,Betula,lenta,"Birch, black",1
+p1019,Castanea,dentata,American chestnut,3
+p1019,Fagus,grandifolia,"Beech, American",142
+p1019,Fraxinus,americana,"Ash, white",1
+p1019,Ostrya,virginiana,Hophornbeam,1
+p1020,Acer,pensylvanicum,"Maple, striped",17
+p1020,Acer,rubrum,"Maple, red",8
+p1020,Betula,alleghaniensis,"Birch, yellow",5
+p1020,Betula,lenta,"Birch, black",5
+p1020,Betula,papyrifera,"Birch, paper",1
+p1020,Castanea,dentata,American chestnut,1
+p1020,Fagus,grandifolia,"Beech, American",228
+p1020,Hamamelis,virginiana,Witch-hazel,4
+p1020,Quercus,rubra,"Oak, red",2
+p1021,Acer,rubrum,"Maple, red",45
+p1021,Betula,lenta,"Birch, black",4
+p1021,Betula,papyrifera,"Birch, paper",12
+p1021,Castanea,dentata,American chestnut,1
+p1021,Fagus,grandifolia,"Beech, American",179
+p1021,Picea,rubens,"Spruce, red",4
+p1021,Populus,grandidentata,"Aspen, big-toothed",1
+p1021,Populus,tremuloides,"Aspen, quaking",1
+p1021,Quercus,rubra,"Oak, red",6
+p1022,Acer,rubrum,"Maple, red",24
+p1022,Amelanchier,canadensis,Shadbush,2
+p1022,Betula,lenta,"Birch, black",27
+p1022,Betula,papyrifera,"Birch, paper",17
+p1022,Fagus,grandifolia,"Beech, American",110
+p1022,Populus,grandidentata,"Aspen, big-toothed",1
+p1022,Quercus,rubra,"Oak, red",5
+p1023,Acer,pensylvanicum,"Maple, striped",5
+p1023,Acer,rubrum,"Maple, red",43
+p1023,Amelanchier,canadensis,Shadbush,6
+p1023,Betula,lenta,"Birch, black",15
+p1023,Betula,papyrifera,"Birch, paper",7
+p1023,Fagus,grandifolia,"Beech, American",110
+p1023,Picea,rubens,"Spruce, red",1
+p1023,Pinus,strobus,"Pine, white",4
+p1023,Quercus,rubra,"Oak, red",24
+p1024,Acer,rubrum,"Maple, red",12
+p1024,Amelanchier,canadensis,Shadbush,10
+p1024,Betula,alleghaniensis,"Birch, yellow",2
+p1024,Betula,lenta,"Birch, black",8
+p1024,Betula,papyrifera,"Birch, paper",2
+p1024,Castanea,dentata,American chestnut,1
+p1024,Fagus,grandifolia,"Beech, American",275
+p1024,Picea,rubens,"Spruce, red",1
+p1024,Pinus,strobus,"Pine, white",6
+p1024,Quercus,rubra,"Oak, red",20
+p1024,Tsuga,canadensis,"Hemlock, eastern",3
+p1025,Acer,rubrum,"Maple, red",13
+p1025,Amelanchier,canadensis,Shadbush,2
+p1025,Betula,alleghaniensis,"Birch, yellow",10
+p1025,Betula,lenta,"Birch, black",12
+p1025,Betula,papyrifera,"Birch, paper",2
+p1025,Fagus,grandifolia,"Beech, American",126
+p1025,Hamamelis,virginiana,Witch-hazel,2
+p1025,Quercus,rubra,"Oak, red",1
+p1026,Acer,pensylvanicum,"Maple, striped",6
+p1026,Acer,rubrum,"Maple, red",18
+p1026,Amelanchier,canadensis,Shadbush,6
+p1026,Betula,alleghaniensis,"Birch, yellow",6
+p1026,Betula,lenta,"Birch, black",6
+p1026,Betula,papyrifera,"Birch, paper",2
+p1026,Fagus,grandifolia,"Beech, American",217
+p1026,Hamamelis,virginiana,Witch-hazel,30
+p1026,Picea,rubens,"Spruce, red",5
+p1026,Quercus,rubra,"Oak, red",4
+p1026,Tsuga,canadensis,"Hemlock, eastern",1
+p1027,Acer,pensylvanicum,"Maple, striped",4
+p1027,Acer,rubrum,"Maple, red",13
+p1027,Acer,saccharum,"Maple, sugar",3
+p1027,Amelanchier,canadensis,Shadbush,5
+p1027,Betula,alleghaniensis,"Birch, yellow",5
+p1027,Betula,lenta,"Birch, black",7
+p1027,Betula,papyrifera,"Birch, paper",13
+p1027,Carpinus,caroliniana,Musclewood,8
+p1027,Fagus,grandifolia,"Beech, American",158
+p1027,Fraxinus,americana,"Ash, white",4
+p1027,Hamamelis,virginiana,Witch-hazel,59
+p1027,Ostrya,virginiana,Hophornbeam,5
+p1027,Quercus,rubra,"Oak, red",4
+p1028,Acer,pensylvanicum,"Maple, striped",2
+p1028,Acer,rubrum,"Maple, red",8
+p1028,Amelanchier,canadensis,Shadbush,1
+p1028,Betula,lenta,"Birch, black",19
+p1028,Betula,papyrifera,"Birch, paper",1
+p1028,Carpinus,caroliniana,Musclewood,2
+p1028,Fagus,grandifolia,"Beech, American",154
+p1028,Fraxinus,americana,"Ash, white",1
+p1028,Hamamelis,virginiana,Witch-hazel,36
+p1028,Ostrya,virginiana,Hophornbeam,6
+p1028,Prunus,serotina,"Cherry, black",1
+p1028,Quercus,rubra,"Oak, red",5
+p1029,Acer,rubrum,"Maple, red",24
+p1029,Amelanchier,canadensis,Shadbush,2
+p1029,Betula,lenta,"Birch, black",2
+p1029,Betula,papyrifera,"Birch, paper",1
+p1029,Carpinus,caroliniana,Musclewood,9
+p1029,Carya,cordiformis,Bitternut hickory,1
+p1029,Fagus,grandifolia,"Beech, American",150
+p1029,Fraxinus,americana,"Ash, white",11
+p1029,Hamamelis,virginiana,Witch-hazel,34
+p1029,Ostrya,virginiana,Hophornbeam,30
+p1029,Pinus,strobus,"Pine, white",1
+p1029,Quercus,rubra,"Oak, red",5
+p1030,Acer,rubrum,"Maple, red",39
+p1030,Betula,lenta,"Birch, black",28
+p1030,Betula,papyrifera,"Birch, paper",1
+p1030,Carpinus,caroliniana,Musclewood,4
+p1030,Crataegus,species,Hawthorn,1
+p1030,Fagus,grandifolia,"Beech, American",157
+p1030,Fraxinus,americana,"Ash, white",1
+p1030,Ostrya,virginiana,Hophornbeam,26
+p1030,Pinus,strobus,"Pine, white",4
+p1030,Populus,tremuloides,"Aspen, quaking",2
+p1030,Prunus,serotina,"Cherry, black",1
+p1030,Quercus,rubra,"Oak, red",15
+p1031,Acer,rubrum,"Maple, red",22
+p1031,Amelanchier,canadensis,Shadbush,2
+p1031,Betula,lenta,"Birch, black",10
+p1031,Fagus,grandifolia,"Beech, American",257
+p1031,Pinus,strobus,"Pine, white",5
+p1031,Prunus,serotina,"Cherry, black",1
+p1031,Quercus,rubra,"Oak, red",19
+p1032,Acer,pensylvanicum,"Maple, striped",6
+p1032,Acer,rubrum,"Maple, red",72
+p1032,Amelanchier,canadensis,Shadbush,4
+p1032,Betula,lenta,"Birch, black",3
+p1032,Crataegus,species,Hawthorn,1
+p1032,Fagus,grandifolia,"Beech, American",54
+p1032,Frangula,alnus,"Buckthorn, glossy",4
+p1032,Fraxinus,americana,"Ash, white",13
+p1032,Larix,laricina,Larch,3
+p1032,Lonicera,tatarica,"Honeysuckle, Tartarian",2
+p1032,Picea,abies,"Spruce, Norway",19
+p1032,Quercus,rubra,"Oak, red",2
+p1033,Acer,rubrum,"Maple, red",25
+p1033,Betula,lenta,"Birch, black",23
+p1033,Fagus,grandifolia,"Beech, American",137
+p1033,Quercus,rubra,"Oak, red",11
+p1034,Acer,pensylvanicum,"Maple, striped",28
+p1034,Acer,rubrum,"Maple, red",2
+p1034,Acer,saccharum,"Maple, sugar",29
+p1034,Betula,alleghaniensis,"Birch, yellow",2
+p1034,Betula,lenta,"Birch, black",5
+p1034,Fagus,grandifolia,"Beech, American",24
+p1034,Fraxinus,americana,"Ash, white",1
+p1034,Ostrya,virginiana,Hophornbeam,4
+p1034,Quercus,rubra,"Oak, red",2
+p1035,Acer,pensylvanicum,"Maple, striped",38
+p1035,Acer,rubrum,"Maple, red",9
+p1035,Acer,saccharum,"Maple, sugar",6
+p1035,Betula,alleghaniensis,"Birch, yellow",15
+p1035,Betula,lenta,"Birch, black",16
+p1035,Castanea,dentata,American chestnut,1
+p1035,Fagus,grandifolia,"Beech, American",109
+p1035,Fraxinus,americana,"Ash, white",3
+p1035,Quercus,rubra,"Oak, red",1
+p1035,Tilia,americana,"Basswood, American",1
+p1036,Acer,pensylvanicum,"Maple, striped",1
+p1036,Acer,rubrum,"Maple, red",11
+p1036,Acer,saccharum,"Maple, sugar",36
+p1036,Betula,alleghaniensis,"Birch, yellow",1
+p1036,Betula,lenta,"Birch, black",2
+p1036,Carpinus,caroliniana,Musclewood,1
+p1036,Fagus,grandifolia,"Beech, American",72
+p1036,Hamamelis,virginiana,Witch-hazel,11
+p1036,Ostrya,virginiana,Hophornbeam,6
+p1036,Tilia,americana,"Basswood, American",2
+p1037,Acer,rubrum,"Maple, red",2
+p1037,Acer,saccharum,"Maple, sugar",64
+p1037,Betula,alleghaniensis,"Birch, yellow",3
+p1037,Betula,lenta,"Birch, black",13
+p1037,Carpinus,caroliniana,Musclewood,22
+p1037,Carya,cordiformis,Bitternut hickory,1
+p1037,Fagus,grandifolia,"Beech, American",23
+p1037,Fraxinus,americana,"Ash, white",7
+p1037,Ostrya,virginiana,Hophornbeam,24
+p1037,Tilia,americana,"Basswood, American",3
+p1038,Acer,rubrum,"Maple, red",19
+p1038,Acer,saccharum,"Maple, sugar",22
+p1038,Amelanchier,canadensis,Shadbush,1
+p1038,Betula,alleghaniensis,"Birch, yellow",1
+p1038,Betula,lenta,"Birch, black",2
+p1038,Betula,papyrifera,"Birch, paper",1
+p1038,Carpinus,caroliniana,Musclewood,45
+p1038,Carya,cordiformis,Bitternut hickory,1
+p1038,Fagus,grandifolia,"Beech, American",60
+p1038,Fraxinus,americana,"Ash, white",28
+p1038,Lonicera,species,Honeysuckle,6
+p1038,Ostrya,virginiana,Hophornbeam,11
+p1038,Populus,tremuloides,"Aspen, quaking",3
+p1038,Quercus,rubra,"Oak, red",4
+p1038,Rhamnus,cathartica,"Buckthorn, common",29
+p1038,Ulmus,americana,"Elm, American",5
+p1039,Acer,rubrum,"Maple, red",23
+p1039,Acer,saccharum,"Maple, sugar",3
+p1039,Betula,lenta,"Birch, black",26
+p1039,Betula,papyrifera,"Birch, paper",5
+p1039,Carpinus,caroliniana,Musclewood,5
+p1039,Fagus,grandifolia,"Beech, American",2
+p1039,Fraxinus,americana,"Ash, white",4
+p1039,Ostrya,virginiana,Hophornbeam,36
+p1039,Pinus,strobus,"Pine, white",1
+p1039,Populus,tremuloides,"Aspen, quaking",4
+p1039,Quercus,rubra,"Oak, red",2
+p1039,Ulmus,americana,"Elm, American",1
+p1040,Acer,rubrum,"Maple, red",9
+p1040,Acer,saccharum,"Maple, sugar",2
+p1040,Betula,lenta,"Birch, black",1
+p1040,Fraxinus,americana,"Ash, white",45
+p1040,Lonicera,species,Honeysuckle,39
+p1040,Pinus,strobus,"Pine, white",1
+p1040,Prunus,serotina,"Cherry, black",1
+p1040,Rhamnus,cathartica,"Buckthorn, common",21
+p1040,Ulmus,americana,"Elm, American",4
+p1041,Acer,rubrum,"Maple, red",8
+p1041,Acer,saccharum,"Maple, sugar",94
+p1041,Celastrus,scandens,"Bittersweet, climbing",14
+p1041,Cornus,racemosa,"Dogwood, gray",15
+p1041,Crataegus,species,Hawthorn,5
+p1041,Euonymus,alatus,Burning bush,10
+p1041,Fraxinus,americana,"Ash, white",33
+p1041,Lonicera,species,Honeysuckle,19
+p1041,Pinus,strobus,"Pine, white",1
+p1041,Prunus,serotina,"Cherry, black",2
+p1041,Rhamnus,cathartica,"Buckthorn, common",17
+p1041,Ulmus,americana,"Elm, American",48
+p1041,Vitis,species,Grape,39
+p1042,Acer,saccharum,"Maple, sugar",41
+p1042,Betula,lenta,"Birch, black",1
+p1042,Fagus,grandifolia,"Beech, American",31
+p1042,Tilia,americana,"Basswood, American",1
+p1043,Acer,saccharum,"Maple, sugar",62
+p1043,Betula,lenta,"Birch, black",8
+p1043,Carya,cordiformis,Bitternut hickory,1
+p1043,Fagus,grandifolia,"Beech, American",36
+p1043,Fraxinus,americana,"Ash, white",4
+p1043,Ostrya,virginiana,Hophornbeam,2
+p1043,Vitis,species,Grape,45
+p1044,Acer,rubrum,"Maple, red",11
+p1044,Acer,saccharum,"Maple, sugar",36
+p1044,Crataegus,species,Hawthorn,1
+p1044,Fagus,grandifolia,"Beech, American",1
+p1044,Fraxinus,americana,"Ash, white",8
+p1044,Pinus,strobus,"Pine, white",2
+p1044,Prunus,serotina,"Cherry, black",1
+p1044,Vitis,species,Grape,4
+p1045,Acer,rubrum,"Maple, red",9
+p1045,Acer,saccharum,"Maple, sugar",29
+p1045,Carpinus,caroliniana,Musclewood,1
+p1045,Carya,cordiformis,Bitternut hickory,1
+p1045,Fraxinus,americana,"Ash, white",11
+p1045,Ostrya,virginiana,Hophornbeam,1
+p1045,Pinus,strobus,"Pine, white",3
+p1045,Prunus,serotina,"Cherry, black",2
+p1046,Acer,rubrum,"Maple, red",2
+p1046,Acer,saccharum,"Maple, sugar",7
+p1046,Betula,papyrifera,"Birch, paper",1
+p1046,Carpinus,caroliniana,Musclewood,9
+p1046,Fraxinus,americana,"Ash, white",7
+p1046,Hamamelis,virginiana,Witch-hazel,85
+p1046,Lonicera,xylosteum,"Honeysuckle, European fly",1
+p1046,Pinus,strobus,"Pine, white",9
+p1046,Populus,tremuloides,"Aspen, quaking",2
+p1046,Prunus,serotina,"Cherry, black",2
+p1046,Rhamnus,cathartica,"Buckthorn, common",3
+p1046,Ulmus,americana,"Elm, American",31
+p1046,Vitis,species,Grape,39
+p11-1,Acer,pensylvanicum,"Maple, striped",10
+p11-1,Acer,rubrum,"Maple, red",13
+p11-1,Acer,saccharum,"Maple, sugar",22
+p11-1,Amelanchier,canadensis,Shadbush,4
+p11-1,Betula,alleghaniensis,"Birch, yellow",3
+p11-1,Betula,lenta,"Birch, black",1
+p11-1,Fagus,grandifolia,"Beech, American",2
+p11-1,Prunus,serotina,"Cherry, black",25
+p11-1,Quercus,rubra,"Oak, red",4
+p1100,Acer,pensylvanicum,"Maple, striped",24
+p1100,Acer,saccharum,"Maple, sugar",65
+p1100,Betula,alleghaniensis,"Birch, yellow",2
+p1100,Fagus,grandifolia,"Beech, American",41
+p1100,Fraxinus,americana,"Ash, white",1
+p1100,Ostrya,virginiana,Hophornbeam,4
+p1100,Prunus,serotina,"Cherry, black",1
+p1101,Acer,pensylvanicum,"Maple, striped",2
+p1101,Acer,rubrum,"Maple, red",1
+p1101,Acer,saccharum,"Maple, sugar",9
+p1101,Fagus,grandifolia,"Beech, American",239
+p1101,Fraxinus,americana,"Ash, white",3
+p1101,Quercus,rubra,"Oak, red",21
+p1102,Acer,pensylvanicum,"Maple, striped",5
+p1102,Acer,rubrum,"Maple, red",3
+p1102,Acer,saccharum,"Maple, sugar",4
+p1102,Betula,alleghaniensis,"Birch, yellow",1
+p1102,Betula,papyrifera,"Birch, paper",1
+p1102,Fagus,grandifolia,"Beech, American",277
+p1102,Hamamelis,virginiana,Witch-hazel,1
+p1102,Quercus,rubra,"Oak, red",20
+p1103,Acer,pensylvanicum,"Maple, striped",2
+p1103,Acer,rubrum,"Maple, red",11
+p1103,Acer,saccharum,"Maple, sugar",6
+p1103,Betula,alleghaniensis,"Birch, yellow",1
+p1103,Betula,papyrifera,"Birch, paper",6
+p1103,Fagus,grandifolia,"Beech, American",193
+p1103,Quercus,rubra,"Oak, red",24
+p1104,Acer,rubrum,"Maple, red",19
+p1104,Amelanchier,canadensis,Shadbush,53
+p1104,Betula,papyrifera,"Birch, paper",6
+p1104,Fagus,grandifolia,"Beech, American",356
+p1104,Prunus,serotina,"Cherry, black",1
+p1104,Quercus,rubra,"Oak, red",27
+p1105,Acer,pensylvanicum,"Maple, striped",14
+p1105,Acer,saccharum,"Maple, sugar",21
+p1105,Betula,alleghaniensis,"Birch, yellow",3
+p1105,Fagus,grandifolia,"Beech, American",174
+p1106,Acer,pensylvanicum,"Maple, striped",32
+p1106,Acer,rubrum,"Maple, red",2
+p1106,Acer,saccharum,"Maple, sugar",9
+p1106,Betula,alleghaniensis,"Birch, yellow",10
+p1106,Betula,papyrifera,"Birch, paper",13
+p1106,Fagus,grandifolia,"Beech, American",188
+p1106,Quercus,rubra,"Oak, red",6
+p1107,Acer,pensylvanicum,"Maple, striped",34
+p1107,Acer,rubrum,"Maple, red",5
+p1107,Acer,saccharum,"Maple, sugar",2
+p1107,Betula,alleghaniensis,"Birch, yellow",1
+p1107,Betula,papyrifera,"Birch, paper",10
+p1107,Fagus,grandifolia,"Beech, American",281
+p1107,Quercus,rubra,"Oak, red",1
+p1108,Acer,pensylvanicum,"Maple, striped",42
+p1108,Acer,rubrum,"Maple, red",1
+p1108,Acer,saccharum,"Maple, sugar",5
+p1108,Amelanchier,canadensis,Shadbush,2
+p1108,Fagus,grandifolia,"Beech, American",193
+p1108,Quercus,rubra,"Oak, red",6
+p1109,Acer,pensylvanicum,"Maple, striped",31
+p1109,Acer,rubrum,"Maple, red",1
+p1109,Acer,saccharum,"Maple, sugar",3
+p1109,Betula,papyrifera,"Birch, paper",1
+p1109,Fagus,grandifolia,"Beech, American",137
+p1109,Quercus,rubra,"Oak, red",11
+p1110,Acer,pensylvanicum,"Maple, striped",6
+p1110,Acer,saccharum,"Maple, sugar",15
+p1110,Betula,papyrifera,"Birch, paper",1
+p1110,Fagus,grandifolia,"Beech, American",171
+p1110,Quercus,rubra,"Oak, red",9
+p1111,Acer,pensylvanicum,"Maple, striped",28
+p1111,Acer,saccharum,"Maple, sugar",7
+p1111,Betula,lenta,"Birch, black",3
+p1111,Fagus,grandifolia,"Beech, American",130
+p1111,Fraxinus,americana,"Ash, white",2
+p1111,Ostrya,virginiana,Hophornbeam,2
+p1111,Quercus,rubra,"Oak, red",6
+p1112,Acer,pensylvanicum,"Maple, striped",32
+p1112,Acer,rubrum,"Maple, red",1
+p1112,Acer,saccharum,"Maple, sugar",4
+p1112,Betula,lenta,"Birch, black",1
+p1112,Fagus,grandifolia,"Beech, American",218
+p1112,Quercus,rubra,"Oak, red",6
+p1113,Acer,pensylvanicum,"Maple, striped",14
+p1113,Acer,saccharum,"Maple, sugar",5
+p1113,Betula,alleghaniensis,"Birch, yellow",6
+p1113,Betula,lenta,"Birch, black",10
+p1113,Fagus,grandifolia,"Beech, American",154
+p1113,Ostrya,virginiana,Hophornbeam,1
+p1113,Quercus,rubra,"Oak, red",1
+p1114,Acer,pensylvanicum,"Maple, striped",8
+p1114,Acer,rubrum,"Maple, red",2
+p1114,Acer,saccharum,"Maple, sugar",7
+p1114,Betula,lenta,"Birch, black",4
+p1114,Betula,papyrifera,"Birch, paper",2
+p1114,Fagus,grandifolia,"Beech, American",160
+p1114,Fraxinus,americana,"Ash, white",6
+p1114,Ostrya,virginiana,Hophornbeam,3
+p1114,Quercus,rubra,"Oak, red",5
+p1114,Tilia,americana,"Basswood, American",1
+p1115,Acer,pensylvanicum,"Maple, striped",11
+p1115,Acer,rubrum,"Maple, red",14
+p1115,Betula,alleghaniensis,"Birch, yellow",2
+p1115,Betula,lenta,"Birch, black",1
+p1115,Betula,papyrifera,"Birch, paper",1
+p1115,Fagus,grandifolia,"Beech, American",175
+p1115,Fraxinus,americana,"Ash, white",2
+p1115,Ostrya,virginiana,Hophornbeam,1
+p1115,Populus,tremuloides,"Aspen, quaking",1
+p1115,Quercus,rubra,"Oak, red",5
+p1115,Tilia,americana,"Basswood, American",1
+p1116,Acer,pensylvanicum,"Maple, striped",59
+p1116,Acer,rubrum,"Maple, red",11
+p1116,Acer,saccharum,"Maple, sugar",1
+p1116,Amelanchier,canadensis,Shadbush,3
+p1116,Betula,alleghaniensis,"Birch, yellow",12
+p1116,Betula,lenta,"Birch, black",6
+p1116,Fagus,grandifolia,"Beech, American",55
+p1116,Fraxinus,americana,"Ash, white",1
+p1116,Ostrya,virginiana,Hophornbeam,3
+p1116,Populus,grandidentata,"Aspen, big-toothed",1
+p1116,Prunus,serotina,"Cherry, black",2
+p1116,Quercus,rubra,"Oak, red",8
+p1117,Acer,pensylvanicum,"Maple, striped",21
+p1117,Acer,rubrum,"Maple, red",13
+p1117,Acer,saccharum,"Maple, sugar",5
+p1117,Amelanchier,canadensis,Shadbush,6
+p1117,Betula,alleghaniensis,"Birch, yellow",10
+p1117,Betula,papyrifera,"Birch, paper",3
+p1117,Fagus,grandifolia,"Beech, American",104
+p1117,Fraxinus,americana,"Ash, white",1
+p1117,Hamamelis,virginiana,Witch-hazel,43
+p1117,Ostrya,virginiana,Hophornbeam,9
+p1117,Quercus,rubra,"Oak, red",5
+p1117,Ulmus,americana,"Elm, American",2
+p1118,Acer,rubrum,"Maple, red",12
+p1118,Betula,alleghaniensis,"Birch, yellow",4
+p1118,Betula,lenta,"Birch, black",7
+p1118,Betula,papyrifera,"Birch, paper",1
+p1118,Fagus,grandifolia,"Beech, American",99
+p1118,Fraxinus,americana,"Ash, white",1
+p1118,Hamamelis,virginiana,Witch-hazel,16
+p1118,Quercus,rubra,"Oak, red",6
+p1118,Tsuga,canadensis,"Hemlock, eastern",26
+p1119,Acer,pensylvanicum,"Maple, striped",27
+p1119,Acer,rubrum,"Maple, red",13
+p1119,Amelanchier,canadensis,Shadbush,2
+p1119,Betula,alleghaniensis,"Birch, yellow",3
+p1119,Betula,lenta,"Birch, black",2
+p1119,Fagus,grandifolia,"Beech, American",54
+p1119,Hamamelis,virginiana,Witch-hazel,5
+p1119,Quercus,rubra,"Oak, red",7
+p1119,Tsuga,canadensis,"Hemlock, eastern",17
+p1120,Acer,pensylvanicum,"Maple, striped",1
+p1120,Acer,rubrum,"Maple, red",14
+p1120,Amelanchier,canadensis,Shadbush,2
+p1120,Betula,alleghaniensis,"Birch, yellow",9
+p1120,Betula,lenta,"Birch, black",17
+p1120,Betula,papyrifera,"Birch, paper",3
+p1120,Fagus,grandifolia,"Beech, American",181
+p1120,Quercus,rubra,"Oak, red",3
+p1120,Tsuga,canadensis,"Hemlock, eastern",2
+p1121,Acer,pensylvanicum,"Maple, striped",2
+p1121,Acer,rubrum,"Maple, red",17
+p1121,Betula,lenta,"Birch, black",12
+p1121,Betula,papyrifera,"Birch, paper",2
+p1121,Castanea,dentata,American chestnut,1
+p1121,Fagus,grandifolia,"Beech, American",214
+p1121,Ostrya,virginiana,Hophornbeam,1
+p1121,Quercus,rubra,"Oak, red",1
+p1122,Acer,pensylvanicum,"Maple, striped",6
+p1122,Acer,saccharum,"Maple, sugar",10
+p1122,Betula,alleghaniensis,"Birch, yellow",3
+p1122,Betula,lenta,"Birch, black",3
+p1122,Fagus,grandifolia,"Beech, American",126
+p1122,Fraxinus,americana,"Ash, white",3
+p1122,Hamamelis,virginiana,Witch-hazel,9
+p1122,Ostrya,virginiana,Hophornbeam,1
+p1122,Quercus,rubra,"Oak, red",4
+p1123,Acer,pensylvanicum,"Maple, striped",17
+p1123,Acer,rubrum,"Maple, red",2
+p1123,Acer,saccharum,"Maple, sugar",32
+p1123,Amelanchier,canadensis,Shadbush,2
+p1123,Betula,alleghaniensis,"Birch, yellow",2
+p1123,Betula,lenta,"Birch, black",12
+p1123,Carpinus,caroliniana,Musclewood,4
+p1123,Fagus,grandifolia,"Beech, American",15
+p1123,Fraxinus,americana,"Ash, white",12
+p1123,Ostrya,virginiana,Hophornbeam,54
+p1123,Quercus,rubra,"Oak, red",1
+p1124,Acer,pensylvanicum,"Maple, striped",2
+p1124,Acer,rubrum,"Maple, red",12
+p1124,Acer,saccharum,"Maple, sugar",90
+p1124,Betula,alleghaniensis,"Birch, yellow",3
+p1124,Betula,lenta,"Birch, black",3
+p1124,Carya,cordiformis,Bitternut hickory,2
+p1124,Fagus,grandifolia,"Beech, American",2
+p1124,Fraxinus,americana,"Ash, white",5
+p1124,Ostrya,virginiana,Hophornbeam,19
+p1125,Acer,pensylvanicum,"Maple, striped",21
+p1125,Acer,rubrum,"Maple, red",12
+p1125,Acer,saccharum,"Maple, sugar",1
+p1125,Betula,alleghaniensis,"Birch, yellow",2
+p1125,Betula,lenta,"Birch, black",3
+p1125,Fagus,grandifolia,"Beech, American",177
+p1125,Populus,tremuloides,"Aspen, quaking",1
+p1125,Quercus,rubra,"Oak, red",14
+p1126,Acer,pensylvanicum,"Maple, striped",41
+p1126,Acer,rubrum,"Maple, red",3
+p1126,Acer,saccharum,"Maple, sugar",23
+p1126,Betula,alleghaniensis,"Birch, yellow",3
+p1126,Betula,lenta,"Birch, black",2
+p1126,Carpinus,caroliniana,Musclewood,2
+p1126,Fagus,grandifolia,"Beech, American",13
+p1126,Fraxinus,americana,"Ash, white",8
+p1126,Ostrya,virginiana,Hophornbeam,27
+p1127,Acer,pensylvanicum,"Maple, striped",21
+p1127,Acer,rubrum,"Maple, red",1
+p1127,Acer,saccharum,"Maple, sugar",13
+p1127,Betula,lenta,"Birch, black",1
+p1127,Carya,cordiformis,Bitternut hickory,1
+p1127,Fagus,grandifolia,"Beech, American",12
+p1127,Fraxinus,americana,"Ash, white",8
+p1127,Ostrya,virginiana,Hophornbeam,72
+p1127,Quercus,rubra,"Oak, red",7
+p1127,Tilia,americana,"Basswood, American",1
+p1128,Acer,pensylvanicum,"Maple, striped",4
+p1128,Acer,rubrum,"Maple, red",8
+p1128,Acer,saccharum,"Maple, sugar",29
+p1128,Amelanchier,canadensis,Shadbush,1
+p1128,Betula,alleghaniensis,"Birch, yellow",4
+p1128,Betula,lenta,"Birch, black",10
+p1128,Carpinus,caroliniana,Musclewood,1
+p1128,Carya,cordiformis,Bitternut hickory,1
+p1128,Fagus,grandifolia,"Beech, American",43
+p1128,Fraxinus,americana,"Ash, white",5
+p1128,Ostrya,virginiana,Hophornbeam,27
+p1128,Quercus,rubra,"Oak, red",1
+p1129,Acer,pensylvanicum,"Maple, striped",1
+p1129,Acer,rubrum,"Maple, red",1
+p1129,Acer,saccharum,"Maple, sugar",17
+p1129,Betula,alleghaniensis,"Birch, yellow",3
+p1129,Betula,lenta,"Birch, black",3
+p1129,Carpinus,caroliniana,Musclewood,2
+p1129,Fagus,grandifolia,"Beech, American",196
+p1129,Fraxinus,americana,"Ash, white",1
+p1129,Hamamelis,virginiana,Witch-hazel,44
+p1129,Ostrya,virginiana,Hophornbeam,8
+p1129,Vitis,species,Grape,2
+p1130,Acer,rubrum,"Maple, red",12
+p1130,Betula,alleghaniensis,"Birch, yellow",5
+p1130,Betula,lenta,"Birch, black",26
+p1130,Carpinus,caroliniana,Musclewood,10
+p1130,Fagus,grandifolia,"Beech, American",257
+p1130,Fraxinus,americana,"Ash, white",1
+p1130,Ostrya,virginiana,Hophornbeam,2
+p1130,Populus,grandidentata,"Aspen, big-toothed",1
+p1130,Prunus,serotina,"Cherry, black",27
+p1130,Quercus,rubra,"Oak, red",1
+p1131,Acer,pensylvanicum,"Maple, striped",1
+p1131,Acer,rubrum,"Maple, red",20
+p1131,Acer,saccharum,"Maple, sugar",5
+p1131,Amelanchier,canadensis,Shadbush,3
+p1131,Betula,alleghaniensis,"Birch, yellow",2
+p1131,Betula,lenta,"Birch, black",16
+p1131,Betula,papyrifera,"Birch, paper",4
+p1131,Carpinus,caroliniana,Musclewood,10
+p1131,Carya,cordiformis,Bitternut hickory,1
+p1131,Fagus,grandifolia,"Beech, American",191
+p1131,Fraxinus,americana,"Ash, white",6
+p1131,Hamamelis,virginiana,Witch-hazel,2
+p1131,Ostrya,virginiana,Hophornbeam,20
+p1131,Populus,tremuloides,"Aspen, quaking",1
+p1131,Quercus,rubra,"Oak, red",11
+p1132,Acer,rubrum,"Maple, red",36
+p1132,Amelanchier,canadensis,Shadbush,4
+p1132,Betula,lenta,"Birch, black",12
+p1132,Fagus,grandifolia,"Beech, American",218
+p1132,Fraxinus,americana,"Ash, white",1
+p1132,Pinus,strobus,"Pine, white",12
+p1132,Quercus,rubra,"Oak, red",7
+p1133,Acer,pensylvanicum,"Maple, striped",4
+p1133,Acer,rubrum,"Maple, red",64
+p1133,Acer,saccharum,"Maple, sugar",2
+p1133,Amelanchier,canadensis,Shadbush,5
+p1133,Betula,lenta,"Birch, black",1
+p1133,Fagus,grandifolia,"Beech, American",92
+p1133,Frangula,alnus,"Buckthorn, glossy",1
+p1133,Ostrya,virginiana,Hophornbeam,8
+p1133,Prunus,serotina,"Cherry, black",8
+p1133,Quercus,rubra,"Oak, red",3
+p1134,Acer,rubrum,"Maple, red",36
+p1134,Acer,saccharum,"Maple, sugar",2
+p1134,Carpinus,caroliniana,Musclewood,4
+p1134,Fagus,grandifolia,"Beech, American",9
+p1134,Ostrya,virginiana,Hophornbeam,1
+p1134,Picea,hybrid,Plantation spruce,9
+p1134,Populus,tremuloides,"Aspen, quaking",3
+p1134,Prunus,serotina,"Cherry, black",22
+p1134,Quercus,rubra,"Oak, red",6
+p1134,Robinia,pseudo-acacia,"Locust, black",8
+p1134,Vitis,species,Grape,2
+p1135,Acer,pensylvanicum,"Maple, striped",18
+p1135,Acer,rubrum,"Maple, red",8
+p1135,Betula,lenta,"Birch, black",1
+p1135,Carpinus,caroliniana,Musclewood,1
+p1135,Carya,cordiformis,Bitternut hickory,25
+p1135,Fagus,grandifolia,"Beech, American",1
+p1135,Fraxinus,americana,"Ash, white",12
+p1135,Ostrya,virginiana,Hophornbeam,33
+p1135,Populus,tremuloides,"Aspen, quaking",2
+p1135,Quercus,rubra,"Oak, red",2
+p1135,Rhamnus,cathartica,"Buckthorn, common",2
+p1135,Tilia,americana,"Basswood, American",4
+p1136,Acer,pensylvanicum,"Maple, striped",72
+p1136,Acer,rubrum,"Maple, red",40
+p1136,Acer,saccharum,"Maple, sugar",11
+p1136,Betula,lenta,"Birch, black",8
+p1136,Betula,papyrifera,"Birch, paper",8
+p1136,Betula,populifolia,"Birch, gray",2
+p1136,Fagus,grandifolia,"Beech, American",5
+p1136,Fraxinus,americana,"Ash, white",38
+p1136,Ostrya,virginiana,Hophornbeam,5
+p1136,Prunus,serotina,"Cherry, black",2
+p1137,nan,nan,Plot converted to meadow,1
+p1138,nan,nan,Plot converted to meadow,1
+p1139,Acer,saccharum,"Maple, sugar",26
+p1139,Amelanchier,canadensis,Shadbush,4
+p1139,Betula,alleghaniensis,"Birch, yellow",2
+p1139,Betula,lenta,"Birch, black",12
+p1139,Carpinus,caroliniana,Musclewood,10
+p1139,Fagus,grandifolia,"Beech, American",65
+p1139,Fraxinus,americana,"Ash, white",1
+p1139,Ostrya,virginiana,Hophornbeam,3
+p1139,Rhamnus,alnifolia,"Buckthorn, alder-leaved",1
+p1139,Rhamnus,cathartica,"Buckthorn, common",1
+p1139,Tilia,americana,"Basswood, American",1
+p1140,Acer,saccharum,"Maple, sugar",29
+p1140,Betula,lenta,"Birch, black",2
+p1140,Fraxinus,americana,"Ash, white",15
+p1140,Lonicera,morrowii,"Honeysuckle, Morrow's",124
+p1140,Prunus,serotina,"Cherry, black",2
+p1140,Rhamnus,cathartica,"Buckthorn, common",4
+p1140,Ulmus,americana,"Elm, American",4
+p1140,Vitis,species,Grape,9
+p1141,Acer,rubrum,"Maple, red",64
+p1141,Acer,saccharum,"Maple, sugar",63
+p1141,Fagus,grandifolia,"Beech, American",4
+p1141,Fraxinus,americana,"Ash, white",2
+p1141,Pinus,strobus,"Pine, white",4
+p1141,Ulmus,americana,"Elm, American",7
+p1142,Acer,rubrum,"Maple, red",26
+p1142,Acer,saccharum,"Maple, sugar",13
+p1142,Fraxinus,americana,"Ash, white",3
+p1142,Pinus,strobus,"Pine, white",6
+p1142,Prunus,serotina,"Cherry, black",10
+p1142,Ulmus,americana,"Elm, American",11
+p1143,Acer,rubrum,"Maple, red",42
+p1143,Acer,saccharum,"Maple, sugar",6
+p1143,Betula,papyrifera,"Birch, paper",1
+p1143,Fraxinus,americana,"Ash, white",15
+p1143,Picea,abies,"Spruce, Norway",28
+p1143,Pinus,resinosa,"Pine, red",1
+p1143,Pinus,strobus,"Pine, white",6
+p1143,Vitis,species,Grape,7
+p1144,Acer,rubrum,"Maple, red",4
+p1144,Acer,saccharum,"Maple, sugar",43
+p1144,Betula,alleghaniensis,"Birch, yellow",3
+p1144,Carpinus,caroliniana,Musclewood,21
+p1144,Carya,cordiformis,Bitternut hickory,9
+p1144,Celastrus,scandens,"Bittersweet, climbing",5
+p1144,Fagus,grandifolia,"Beech, American",3
+p1144,Fraxinus,americana,"Ash, white",12
+p1144,Juglans,cinerea,Butternut,4
+p1144,Lonicera,morrowii,"Honeysuckle, Morrow's",10
+p1144,Pinus,strobus,"Pine, white",6
+p1144,Prunus,serotina,"Cherry, black",3
+p1144,Quercus,rubra,"Oak, red",2
+p1144,Rhamnus,cathartica,"Buckthorn, common",1
+p1144,Tilia,americana,"Basswood, American",5
+p1144,Ulmus,americana,"Elm, American",2
+p1144,Vitis,species,Grape,13
+p1145,Acer,pensylvanicum,"Maple, striped",2
+p1145,Acer,rubrum,"Maple, red",15
+p1145,Acer,saccharum,"Maple, sugar",21
+p1145,Betula,lenta,"Birch, black",44
+p1145,Carpinus,caroliniana,Musclewood,1
+p1145,Carya,cordiformis,Bitternut hickory,2
+p1145,Euonymus,alatus,Burning bush,1
+p1145,Fagus,grandifolia,"Beech, American",8
+p1145,Fraxinus,americana,"Ash, white",3
+p1145,Hamamelis,virginiana,Witch-hazel,1
+p1145,Pinus,strobus,"Pine, white",36
+p1145,Prunus,serotina,"Cherry, black",7
+p1145,Quercus,rubra,"Oak, red",1
+p12-1,Acer,rubrum,"Maple, red",7
+p12-1,Amelanchier,canadensis,Shadbush,1
+p12-1,Betula,alleghaniensis,"Birch, yellow",5
+p12-1,Fagus,grandifolia,"Beech, American",244
+p12-1,Picea,rubens,"Spruce, red",1
+p12-1,Quercus,rubra,"Oak, red",5
+p12-1,Quercus,velutina,"Oak, black",5
+p12-2,Acer,rubrum,"Maple, red",4
+p12-2,Acer,saccharum,"Maple, sugar",1
+p12-2,Betula,papyrifera,"Birch, paper",4
+p12-2,Fagus,grandifolia,"Beech, American",292
+p12-2,Hamamelis,virginiana,Witch-hazel,33
+p12-2,Prunus,serotina,"Cherry, black",1
+p12-2,Quercus,rubra,"Oak, red",12
+p12-2,Quercus,velutina,"Oak, black",3
+p12-3,Acer,pensylvanicum,"Maple, striped",4
+p12-3,Acer,rubrum,"Maple, red",44
+p12-3,Acer,saccharum,"Maple, sugar",8
+p12-3,Amelanchier,canadensis,Shadbush,49
+p12-3,Betula,papyrifera,"Birch, paper",33
+p12-3,Betula,populifolia,"Birch, gray",12
+p12-3,Fagus,grandifolia,"Beech, American",8
+p12-3,Frangula,alnus,"Buckthorn, glossy",1
+p12-3,Fraxinus,americana,"Ash, white",2
+p12-3,Prunus,pensylvanica,"Cherry, pin",16
+p12-3,Prunus,serotina,"Cherry, black",22
+p12-3,Quercus,rubra,"Oak, red",40
+p12-3,Sorbus,americana,"Ash, American mountain",7
+p12-3,Viburnum,nudum Var. cassinoides,Withe-rod,4
+p1204,Acer,pensylvanicum,"Maple, striped",1
+p1204,Acer,rubrum,"Maple, red",23
+p1204,Amelanchier,canadensis,Shadbush,113
+p1204,Betula,lenta,"Birch, black",5
+p1204,Castanea,dentata,American chestnut,12
+p1204,Fagus,grandifolia,"Beech, American",262
+p1204,Ilex,mucronata,"Holly, mountain",7
+p1204,Quercus,rubra,"Oak, red",74
+p1204,Sorbus,americana,"Ash, American mountain",1
+p1205,Acer,rubrum,"Maple, red",19
+p1205,Amelanchier,canadensis,Shadbush,103
+p1205,Betula,alleghaniensis,"Birch, yellow",7
+p1205,Betula,papyrifera,"Birch, paper",45
+p1205,Betula,populifolia,"Birch, gray",4
+p1205,Castanea,dentata,American chestnut,2
+p1205,Fagus,grandifolia,"Beech, American",68
+p1205,Ilex,mucronata,"Holly, mountain",19
+p1205,Pinus,strobus,"Pine, white",1
+p1205,Quercus,rubra,"Oak, red",51
+p1205,Rhododendron,prinophyllum,"Azalea, early",5
+p1206,Acer,rubrum,"Maple, red",51
+p1206,Amelanchier,canadensis,Shadbush,31
+p1206,Betula,alleghaniensis,"Birch, yellow",2
+p1206,Betula,papyrifera,"Birch, paper",4
+p1206,Fagus,grandifolia,"Beech, American",304
+p1206,Ilex,mucronata,"Holly, mountain",4
+p1206,Quercus,rubra,"Oak, red",34
+p1207,Acer,pensylvanicum,"Maple, striped",25
+p1207,Betula,alleghaniensis,"Birch, yellow",1
+p1207,Fagus,grandifolia,"Beech, American",188
+p1207,Fraxinus,americana,"Ash, white",2
+p1207,Quercus,rubra,"Oak, red",13
+p1208,Acer,pensylvanicum,"Maple, striped",20
+p1208,Acer,saccharum,"Maple, sugar",8
+p1208,Betula,papyrifera,"Birch, paper",2
+p1208,Fagus,grandifolia,"Beech, American",90
+p1208,Quercus,rubra,"Oak, red",6
+p1209,Acer,pensylvanicum,"Maple, striped",19
+p1209,Acer,saccharum,"Maple, sugar",14
+p1209,Betula,alleghaniensis,"Birch, yellow",2
+p1209,Betula,papyrifera,"Birch, paper",2
+p1209,Fagus,grandifolia,"Beech, American",93
+p1209,Fraxinus,americana,"Ash, white",1
+p1209,Quercus,rubra,"Oak, red",3
+p1210,Acer,pensylvanicum,"Maple, striped",17
+p1210,Acer,rubrum,"Maple, red",1
+p1210,Acer,saccharum,"Maple, sugar",2
+p1210,Betula,lenta,"Birch, black",1
+p1210,Fagus,grandifolia,"Beech, American",172
+p1210,Quercus,rubra,"Oak, red",2
+p1211,Acer,pensylvanicum,"Maple, striped",17
+p1211,Acer,saccharum,"Maple, sugar",8
+p1211,Fagus,grandifolia,"Beech, American",80
+p1211,Fraxinus,americana,"Ash, white",2
+p1211,Quercus,rubra,"Oak, red",8
+p1212,Acer,pensylvanicum,"Maple, striped",25
+p1212,Acer,saccharum,"Maple, sugar",7
+p1212,Betula,alleghaniensis,"Birch, yellow",1
+p1212,Betula,papyrifera,"Birch, paper",1
+p1212,Fagus,grandifolia,"Beech, American",115
+p1212,Quercus,rubra,"Oak, red",3
+p1213,Acer,pensylvanicum,"Maple, striped",41
+p1213,Acer,rubrum,"Maple, red",4
+p1213,Acer,saccharum,"Maple, sugar",2
+p1213,Betula,alleghaniensis,"Birch, yellow",8
+p1213,Betula,lenta,"Birch, black",15
+p1213,Betula,papyrifera,"Birch, paper",2
+p1213,Castanea,dentata,American chestnut,1
+p1213,Fagus,grandifolia,"Beech, American",61
+p1213,Ostrya,virginiana,Hophornbeam,3
+p1213,Quercus,rubra,"Oak, red",1
+p1214,Acer,pensylvanicum,"Maple, striped",30
+p1214,Acer,rubrum,"Maple, red",11
+p1214,Acer,saccharum,"Maple, sugar",1
+p1214,Betula,lenta,"Birch, black",11
+p1214,Betula,papyrifera,"Birch, paper",1
+p1214,Fagus,grandifolia,"Beech, American",112
+p1214,Fraxinus,americana,"Ash, white",3
+p1214,Ostrya,virginiana,Hophornbeam,1
+p1214,Picea,rubens,"Spruce, red",1
+p1214,Quercus,rubra,"Oak, red",2
+p1215,Acer,pensylvanicum,"Maple, striped",38
+p1215,Acer,rubrum,"Maple, red",21
+p1215,Amelanchier,canadensis,Shadbush,4
+p1215,Betula,alleghaniensis,"Birch, yellow",9
+p1215,Betula,lenta,"Birch, black",5
+p1215,Fagus,grandifolia,"Beech, American",74
+p1215,Fraxinus,americana,"Ash, white",2
+p1215,Hamamelis,virginiana,Witch-hazel,1
+p1215,Ostrya,virginiana,Hophornbeam,1
+p1215,Prunus,serotina,"Cherry, black",5
+p1215,Quercus,rubra,"Oak, red",17
+p1216,Acer,pensylvanicum,"Maple, striped",49
+p1216,Acer,rubrum,"Maple, red",21
+p1216,Acer,saccharum,"Maple, sugar",8
+p1216,Amelanchier,canadensis,Shadbush,6
+p1216,Betula,alleghaniensis,"Birch, yellow",6
+p1216,Fagus,grandifolia,"Beech, American",30
+p1216,Populus,grandidentata,"Aspen, big-toothed",1
+p1216,Prunus,serotina,"Cherry, black",1
+p1217,Acer,pensylvanicum,"Maple, striped",65
+p1217,Acer,rubrum,"Maple, red",7
+p1217,Acer,saccharum,"Maple, sugar",33
+p1217,Betula,alleghaniensis,"Birch, yellow",4
+p1217,Betula,lenta,"Birch, black",2
+p1217,Betula,papyrifera,"Birch, paper",2
+p1217,Fagus,grandifolia,"Beech, American",19
+p1217,Fraxinus,americana,"Ash, white",2
+p1217,Quercus,rubra,"Oak, red",3
+p1218,Acer,pensylvanicum,"Maple, striped",93
+p1218,Acer,rubrum,"Maple, red",20
+p1218,Acer,saccharum,"Maple, sugar",8
+p1218,Amelanchier,canadensis,Shadbush,1
+p1218,Betula,alleghaniensis,"Birch, yellow",7
+p1218,Betula,papyrifera,"Birch, paper",2
+p1218,Fagus,grandifolia,"Beech, American",32
+p1218,Fraxinus,americana,"Ash, white",4
+p1218,Ostrya,virginiana,Hophornbeam,1
+p1218,Populus,grandidentata,"Aspen, big-toothed",3
+p1218,Prunus,serotina,"Cherry, black",2
+p1218,Quercus,rubra,"Oak, red",3
+p1219,Acer,pensylvanicum,"Maple, striped",1
+p1219,Acer,rubrum,"Maple, red",25
+p1219,Amelanchier,canadensis,Shadbush,2
+p1219,Betula,alleghaniensis,"Birch, yellow",2
+p1219,Betula,lenta,"Birch, black",26
+p1219,Betula,papyrifera,"Birch, paper",2
+p1219,Carpinus,caroliniana,Musclewood,1
+p1219,Fagus,grandifolia,"Beech, American",65
+p1219,Picea,rubens,"Spruce, red",1
+p1219,Prunus,serotina,"Cherry, black",1
+p1219,Quercus,rubra,"Oak, red",3
+p1225,Acer,pensylvanicum,"Maple, striped",86
+p1225,Acer,rubrum,"Maple, red",2
+p1225,Acer,saccharum,"Maple, sugar",34
+p1225,Betula,lenta,"Birch, black",3
+p1225,Betula,papyrifera,"Birch, paper",3
+p1225,Fagus,grandifolia,"Beech, American",34
+p1225,Fraxinus,americana,"Ash, white",7
+p1225,Ostrya,virginiana,Hophornbeam,26
+p1225,Prunus,serotina,"Cherry, black",1
+p1225,Quercus,rubra,"Oak, red",15
+p1226,Acer,pensylvanicum,"Maple, striped",9
+p1226,Acer,saccharum,"Maple, sugar",21
+p1226,Fagus,grandifolia,"Beech, American",6
+p1226,Fraxinus,americana,"Ash, white",4
+p1226,Ostrya,virginiana,Hophornbeam,59
+p1226,Quercus,rubra,"Oak, red",5
+p1227,Acer,pensylvanicum,"Maple, striped",14
+p1227,Acer,rubrum,"Maple, red",1
+p1227,Acer,saccharum,"Maple, sugar",62
+p1227,Amelanchier,canadensis,Shadbush,1
+p1227,Betula,alleghaniensis,"Birch, yellow",1
+p1227,Betula,lenta,"Birch, black",2
+p1227,Fagus,grandifolia,"Beech, American",2
+p1227,Fraxinus,americana,"Ash, white",9
+p1227,Ostrya,virginiana,Hophornbeam,22
+p1228,Acer,pensylvanicum,"Maple, striped",29
+p1228,Acer,rubrum,"Maple, red",1
+p1228,Acer,saccharum,"Maple, sugar",76
+p1228,Betula,lenta,"Birch, black",8
+p1228,Carya,cordiformis,Bitternut hickory,3
+p1228,Fagus,grandifolia,"Beech, American",9
+p1228,Ostrya,virginiana,Hophornbeam,18
+p1228,Prunus,serotina,"Cherry, black",1
+p1228,Quercus,rubra,"Oak, red",1
+p1229,Acer,pensylvanicum,"Maple, striped",2
+p1229,Acer,rubrum,"Maple, red",8
+p1229,Acer,saccharum,"Maple, sugar",6
+p1229,Amelanchier,canadensis,Shadbush,1
+p1229,Betula,lenta,"Birch, black",3
+p1229,Betula,papyrifera,"Birch, paper",1
+p1229,Carpinus,caroliniana,Musclewood,7
+p1229,Carya,cordiformis,Bitternut hickory,10
+p1229,Fagus,grandifolia,"Beech, American",8
+p1229,Fraxinus,americana,"Ash, white",43
+p1229,Lonicera,morrowii,"Honeysuckle, Morrow's",120
+p1229,Lonicera,tatarica,"Honeysuckle, Tartarian",1
+p1229,Prunus,serotina,"Cherry, black",4
+p1229,Quercus,rubra,"Oak, red",3
+p1229,Rhamnus,cathartica,"Buckthorn, common",9
+p1229,Viburnum,lentago,Nannyberry,12
+p1230,Acer,rubrum,"Maple, red",2
+p1230,Acer,saccharum,"Maple, sugar",49
+p1230,Betula,alleghaniensis,"Birch, yellow",1
+p1230,Carpinus,caroliniana,Musclewood,28
+p1230,Crataegus,species,Hawthorn,1
+p1230,Fagus,grandifolia,"Beech, American",3
+p1230,Fraxinus,americana,"Ash, white",30
+p1230,Lonicera,morrowii,"Honeysuckle, Morrow's",16
+p1230,Ostrya,virginiana,Hophornbeam,7
+p1231,Acer,rubrum,"Maple, red",1
+p1231,Acer,saccharum,"Maple, sugar",22
+p1231,Betula,alleghaniensis,"Birch, yellow",5
+p1231,Betula,lenta,"Birch, black",3
+p1231,Carpinus,caroliniana,Musclewood,48
+p1231,Fagus,grandifolia,"Beech, American",48
+p1231,Fraxinus,americana,"Ash, white",1
+p1231,Hamamelis,virginiana,Witch-hazel,41
+p1231,Lonicera,morrowii,"Honeysuckle, Morrow's",9
+p1231,Ostrya,virginiana,Hophornbeam,9
+p1231,Quercus,rubra,"Oak, red",1
+p1231,Tilia,americana,"Basswood, American",1
+p1231,Ulmus,americana,"Elm, American",4
+p1232,Acer,pensylvanicum,"Maple, striped",2
+p1232,Acer,rubrum,"Maple, red",3
+p1232,Acer,saccharum,"Maple, sugar",9
+p1232,Amelanchier,canadensis,Shadbush,2
+p1232,Betula,alleghaniensis,"Birch, yellow",1
+p1232,Betula,lenta,"Birch, black",1
+p1232,Carpinus,caroliniana,Musclewood,39
+p1232,Fraxinus,americana,"Ash, white",42
+p1232,Lonicera,xylosteum,"Honeysuckle, European fly",83
+p1232,Ostrya,virginiana,Hophornbeam,1
+p1232,Rhamnus,cathartica,"Buckthorn, common",9
+p1232,Ulmus,americana,"Elm, American",1
+p1233,Acer,pensylvanicum,"Maple, striped",1
+p1233,Acer,rubrum,"Maple, red",33
+p1233,Carpinus,caroliniana,Musclewood,1
+p1233,Fagus,grandifolia,"Beech, American",45
+p1233,Fraxinus,americana,"Ash, white",5
+p1233,Ostrya,virginiana,Hophornbeam,1
+p1233,Prunus,serotina,"Cherry, black",2
+p1234,Acer,rubrum,"Maple, red",25
+p1234,Amelanchier,canadensis,Shadbush,2
+p1234,Betula,lenta,"Birch, black",13
+p1234,Fagus,grandifolia,"Beech, American",160
+p1234,Quercus,rubra,"Oak, red",23
+p1235,Acer,pensylvanicum,"Maple, striped",43
+p1235,Acer,rubrum,"Maple, red",34
+p1235,Acer,saccharum,"Maple, sugar",28
+p1235,Betula,lenta,"Birch, black",2
+p1235,Betula,papyrifera,"Birch, paper",20
+p1235,Carpinus,caroliniana,Musclewood,4
+p1235,Fagus,grandifolia,"Beech, American",92
+p1235,Frangula,alnus,"Buckthorn, glossy",1
+p1235,Fraxinus,americana,"Ash, white",6
+p1235,Populus,tremuloides,"Aspen, quaking",2
+p1235,Prunus,serotina,"Cherry, black",2
+p1236,Acer,pensylvanicum,"Maple, striped",15
+p1236,Acer,rubrum,"Maple, red",81
+p1236,Amelanchier,canadensis,Shadbush,1
+p1236,Betula,alleghaniensis,"Birch, yellow",3
+p1236,Betula,lenta,"Birch, black",1
+p1236,Betula,papyrifera,"Birch, paper",7
+p1236,Fagus,grandifolia,"Beech, American",32
+p1236,Frangula,alnus,"Buckthorn, glossy",1
+p1236,Ostrya,virginiana,Hophornbeam,1
+p1236,Populus,grandidentata,"Aspen, big-toothed",1
+p1236,Prunus,serotina,"Cherry, black",2
+p1236,Quercus,rubra,"Oak, red",14
+p1236,Symplocos,paniculata,Saphireberry,1
+p1237,Acer,pensylvanicum,"Maple, striped",3
+p1237,Acer,rubrum,"Maple, red",8
+p1237,Acer,saccharum,"Maple, sugar",24
+p1237,Amelanchier,canadensis,Shadbush,1
+p1237,Betula,lenta,"Birch, black",12
+p1237,Carya,cordiformis,Bitternut hickory,8
+p1237,Frangula,alnus,"Buckthorn, glossy",30
+p1237,Fraxinus,americana,"Ash, white",23
+p1237,Lonicera,morrowii,"Honeysuckle, Morrow's",23
+p1237,Ostrya,virginiana,Hophornbeam,1
+p1237,Populus,species,Poplar species,1
+p1237,Prunus,serotina,"Cherry, black",4
+p1237,Quercus,rubra,"Oak, red",12
+p1237,Vitis,species,Grape,27
+p1238,Acer,pensylvanicum,"Maple, striped",33
+p1238,Acer,rubrum,"Maple, red",2
+p1238,Acer,saccharum,"Maple, sugar",29
+p1238,Amelanchier,canadensis,Shadbush,2
+p1238,Betula,lenta,"Birch, black",12
+p1238,Carya,cordiformis,Bitternut hickory,4
+p1238,Celastrus,scandens,"Bittersweet, climbing",1
+p1238,Fagus,grandifolia,"Beech, American",3
+p1238,Fraxinus,americana,"Ash, white",7
+p1238,Quercus,rubra,"Oak, red",13
+p1238,Ulmus,species,Elm,5
+p1239,Acer,negundo,Box-elder,1
+p1239,Acer,platanoides,"Maple, Norway",12
+p1239,Acer,saccharum,"Maple, sugar",71
+p1239,Betula,alleghaniensis,"Birch, yellow",3
+p1239,Betula,lenta,"Birch, black",3
+p1239,Fraxinus,americana,"Ash, white",1
+p1239,Populus,hybrid,"Poplar, hybrid in plantation",5
+p1239,Sambucus,racemosa,"Elderberry, red",2
+p1312,Acer,pensylvanicum,"Maple, striped",52
+p1312,Acer,saccharum,"Maple, sugar",7
+p1312,Betula,alleghaniensis,"Birch, yellow",1
+p1312,Betula,papyrifera,"Birch, paper",2
+p1312,Fagus,grandifolia,"Beech, American",219
+p1312,Quercus,rubra,"Oak, red",14
+p1313,Acer,pensylvanicum,"Maple, striped",39
+p1313,Acer,rubrum,"Maple, red",23
+p1313,Acer,saccharum,"Maple, sugar",3
+p1313,Betula,lenta,"Birch, black",2
+p1313,Betula,papyrifera,"Birch, paper",6
+p1313,Fagus,grandifolia,"Beech, American",123
+p1313,Fraxinus,americana,"Ash, white",1
+p1313,Quercus,rubra,"Oak, red",12
+p1314,Acer,pensylvanicum,"Maple, striped",44
+p1314,Acer,saccharum,"Maple, sugar",5
+p1314,Amelanchier,canadensis,Shadbush,2
+p1314,Betula,lenta,"Birch, black",5
+p1314,Betula,papyrifera,"Birch, paper",4
+p1314,Fagus,grandifolia,"Beech, American",121
+p1314,Fraxinus,americana,"Ash, white",1
+p1314,Quercus,rubra,"Oak, red",13
+p1315,Acer,pensylvanicum,"Maple, striped",19
+p1315,Acer,rubrum,"Maple, red",22
+p1315,Acer,saccharum,"Maple, sugar",5
+p1315,Betula,lenta,"Birch, black",8
+p1315,Betula,papyrifera,"Birch, paper",12
+p1315,Fagus,grandifolia,"Beech, American",92
+p1315,Fraxinus,americana,"Ash, white",4
+p1315,Ostrya,virginiana,Hophornbeam,1
+p1315,Picea,rubens,"Spruce, red",1
+p1315,Quercus,rubra,"Oak, red",4
+p1316,Acer,pensylvanicum,"Maple, striped",54
+p1316,Acer,rubrum,"Maple, red",32
+p1316,Acer,saccharum,"Maple, sugar",18
+p1316,Betula,alleghaniensis,"Birch, yellow",2
+p1316,Fagus,grandifolia,"Beech, American",2
+p1316,Fraxinus,americana,"Ash, white",6
+p1316,Ostrya,virginiana,Hophornbeam,11
+p1316,Populus,grandidentata,"Aspen, big-toothed",1
+p1316,Quercus,rubra,"Oak, red",3
+p1317,Acer,pensylvanicum,"Maple, striped",6
+p1317,Acer,rubrum,"Maple, red",15
+p1317,Acer,saccharum,"Maple, sugar",1
+p1317,Amelanchier,canadensis,Shadbush,2
+p1317,Betula,alleghaniensis,"Birch, yellow",15
+p1317,Betula,papyrifera,"Birch, paper",4
+p1317,Fagus,grandifolia,"Beech, American",27
+p1317,Fraxinus,americana,"Ash, white",1
+p1317,Prunus,serotina,"Cherry, black",8
+p1317,Quercus,rubra,"Oak, red",4
+p1333,Acer,pensylvanicum,"Maple, striped",5
+p1333,Acer,rubrum,"Maple, red",6
+p1333,Acer,saccharum,"Maple, sugar",249
+p1333,Amelanchier,canadensis,Shadbush,1
+p1333,Betula,lenta,"Birch, black",4
+p1333,Carpinus,caroliniana,Musclewood,2
+p1333,Carya,cordiformis,Bitternut hickory,9
+p1333,Fagus,grandifolia,"Beech, American",7
+p1333,Fraxinus,americana,"Ash, white",31
+p1333,Prunus,serotina,"Cherry, black",2
+p1333,Quercus,rubra,"Oak, red",2
+p1333,Rhamnus,cathartica,"Buckthorn, common",1
+p1333,Ulmus,americana,"Elm, American",1
+p1337,Acer,pensylvanicum,"Maple, striped",33
+p1337,Acer,rubrum,"Maple, red",31
+p1337,Acer,saccharum,"Maple, sugar",8
+p1337,Amelanchier,canadensis,Shadbush,1
+p1337,Betula,lenta,"Birch, black",3
+p1337,Carya,cordiformis,Bitternut hickory,1
+p1337,Fagus,grandifolia,"Beech, American",2
+p1337,Frangula,alnus,"Buckthorn, glossy",2
+p1337,Fraxinus,americana,"Ash, white",2
+p1337,Prunus,serotina,"Cherry, black",10
+p1337,Quercus,rubra,"Oak, red",1
+p1337,Vitis,species,Grape,1
+p1338,Acer,pensylvanicum,"Maple, striped",3
+p1338,Acer,rubrum,"Maple, red",31
+p1338,Acer,saccharum,"Maple, sugar",2
+p1338,Crataegus,species,Hawthorn,3
+p1338,Euonymus,alatus,Burning bush,1
+p1338,Fraxinus,americana,"Ash, white",11
+p1338,Lonicera,morrowii,"Honeysuckle, Morrow's",2
+p1338,Prunus,serotina,"Cherry, black",9
+p1338,Quercus,rubra,"Oak, red",1
+p1338,Vitis,species,Grape,4
+p1339,Acer,rubrum,"Maple, red",22
+p1339,Acer,saccharum,"Maple, sugar",1
+p1339,Betula,papyrifera,"Birch, paper",5
+p1339,Celastrus,orbiculatus,"Bittersweet, Asiatic",1
+p1339,Frangula,alnus,"Buckthorn, glossy",1
+p1339,Fraxinus,americana,"Ash, white",18
+p1339,Lonicera,morrowii,"Honeysuckle, Morrow's",14
+p1339,Lonicera,xylosteum,"Honeysuckle, European fly",4
+p1339,Pinus,strobus,"Pine, white",8
+p1339,Prunus,serotina,"Cherry, black",9
+p1339,Quercus,rubra,"Oak, red",1
+p1339,Robinia,pseudo-acacia,"Locust, black",10
+p1339,Ulmus,species,Elm,3
+p1339,Vitis,species,Grape,4
